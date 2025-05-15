@@ -1,0 +1,1001 @@
+CustomerID,Gender,Age,Location,PreferredStyle,PurchaseFrequency,AverageBasketValue,LastPurchaseDate,SignupDate,DeviceUsed,ReturnRate,LoyaltyTier,Rating
+FASH1000,Male,29,North Judithbury,Sporty,5,3696,2024-12-09,2024-05-19,Mobile,0.07,Bronze,4
+FASH1001,Other,33,East Jill,Ethnic,3,1860,2025-03-01,2024-04-05,Desktop,0.13,Platinum,5
+FASH1002,Female,41,New Roberttown,Streetwear,0,840,2024-12-18,2024-09-28,Desktop,0.26,Silver,3
+FASH1003,Female,36,East Jessetown,Streetwear,8,1062,2025-04-23,2023-09-20,Tablet,0.36,Silver,4
+FASH1004,Male,25,Lake Debra,Streetwear,2,3499,2025-04-18,2023-08-09,Mobile,0.17,Gold,4
+FASH1005,Male,48,Robinsonshire,Formal,4,1693,2025-05-02,2023-08-24,Desktop,0.08,Silver,4
+FASH1006,Male,38,Lisatown,Sporty,4,3610,2025-02-15,2024-11-04,Mobile,0.03,Bronze,2
+FASH1007,Female,34,Lake Roberto,Streetwear,5,568,2025-02-25,2023-06-28,Tablet,0.33,Silver,4
+FASH1008,Female,40,Ericmouth,Streetwear,4,2928,2025-01-11,2023-09-14,Mobile,0.25,Platinum,1
+FASH1009,Female,54,North Noahstad,Formal,3,4098,2024-12-16,2023-08-02,Tablet,0.77,Silver,4
+FASH1010,Male,33,Cassandraton,Formal,2,2872,2025-02-15,2024-04-01,Mobile,0.17,Silver,5
+FASH1011,Other,23,Herrerafurt,Streetwear,8,1343,2024-11-19,2024-08-14,Mobile,0.44,Platinum,3
+FASH1012,Female,25,New Kellystad,Casual,4,1073,2024-11-29,2024-05-22,Tablet,0.17,Gold,2
+FASH1013,Male,42,Lake Chad,Streetwear,5,4714,2024-11-22,2024-07-28,Desktop,0.11,Silver,3
+FASH1014,Male,35,Port Keith,Streetwear,5,3096,2024-12-27,2024-10-21,Desktop,0.16,Gold,4
+FASH1015,Male,42,Port Jesseville,Formal,7,1978,2025-03-08,2024-04-18,Desktop,0.51,Platinum,5
+FASH1016,Male,29,Ramirezstad,Formal,5,2573,2024-12-24,2023-10-01,Mobile,0.15,Platinum,4
+FASH1017,Female,32,West Michael,Streetwear,8,2013,2024-11-15,2024-08-30,Mobile,0.37,Platinum,2
+FASH1018,Male,43,Jacquelineland,Streetwear,5,1468,2025-02-22,2024-03-03,Desktop,0.25,Silver,4
+FASH1019,Male,58,New Jessica,Streetwear,4,2696,2025-02-12,2024-02-16,Mobile,0.1,Bronze,4
+FASH1020,Female,43,South Noah,Formal,6,2011,2024-11-12,2024-08-30,Mobile,0.18,Bronze,3
+FASH1021,Male,49,Lake Mark,Streetwear,5,1154,2025-01-15,2023-06-05,Desktop,0.09,Bronze,4
+FASH1022,Male,27,East Lydiamouth,Streetwear,1,3492,2025-05-09,2024-10-26,Tablet,0.09,Platinum,3
+FASH1023,Male,33,Adamsborough,Ethnic,7,792,2025-03-11,2023-08-23,Mobile,0.08,Gold,4
+FASH1024,Female,24,Jasonfort,Casual,4,3101,2024-12-21,2024-05-23,Mobile,0.29,Silver,3
+FASH1025,Female,34,Wilkersonmouth,Sporty,4,4912,2025-04-17,2024-05-27,Mobile,0.49,Silver,3
+FASH1026,Male,40,West Donald,Casual,4,4993,2024-12-07,2023-08-09,Mobile,0.12,Bronze,5
+FASH1027,Female,43,Juliechester,Ethnic,6,2088,2025-01-17,2024-03-28,Tablet,0.37,Silver,4
+FASH1028,Female,38,Coxberg,Sporty,6,1095,2025-03-31,2024-04-20,Desktop,0.08,Gold,3
+FASH1029,Male,39,Daviston,Streetwear,4,3093,2024-12-16,2023-06-18,Mobile,0.23,Silver,5
+FASH1030,Female,24,East Courtneychester,Ethnic,5,2623,2025-05-09,2023-07-02,Desktop,0.3,Bronze,4
+FASH1031,Male,31,South Patrickmouth,Streetwear,4,2443,2025-04-16,2023-12-03,Mobile,0.49,Silver,3
+FASH1032,Male,32,Tashatown,Formal,4,1415,2025-04-24,2024-10-03,Tablet,0.14,Bronze,4
+FASH1033,Female,24,Lake Nicoleview,Ethnic,8,4369,2025-04-29,2024-01-13,Desktop,0.34,Platinum,5
+FASH1034,Other,26,Danielchester,Formal,4,3294,2025-01-13,2023-05-23,Tablet,0.25,Bronze,4
+FASH1035,Female,25,South Aaron,Ethnic,7,3578,2024-11-23,2024-11-11,Mobile,0.19,Platinum,3
+FASH1036,Male,40,Teresaburgh,Ethnic,7,1475,2024-11-16,2024-10-21,Tablet,0.03,Bronze,4
+FASH1037,Male,46,Port Colleenhaven,Formal,9,1575,2024-12-10,2024-06-24,Tablet,0.1,Bronze,4
+FASH1038,Female,35,East Nathaniel,Sporty,6,3489,2025-03-05,2024-08-03,Mobile,0.13,Silver,5
+FASH1039,Male,48,New Stephanie,Casual,5,3967,2025-03-28,2024-07-25,Mobile,0.06,Gold,3
+FASH1040,Male,47,New Mariotown,Streetwear,10,1951,2025-05-09,2023-11-03,Desktop,0.32,Silver,4
+FASH1041,Female,56,West Natashaport,Ethnic,8,4323,2024-12-09,2024-10-15,Mobile,0.14,Bronze,1
+FASH1042,Male,52,North John,Streetwear,5,4432,2025-04-11,2024-01-31,Desktop,0.13,Bronze,4
+FASH1043,Female,35,North Jessicaland,Formal,6,2528,2024-12-03,2024-06-20,Tablet,0.13,Silver,5
+FASH1044,Male,59,East Donna,Streetwear,1,862,2025-04-25,2024-06-23,Tablet,0.04,Bronze,3
+FASH1045,Female,56,West Allison,Formal,10,2929,2025-02-22,2024-10-29,Desktop,0.31,Bronze,3
+FASH1046,Male,34,Brandtside,Streetwear,10,4132,2025-04-28,2024-11-08,Mobile,0.47,Silver,4
+FASH1047,Female,31,Lake Larry,Casual,3,2818,2025-01-21,2024-09-05,Mobile,0.77,Bronze,4
+FASH1048,Female,48,Samuelhaven,Casual,6,3585,2024-11-26,2023-07-26,Tablet,0.14,Bronze,3
+FASH1049,Male,41,Martinezbury,Casual,8,2845,2025-01-23,2024-04-14,Desktop,0.37,Bronze,4
+FASH1050,Other,52,West Andrewside,Casual,1,4098,2025-03-28,2024-10-08,Tablet,0.17,Platinum,5
+FASH1051,Female,51,New Jeffrey,Casual,7,4829,2025-05-13,2023-11-23,Tablet,0.39,Bronze,4
+FASH1052,Female,20,Lake Crystalbury,Casual,6,2231,2025-03-20,2024-05-22,Mobile,0.21,Platinum,4
+FASH1053,Female,54,North Micheleland,Formal,5,526,2025-01-27,2024-02-06,Desktop,0.24,Bronze,3
+FASH1054,Female,57,West Elizabeth,Ethnic,5,592,2025-03-05,2024-10-10,Tablet,0.24,Gold,5
+FASH1055,Female,43,New David,Streetwear,8,3164,2024-12-01,2024-10-20,Mobile,0.27,Bronze,3
+FASH1056,Male,40,Sanchezfort,Casual,2,808,2025-01-16,2024-09-23,Tablet,0.47,Silver,3
+FASH1057,Male,56,Leeville,Formal,5,551,2025-01-09,2024-03-07,Tablet,0.14,Gold,3
+FASH1058,Male,32,Gomezchester,Formal,5,818,2025-01-13,2023-09-06,Mobile,0.25,Gold,4
+FASH1059,Male,21,Shieldston,Formal,3,2492,2024-12-08,2024-07-20,Mobile,0.14,Gold,5
+FASH1060,Male,46,North Richardmouth,Ethnic,5,4776,2024-12-12,2024-09-01,Desktop,0.22,Gold,2
+FASH1061,Male,39,East Jamesside,Streetwear,4,4391,2025-04-03,2023-06-25,Tablet,0.25,Bronze,5
+FASH1062,Female,42,Taylorburgh,Ethnic,3,4456,2025-02-04,2023-05-23,Desktop,0.07,Silver,5
+FASH1063,Male,30,Stevenland,Sporty,8,3192,2025-04-14,2024-09-24,Mobile,0.66,Silver,4
+FASH1064,Male,35,Mortonside,Formal,4,3518,2025-03-16,2023-09-12,Mobile,0.3,Gold,4
+FASH1065,Female,50,North Deniseside,Sporty,4,2524,2025-02-14,2024-06-09,Tablet,0.23,Bronze,3
+FASH1066,Male,33,North Sarabury,Casual,2,4931,2025-03-18,2024-05-12,Desktop,0.36,Platinum,3
+FASH1067,Female,59,South Todd,Casual,5,2025,2025-01-12,2024-06-02,Desktop,0.31,Silver,5
+FASH1068,Male,19,Port Richard,Ethnic,6,1778,2024-12-15,2023-09-19,Tablet,0.16,Silver,4
+FASH1069,Other,52,East Nicholasfurt,Streetwear,4,1013,2025-03-29,2023-07-11,Tablet,0.48,Bronze,3
+FASH1070,Female,59,Saramouth,Sporty,4,4837,2025-03-01,2024-05-29,Desktop,0.5,Silver,4
+FASH1071,Male,51,Rodneyside,Streetwear,1,2233,2025-03-26,2024-01-18,Mobile,0.15,Gold,5
+FASH1072,Male,47,Mooreport,Ethnic,3,3870,2025-05-03,2023-11-17,Mobile,0.1,Silver,4
+FASH1073,Female,30,North Beth,Casual,5,4421,2025-05-11,2024-01-26,Tablet,0.22,Platinum,3
+FASH1074,Female,30,Lake Leeton,Streetwear,4,3000,2025-03-11,2023-12-16,Desktop,0.26,Gold,4
+FASH1075,Female,35,Shawhaven,Streetwear,5,3964,2025-04-13,2023-06-22,Desktop,0.36,Silver,4
+FASH1076,Female,49,North Susan,Casual,7,2759,2025-01-20,2024-06-10,Desktop,0.05,Gold,2
+FASH1077,Male,49,Port Jacobland,Sporty,8,3159,2024-12-25,2023-11-02,Mobile,0.5,Silver,3
+FASH1078,Male,52,South David,Casual,4,755,2025-03-21,2024-07-14,Mobile,0.43,Silver,4
+FASH1079,Male,56,New Brooke,Streetwear,6,2002,2025-03-06,2024-09-24,Desktop,0.17,Bronze,4
+FASH1080,Female,46,South Dianeshire,Sporty,2,2610,2025-04-19,2024-03-03,Desktop,0.41,Bronze,3
+FASH1081,Female,46,Sarahborough,Sporty,7,906,2024-12-16,2024-03-22,Tablet,0.6,Silver,3
+FASH1082,Male,33,Johnfurt,Casual,3,3349,2025-01-24,2023-11-12,Tablet,0.24,Gold,1
+FASH1083,Male,27,Lake Debbie,Streetwear,9,3676,2025-01-10,2023-07-14,Desktop,0.45,Bronze,1
+FASH1084,Male,47,Stewartland,Ethnic,3,2360,2025-04-03,2024-05-04,Desktop,0.48,Bronze,3
+FASH1085,Male,42,South Christineshire,Streetwear,5,4854,2025-03-25,2024-04-23,Mobile,0.1,Silver,4
+FASH1086,Female,56,North Amandahaven,Formal,3,1222,2025-01-08,2024-08-01,Desktop,0.2,Bronze,4
+FASH1087,Female,37,Davidstad,Ethnic,7,1782,2024-12-06,2024-04-26,Tablet,0.36,Gold,4
+FASH1088,Female,22,East Mikeburgh,Sporty,3,1113,2024-12-16,2023-07-21,Mobile,0.31,Gold,3
+FASH1089,Female,18,Bassport,Ethnic,6,3831,2025-04-02,2024-06-04,Tablet,0.37,Bronze,3
+FASH1090,Male,47,Lake Lisaport,Sporty,6,3616,2024-11-12,2024-04-25,Tablet,0.14,Gold,3
+FASH1091,Female,20,East Josephville,Sporty,3,2478,2025-03-28,2024-01-14,Mobile,0.79,Silver,2
+FASH1092,Female,31,West Juan,Ethnic,2,1312,2025-03-03,2023-08-14,Tablet,0.62,Silver,2
+FASH1093,Female,47,Lake Matthew,Sporty,4,2286,2025-01-27,2024-06-03,Desktop,0.36,Bronze,3
+FASH1094,Female,21,Williamview,Sporty,8,830,2025-04-26,2024-10-02,Tablet,0.38,Silver,5
+FASH1095,Female,35,North Cynthiaview,Formal,5,2712,2025-04-10,2023-05-27,Mobile,0.68,Gold,3
+FASH1096,Female,54,North Matthewberg,Streetwear,10,1716,2025-03-02,2023-08-01,Mobile,0.46,Bronze,5
+FASH1097,Male,42,Evanmouth,Streetwear,4,4982,2024-11-18,2024-03-22,Mobile,0.04,Bronze,3
+FASH1098,Male,18,Hoffmanville,Formal,1,3837,2024-12-17,2024-03-29,Tablet,0.09,Bronze,3
+FASH1099,Male,32,Lake Rebeccaside,Ethnic,4,2875,2025-03-08,2023-06-10,Desktop,0.29,Bronze,4
+FASH1100,Male,26,Port Mikeside,Casual,7,1740,2025-01-12,2024-07-19,Mobile,0.26,Bronze,2
+FASH1101,Female,32,South David,Casual,7,819,2025-05-09,2024-07-13,Desktop,0.43,Bronze,3
+FASH1102,Male,41,Michaelton,Casual,6,4994,2025-04-18,2023-05-14,Mobile,0.53,Platinum,5
+FASH1103,Female,21,Jasonbury,Formal,7,2414,2025-03-10,2023-07-23,Desktop,0.22,Gold,4
+FASH1104,Female,29,West Kimberlychester,Formal,7,4700,2024-12-24,2024-08-25,Desktop,0.07,Bronze,1
+FASH1105,Male,54,East Michelle,Sporty,2,829,2025-03-16,2024-09-05,Desktop,0.09,Gold,1
+FASH1106,Male,54,South Angel,Casual,2,1159,2025-03-01,2024-09-20,Mobile,0.37,Bronze,5
+FASH1107,Female,23,Kimberlychester,Ethnic,9,4188,2024-12-02,2024-01-05,Tablet,0.42,Silver,5
+FASH1108,Male,56,West Erik,Ethnic,1,3618,2025-05-12,2024-06-11,Tablet,0.29,Bronze,4
+FASH1109,Male,41,South Monicafort,Casual,5,2472,2025-02-16,2024-07-23,Tablet,0.44,Bronze,3
+FASH1110,Male,28,East Lisa,Casual,7,2293,2024-12-09,2023-10-21,Desktop,0.46,Gold,5
+FASH1111,Male,30,Baileybury,Casual,3,3718,2025-01-15,2024-10-03,Mobile,0.47,Bronze,3
+FASH1112,Female,51,North Donna,Formal,8,3033,2025-04-05,2024-10-16,Desktop,0.32,Gold,3
+FASH1113,Female,42,Murphyland,Formal,6,2957,2024-11-27,2024-05-02,Mobile,0.15,Silver,4
+FASH1114,Female,24,Michaelhaven,Formal,7,3600,2024-12-28,2024-02-02,Desktop,0.14,Bronze,3
+FASH1115,Female,21,Frazierside,Streetwear,5,4866,2025-01-18,2024-02-20,Mobile,0.09,Gold,4
+FASH1116,Female,25,Sheilaville,Ethnic,3,3233,2025-01-13,2023-06-25,Mobile,0.33,Silver,5
+FASH1117,Male,37,Gregoryview,Ethnic,9,4980,2024-12-14,2023-11-03,Mobile,0.52,Bronze,4
+FASH1118,Female,46,North Candacestad,Sporty,5,4655,2025-03-15,2024-04-30,Desktop,0.24,Bronze,3
+FASH1119,Female,27,Samuelhaven,Formal,8,719,2025-05-02,2024-01-26,Tablet,0.51,Bronze,3
+FASH1120,Female,51,South Rachelborough,Streetwear,12,3318,2024-11-29,2024-07-22,Desktop,0.12,Platinum,3
+FASH1121,Female,43,Bradleychester,Streetwear,5,2406,2025-04-20,2024-09-06,Desktop,0.23,Silver,3
+FASH1122,Male,58,New Saraside,Ethnic,6,3111,2025-03-29,2024-08-21,Mobile,0.31,Bronze,4
+FASH1123,Male,20,West Ryan,Formal,2,3093,2025-03-22,2024-05-15,Mobile,0.43,Gold,3
+FASH1124,Male,23,Cindyville,Sporty,2,595,2025-03-16,2024-10-05,Tablet,0.25,Bronze,2
+FASH1125,Male,22,Williamchester,Formal,8,1488,2025-04-02,2024-02-20,Tablet,0.56,Bronze,3
+FASH1126,Female,22,Richardport,Casual,3,1612,2025-05-03,2024-04-29,Mobile,0.53,Bronze,3
+FASH1127,Female,40,East Robert,Formal,5,2778,2025-01-16,2023-08-10,Tablet,0.27,Silver,4
+FASH1128,Male,26,Byrdburgh,Casual,3,745,2025-02-06,2023-07-28,Tablet,0.35,Bronze,4
+FASH1129,Female,52,Richardtown,Casual,5,2658,2024-11-14,2024-10-06,Mobile,0.21,Silver,4
+FASH1130,Male,37,Justinchester,Sporty,3,4829,2025-01-02,2023-11-02,Desktop,0.24,Gold,4
+FASH1131,Male,59,Stevenmouth,Ethnic,4,3849,2024-12-22,2023-05-15,Tablet,0.36,Bronze,4
+FASH1132,Male,52,New Thomas,Formal,5,3225,2024-12-30,2024-02-03,Mobile,0.17,Bronze,3
+FASH1133,Male,35,Lake Christopher,Casual,6,4577,2025-03-26,2024-02-13,Tablet,0.18,Bronze,2
+FASH1134,Female,34,Clarencebury,Formal,6,3166,2024-11-25,2024-09-17,Tablet,0.18,Silver,4
+FASH1135,Male,41,Jeffreyborough,Ethnic,8,3699,2025-01-19,2023-12-26,Mobile,0.09,Platinum,3
+FASH1136,Female,20,North Brandon,Ethnic,7,3254,2024-12-31,2024-07-12,Tablet,0.49,Bronze,2
+FASH1137,Female,49,Carrland,Streetwear,6,1917,2025-04-13,2024-06-22,Tablet,0.1,Bronze,5
+FASH1138,Male,52,Perryshire,Ethnic,8,1154,2024-12-02,2024-02-28,Tablet,0.5,Bronze,3
+FASH1139,Other,55,Lake Heather,Sporty,9,2942,2025-03-31,2024-11-09,Desktop,0.55,Bronze,4
+FASH1140,Other,30,Rossberg,Casual,6,610,2024-11-12,2023-08-04,Desktop,0.63,Silver,4
+FASH1141,Male,42,Port Michelleville,Streetwear,7,589,2024-11-21,2023-06-18,Tablet,0.22,Bronze,2
+FASH1142,Female,26,Robinsonhaven,Sporty,8,1262,2025-01-25,2023-09-18,Mobile,0.34,Bronze,2
+FASH1143,Male,21,Williamsbury,Formal,2,3672,2025-02-05,2024-05-30,Tablet,0.07,Silver,4
+FASH1144,Male,31,South Dennismouth,Casual,3,2679,2025-04-03,2023-08-31,Tablet,0.48,Bronze,3
+FASH1145,Male,54,Stephaniemouth,Ethnic,2,3004,2025-02-01,2024-03-26,Desktop,0.29,Silver,3
+FASH1146,Female,51,Rivasside,Casual,4,1964,2024-12-14,2023-08-05,Desktop,0.23,Bronze,5
+FASH1147,Female,28,Merrittfort,Formal,7,597,2025-05-02,2023-11-27,Desktop,0.26,Platinum,4
+FASH1148,Male,58,Greenbury,Streetwear,7,792,2025-01-31,2024-08-30,Tablet,0.21,Bronze,1
+FASH1149,Male,20,Katiehaven,Streetwear,9,2339,2025-02-15,2023-10-13,Tablet,0.24,Platinum,3
+FASH1150,Female,45,Simsview,Streetwear,6,2234,2025-05-02,2023-10-06,Mobile,0.29,Bronze,4
+FASH1151,Male,46,Jonesport,Ethnic,2,3119,2025-01-24,2023-08-15,Tablet,0.14,Gold,3
+FASH1152,Male,26,West Matthew,Sporty,4,2696,2025-01-19,2024-03-14,Tablet,0.23,Bronze,1
+FASH1153,Female,20,East Edwardfurt,Sporty,9,3966,2025-02-26,2023-10-28,Desktop,0.02,Silver,3
+FASH1154,Other,42,Lake Jason,Casual,3,2406,2025-01-23,2024-05-02,Desktop,0.51,Bronze,2
+FASH1155,Male,51,Russellside,Ethnic,3,2221,2024-12-01,2023-10-09,Desktop,0.32,Silver,4
+FASH1156,Female,29,Perryborough,Streetwear,9,4191,2025-04-21,2024-01-31,Desktop,0.44,Silver,4
+FASH1157,Female,59,Priceshire,Streetwear,3,2316,2025-02-13,2023-08-05,Desktop,0.2,Silver,1
+FASH1158,Male,26,Port Nicoleshire,Formal,7,752,2025-04-14,2024-03-30,Mobile,0.02,Silver,3
+FASH1159,Female,32,Woodsstad,Formal,7,4727,2025-04-28,2023-06-19,Mobile,0.08,Bronze,3
+FASH1160,Male,57,Karenchester,Streetwear,3,4019,2025-03-04,2024-09-16,Mobile,0.49,Bronze,4
+FASH1161,Female,42,South Jeffrey,Streetwear,4,2407,2025-03-18,2024-10-17,Desktop,0.1,Silver,3
+FASH1162,Female,22,Tuckerfurt,Ethnic,1,2410,2025-04-08,2024-08-13,Desktop,0.77,Bronze,3
+FASH1163,Female,28,Elizabethfurt,Sporty,3,3021,2025-03-25,2023-08-17,Desktop,0.42,Bronze,5
+FASH1164,Male,51,Port Tanner,Formal,5,4349,2024-12-25,2024-04-27,Mobile,0.1,Bronze,1
+FASH1165,Female,41,New Amanda,Sporty,5,1558,2024-12-13,2024-05-03,Desktop,0.17,Bronze,5
+FASH1166,Male,32,Vargastown,Ethnic,6,4038,2025-02-07,2024-10-06,Mobile,0.12,Silver,1
+FASH1167,Male,55,Lake Roymouth,Streetwear,1,2822,2024-11-26,2024-08-13,Desktop,0.18,Silver,3
+FASH1168,Male,25,North Jorge,Sporty,6,686,2025-04-16,2024-06-08,Tablet,0.18,Platinum,4
+FASH1169,Female,22,Jasonmouth,Streetwear,6,1448,2025-04-25,2023-08-26,Mobile,0.24,Bronze,2
+FASH1170,Female,43,Kathleenfurt,Streetwear,1,2790,2024-11-18,2024-06-04,Tablet,0.18,Platinum,2
+FASH1171,Male,35,Karenchester,Casual,3,4859,2025-01-08,2023-05-17,Mobile,0.09,Silver,3
+FASH1172,Female,23,Maryfort,Sporty,6,709,2024-11-15,2024-06-28,Desktop,0.29,Platinum,5
+FASH1173,Male,54,Lake Amberstad,Sporty,8,2593,2025-01-12,2023-06-20,Desktop,0.22,Gold,3
+FASH1174,Female,30,Lake Casey,Streetwear,8,4038,2025-01-01,2024-07-16,Tablet,0.41,Silver,4
+FASH1175,Male,45,Port Anthonybury,Ethnic,8,2063,2024-12-02,2024-04-14,Desktop,0.39,Bronze,4
+FASH1176,Female,22,Port Andrew,Casual,8,525,2024-11-26,2024-08-10,Mobile,0.08,Bronze,4
+FASH1177,Male,30,East David,Streetwear,2,674,2025-01-17,2024-05-23,Desktop,0.2,Bronze,4
+FASH1178,Female,34,New Staciemouth,Formal,6,1834,2024-12-15,2024-06-11,Desktop,0.07,Platinum,3
+FASH1179,Male,57,Katieburgh,Formal,4,821,2025-05-03,2023-09-28,Mobile,0.06,Platinum,2
+FASH1180,Male,49,Port Loriport,Casual,8,4650,2025-01-23,2024-11-01,Tablet,0.27,Gold,3
+FASH1181,Male,46,New Anthonyport,Ethnic,11,4547,2024-12-13,2024-08-05,Tablet,0.26,Gold,3
+FASH1182,Female,20,Sandersborough,Streetwear,2,3727,2025-04-03,2023-09-25,Desktop,0.37,Platinum,2
+FASH1183,Female,57,New Hannahbury,Sporty,5,2372,2024-11-26,2023-08-21,Mobile,0.34,Silver,1
+FASH1184,Male,51,Lake Kendraville,Casual,10,2567,2025-02-26,2023-08-02,Tablet,0.43,Silver,5
+FASH1185,Female,57,West Amandastad,Ethnic,4,832,2025-05-13,2024-03-09,Tablet,0.24,Silver,5
+FASH1186,Female,44,New Deborahtown,Sporty,8,3491,2025-05-05,2024-10-05,Desktop,0.15,Silver,2
+FASH1187,Female,30,Shortville,Formal,4,1410,2024-11-30,2024-08-22,Mobile,0.1,Bronze,3
+FASH1188,Female,50,Yumouth,Formal,3,4996,2025-01-16,2024-08-26,Tablet,0.5,Silver,2
+FASH1189,Male,23,South Gregory,Sporty,6,1449,2025-03-07,2024-01-18,Desktop,0.53,Silver,3
+FASH1190,Male,41,Christinaside,Casual,7,2575,2025-03-11,2024-06-08,Desktop,0.24,Silver,3
+FASH1191,Female,36,Marshallshire,Formal,4,3014,2025-05-04,2024-03-07,Desktop,0.21,Gold,5
+FASH1192,Female,33,Marcusbury,Streetwear,7,3831,2025-02-13,2024-04-03,Desktop,0.42,Bronze,2
+FASH1193,Female,57,West Nicolebury,Sporty,4,3529,2025-03-28,2024-08-29,Tablet,0.29,Bronze,3
+FASH1194,Male,45,Hudsonfurt,Sporty,3,600,2024-11-18,2024-11-01,Mobile,0.33,Gold,2
+FASH1195,Male,50,Anthonymouth,Formal,4,2900,2025-02-03,2023-11-22,Desktop,0.2,Silver,5
+FASH1196,Female,58,South Jason,Casual,6,3871,2025-03-18,2023-12-12,Desktop,0.18,Bronze,5
+FASH1197,Female,30,Matthewview,Streetwear,6,2843,2024-12-14,2024-03-18,Tablet,0.05,Silver,4
+FASH1198,Female,42,New Stacyland,Casual,8,852,2025-03-09,2024-02-04,Desktop,0.41,Silver,3
+FASH1199,Female,59,Lake Richard,Ethnic,7,3455,2025-05-03,2023-12-28,Desktop,0.05,Platinum,3
+FASH1200,Female,53,Lake Thomas,Ethnic,2,1518,2025-02-04,2024-04-29,Mobile,0.16,Silver,3
+FASH1201,Male,44,Westtown,Formal,6,1679,2024-12-12,2023-08-25,Desktop,0.08,Bronze,3
+FASH1202,Male,55,West Jeffreybury,Formal,4,4036,2024-11-22,2023-08-29,Tablet,0.49,Silver,4
+FASH1203,Female,24,Elizabethstad,Formal,2,4150,2024-12-01,2024-03-29,Mobile,0.21,Gold,3
+FASH1204,Female,22,Transtad,Ethnic,9,3002,2025-01-15,2024-08-23,Tablet,0.47,Silver,3
+FASH1205,Male,48,Barajasside,Casual,5,4319,2024-12-21,2024-11-07,Mobile,0.36,Gold,4
+FASH1206,Male,40,Michaelmouth,Casual,3,1479,2024-12-18,2024-06-14,Mobile,0.33,Bronze,3
+FASH1207,Female,59,Kristopherbury,Formal,2,1476,2025-01-30,2024-01-01,Desktop,0.28,Gold,4
+FASH1208,Male,27,Lake Jamesville,Streetwear,6,1871,2025-03-27,2024-11-08,Desktop,0.08,Gold,3
+FASH1209,Male,49,East Javier,Casual,3,2780,2025-02-27,2024-07-12,Desktop,0.24,Gold,1
+FASH1210,Female,47,Hillshire,Ethnic,6,607,2025-04-01,2024-01-12,Tablet,0.31,Bronze,3
+FASH1211,Female,56,Tinaborough,Sporty,5,1472,2025-05-10,2024-07-16,Desktop,0.23,Gold,5
+FASH1212,Female,48,Jeremyburgh,Sporty,2,2126,2025-04-02,2024-09-16,Desktop,0.45,Silver,3
+FASH1213,Male,35,Alexisside,Sporty,7,1203,2025-02-24,2023-10-29,Mobile,0.38,Gold,3
+FASH1214,Female,53,West Brandon,Streetwear,6,1374,2025-01-02,2023-10-17,Desktop,0.21,Bronze,2
+FASH1215,Male,19,New Kellyberg,Formal,5,4309,2025-03-20,2023-10-23,Desktop,0.24,Bronze,4
+FASH1216,Male,31,Garciatown,Ethnic,8,2911,2025-01-05,2024-09-09,Desktop,0.41,Bronze,5
+FASH1217,Female,30,Taylormouth,Streetwear,3,2607,2025-01-08,2023-12-25,Desktop,0.02,Silver,3
+FASH1218,Female,46,Jackton,Ethnic,5,4053,2024-12-28,2024-10-28,Mobile,0.27,Silver,3
+FASH1219,Female,29,Shelleyfort,Ethnic,5,1773,2024-11-30,2024-02-06,Desktop,0.26,Silver,5
+FASH1220,Female,56,Port Cameronfort,Formal,4,1059,2024-11-21,2024-10-17,Mobile,0.54,Silver,4
+FASH1221,Female,19,New Crystalton,Sporty,3,616,2025-01-27,2023-08-25,Tablet,0.15,Gold,4
+FASH1222,Male,49,East Lisa,Formal,3,3546,2025-03-03,2024-09-29,Desktop,0.21,Bronze,3
+FASH1223,Male,30,Christopherbury,Streetwear,5,543,2025-02-26,2023-09-29,Desktop,0.09,Bronze,3
+FASH1224,Male,44,New Kathybury,Streetwear,5,1008,2025-04-24,2024-06-08,Desktop,0.45,Gold,4
+FASH1225,Male,58,Hayesmouth,Streetwear,6,3939,2025-02-15,2024-07-08,Mobile,0.07,Silver,4
+FASH1226,Other,34,Michellechester,Formal,6,4428,2024-12-11,2024-11-03,Desktop,0.11,Silver,4
+FASH1227,Male,57,Ashleyton,Ethnic,6,1416,2024-11-22,2024-09-19,Desktop,0.18,Silver,2
+FASH1228,Female,48,Port Jaredborough,Ethnic,6,3445,2025-01-21,2024-01-19,Tablet,0.1,Silver,4
+FASH1229,Female,51,Donnaburgh,Casual,7,1298,2024-11-12,2023-08-11,Mobile,0.37,Bronze,5
+FASH1230,Female,41,East Andrea,Streetwear,2,2260,2025-02-03,2024-02-11,Mobile,0.13,Silver,5
+FASH1231,Female,52,North Ricky,Ethnic,5,2833,2024-11-29,2024-07-23,Tablet,0.26,Platinum,2
+FASH1232,Female,23,Carterbury,Casual,3,3775,2025-01-08,2024-05-21,Mobile,0.33,Silver,4
+FASH1233,Female,36,Jasminemouth,Ethnic,1,1318,2025-04-20,2024-08-08,Desktop,0.18,Bronze,4
+FASH1234,Male,47,Lake Jesusview,Streetwear,8,2668,2025-03-20,2024-07-30,Desktop,0.2,Gold,5
+FASH1235,Female,24,South Danny,Sporty,0,4235,2025-03-13,2024-10-13,Tablet,0.25,Bronze,4
+FASH1236,Male,27,Lake Edward,Streetwear,4,3565,2025-03-08,2024-04-02,Mobile,0.33,Bronze,5
+FASH1237,Male,58,Margaretland,Formal,3,3759,2025-02-13,2024-10-18,Mobile,0.21,Gold,5
+FASH1238,Female,49,East Laurashire,Ethnic,3,1406,2024-12-20,2024-07-01,Mobile,0.48,Bronze,3
+FASH1239,Male,51,Scottmouth,Ethnic,2,4608,2024-11-30,2023-12-22,Tablet,0.25,Platinum,4
+FASH1240,Female,45,Hollyview,Formal,3,1102,2024-11-16,2024-04-06,Desktop,0.02,Silver,4
+FASH1241,Other,32,Kimton,Formal,8,4795,2024-12-22,2023-05-23,Tablet,0.35,Gold,3
+FASH1242,Female,47,Navarroview,Sporty,6,3133,2024-12-15,2024-06-23,Desktop,0.08,Silver,3
+FASH1243,Male,54,North Jeremyshire,Ethnic,4,2291,2025-03-15,2023-08-04,Tablet,0.21,Bronze,2
+FASH1244,Male,46,Port Emilyview,Ethnic,6,4027,2025-01-07,2023-06-02,Desktop,0.21,Silver,4
+FASH1245,Female,39,Port Katelynfort,Sporty,5,2311,2024-11-27,2024-03-04,Mobile,0.15,Platinum,3
+FASH1246,Male,21,Moonburgh,Casual,1,4411,2025-02-11,2023-09-03,Mobile,0.61,Gold,5
+FASH1247,Other,37,Waltersfort,Sporty,3,1340,2025-04-24,2023-06-24,Mobile,0.31,Silver,4
+FASH1248,Other,49,South Michaelmouth,Streetwear,3,3642,2024-12-04,2024-10-15,Tablet,0.16,Platinum,4
+FASH1249,Female,53,Elizabethburgh,Ethnic,3,2590,2025-01-10,2023-06-26,Tablet,0.43,Bronze,3
+FASH1250,Male,21,Robertfort,Formal,9,1536,2025-04-13,2023-10-16,Tablet,0.18,Bronze,4
+FASH1251,Male,44,Elainefurt,Streetwear,2,1224,2025-01-28,2023-12-07,Mobile,0.19,Bronze,3
+FASH1252,Female,34,South Christopherview,Ethnic,3,1487,2025-02-11,2023-09-16,Desktop,0.23,Gold,3
+FASH1253,Male,29,Darrellfurt,Sporty,5,1302,2025-02-14,2023-12-22,Mobile,0.09,Gold,5
+FASH1254,Male,39,Lake Mollymouth,Streetwear,4,3082,2025-05-04,2024-10-25,Mobile,0.27,Silver,4
+FASH1255,Female,34,Brownhaven,Ethnic,3,4337,2025-03-20,2023-11-24,Desktop,0.49,Platinum,1
+FASH1256,Female,27,Cindyfort,Casual,3,1026,2025-01-02,2023-09-04,Desktop,0.27,Silver,5
+FASH1257,Female,18,Wolfborough,Casual,0,2165,2024-11-29,2023-07-01,Desktop,0.38,Bronze,2
+FASH1258,Female,39,Andreaport,Formal,2,1638,2025-03-16,2024-10-31,Desktop,0.27,Bronze,3
+FASH1259,Male,43,Gilmorefort,Ethnic,7,959,2025-02-25,2023-12-29,Mobile,0.54,Platinum,4
+FASH1260,Female,35,North Teresabury,Casual,4,3052,2025-01-26,2023-10-19,Tablet,0.27,Bronze,1
+FASH1261,Other,31,West Andrea,Sporty,3,4920,2024-12-17,2024-07-07,Mobile,0.22,Silver,4
+FASH1262,Male,46,Davisville,Ethnic,11,3308,2025-01-23,2023-06-08,Desktop,0.25,Bronze,4
+FASH1263,Female,29,Valentineberg,Sporty,2,3398,2025-05-02,2024-02-16,Tablet,0.13,Bronze,4
+FASH1264,Female,53,Cantuport,Sporty,6,3743,2025-01-25,2024-04-29,Tablet,0.13,Silver,3
+FASH1265,Female,52,Robertfort,Casual,11,4568,2025-01-22,2023-08-01,Mobile,0.21,Bronze,3
+FASH1266,Female,29,Sanchezside,Ethnic,3,2831,2024-12-18,2024-09-03,Mobile,0.31,Platinum,3
+FASH1267,Female,24,South James,Streetwear,5,4185,2025-02-06,2024-10-19,Mobile,0.4,Silver,5
+FASH1268,Male,46,Port Chad,Casual,6,1131,2024-11-20,2024-07-23,Tablet,0.37,Silver,2
+FASH1269,Male,28,Morganhaven,Casual,4,2956,2025-01-02,2023-11-04,Tablet,0.2,Gold,3
+FASH1270,Female,50,Loriport,Ethnic,3,1481,2025-02-05,2024-09-27,Tablet,0.58,Silver,5
+FASH1271,Female,23,Maryshire,Ethnic,10,4817,2025-02-10,2024-07-22,Desktop,0.08,Platinum,4
+FASH1272,Female,32,Grimesmouth,Sporty,2,2056,2025-01-02,2024-03-11,Desktop,0.12,Bronze,5
+FASH1273,Female,49,Reedside,Ethnic,4,2705,2024-12-25,2023-11-14,Mobile,0.43,Bronze,5
+FASH1274,Female,28,Gibsonmouth,Sporty,7,4943,2025-04-23,2024-06-13,Tablet,0.23,Bronze,3
+FASH1275,Female,40,Lake John,Casual,6,4455,2025-01-03,2024-11-04,Mobile,0.14,Gold,3
+FASH1276,Female,43,Hallchester,Formal,7,1421,2025-03-01,2023-12-23,Tablet,0.26,Platinum,1
+FASH1277,Female,51,West Juliefurt,Streetwear,5,904,2024-11-23,2024-11-02,Mobile,0.37,Bronze,3
+FASH1278,Female,51,Mcneilberg,Casual,7,2120,2024-12-11,2024-10-11,Desktop,0.11,Silver,4
+FASH1279,Female,46,Hannaberg,Ethnic,1,3452,2025-04-07,2023-06-19,Tablet,0.37,Bronze,3
+FASH1280,Female,21,Mollymouth,Streetwear,6,3618,2025-03-27,2024-03-05,Desktop,0.36,Bronze,4
+FASH1281,Male,34,New Reneetown,Formal,5,2094,2025-03-21,2024-03-10,Tablet,0.36,Silver,1
+FASH1282,Male,52,South Monica,Formal,15,1065,2024-11-30,2024-04-01,Mobile,0.27,Bronze,3
+FASH1283,Male,30,North Terrance,Sporty,6,3368,2024-11-28,2024-10-27,Tablet,0.47,Silver,4
+FASH1284,Female,58,Matthewfurt,Streetwear,3,1357,2025-03-21,2024-01-11,Desktop,0.49,Silver,3
+FASH1285,Male,56,Port Markside,Sporty,2,1784,2025-01-17,2024-07-15,Tablet,0.41,Gold,4
+FASH1286,Female,32,Finleyfort,Casual,5,1084,2025-04-17,2023-06-24,Mobile,0.18,Silver,5
+FASH1287,Female,46,New Caseyport,Streetwear,7,4827,2025-02-25,2023-05-24,Tablet,0.33,Silver,4
+FASH1288,Male,46,Lake Christopher,Casual,3,1745,2025-01-31,2023-11-25,Desktop,0.37,Silver,3
+FASH1289,Female,28,Port Cynthiaville,Sporty,3,551,2025-04-07,2023-10-18,Mobile,0.41,Bronze,5
+FASH1290,Male,49,Jacksonport,Streetwear,4,2663,2025-03-06,2024-09-07,Desktop,0.58,Gold,2
+FASH1291,Male,19,North Markton,Sporty,2,1037,2024-12-26,2024-04-22,Tablet,0.28,Bronze,4
+FASH1292,Female,31,Michaelchester,Streetwear,3,1040,2025-02-27,2023-11-05,Desktop,0.13,Bronze,1
+FASH1293,Male,37,East Amanda,Sporty,5,1314,2024-11-23,2024-09-17,Tablet,0.08,Silver,3
+FASH1294,Male,39,East Gregory,Formal,7,1915,2025-04-24,2024-11-11,Mobile,0.43,Gold,5
+FASH1295,Female,28,Harveybury,Sporty,5,3338,2025-01-26,2024-09-28,Desktop,0.18,Bronze,3
+FASH1296,Female,44,Durhamberg,Formal,7,2152,2025-04-19,2024-02-23,Desktop,0.27,Bronze,5
+FASH1297,Male,20,South Dana,Sporty,2,3165,2025-02-21,2024-08-13,Tablet,0.52,Bronze,3
+FASH1298,Female,34,Scotttown,Streetwear,6,4562,2025-02-01,2024-07-11,Desktop,0.05,Bronze,5
+FASH1299,Male,45,Santanaside,Streetwear,4,2856,2025-02-23,2024-08-24,Desktop,0.34,Silver,5
+FASH1300,Male,46,North Scott,Streetwear,2,4310,2025-03-25,2023-10-13,Mobile,0.71,Bronze,3
+FASH1301,Female,38,Vanessaport,Ethnic,6,1363,2025-04-29,2023-10-11,Tablet,0.14,Gold,4
+FASH1302,Female,33,Vaughnmouth,Casual,3,685,2025-05-12,2023-12-28,Tablet,0.37,Gold,4
+FASH1303,Female,54,Jamesfurt,Streetwear,3,4856,2025-02-12,2024-04-26,Mobile,0.67,Silver,5
+FASH1304,Female,37,Rodriguezfurt,Formal,4,2051,2025-03-03,2023-09-28,Mobile,0.18,Silver,3
+FASH1305,Other,23,Baileyport,Streetwear,4,2707,2025-05-02,2024-10-25,Tablet,0.07,Bronze,4
+FASH1306,Female,36,Port Dominiqueview,Ethnic,5,1261,2024-12-27,2023-07-10,Mobile,0.28,Bronze,3
+FASH1307,Male,22,New Michelleton,Formal,4,4819,2025-02-12,2023-10-06,Mobile,0.24,Silver,3
+FASH1308,Female,20,Wallport,Ethnic,6,1779,2025-01-09,2023-09-25,Mobile,0.05,Bronze,2
+FASH1309,Male,18,New Laurie,Formal,4,4775,2024-11-27,2024-06-16,Tablet,0.24,Silver,4
+FASH1310,Male,55,Lake James,Sporty,7,4194,2025-01-27,2023-08-14,Mobile,0.15,Bronze,5
+FASH1311,Male,32,Ericaberg,Casual,9,3781,2025-05-06,2024-03-01,Desktop,0.32,Bronze,3
+FASH1312,Male,51,Lake Debbieport,Casual,3,2036,2025-04-26,2023-06-14,Desktop,0.24,Bronze,4
+FASH1313,Other,52,Johnsonstad,Ethnic,4,3664,2025-03-30,2024-04-10,Tablet,0.41,Bronze,4
+FASH1314,Female,42,North Renee,Casual,3,3270,2024-11-18,2023-12-16,Mobile,0.46,Platinum,3
+FASH1315,Female,41,Julieburgh,Ethnic,4,2463,2025-02-17,2024-07-19,Desktop,0.14,Bronze,5
+FASH1316,Male,29,East Kristin,Ethnic,5,4345,2025-03-02,2023-12-05,Tablet,0.48,Gold,3
+FASH1317,Male,35,Alyssaview,Ethnic,2,3935,2025-05-05,2023-08-23,Desktop,0.43,Silver,2
+FASH1318,Male,32,West Robin,Casual,5,1061,2025-02-20,2023-09-15,Mobile,0.28,Gold,2
+FASH1319,Male,33,Coffeyport,Ethnic,10,2921,2025-04-16,2024-08-09,Tablet,0.24,Silver,5
+FASH1320,Female,44,Lindamouth,Casual,5,2635,2025-03-02,2023-11-28,Desktop,0.28,Platinum,5
+FASH1321,Female,25,East Karenbury,Ethnic,5,2561,2025-03-23,2023-05-18,Tablet,0.29,Bronze,3
+FASH1322,Female,42,Coffeyside,Streetwear,7,2680,2025-03-12,2024-01-25,Desktop,0.22,Silver,2
+FASH1323,Male,34,Christopherfurt,Ethnic,5,2460,2024-12-10,2024-05-10,Desktop,0.42,Bronze,4
+FASH1324,Other,46,West Amandamouth,Formal,7,4379,2024-12-05,2023-09-11,Mobile,0.22,Silver,4
+FASH1325,Female,25,Emilyview,Ethnic,3,3779,2025-04-08,2023-06-14,Mobile,0.34,Silver,4
+FASH1326,Female,32,Carsonstad,Sporty,3,4384,2025-02-07,2023-09-10,Desktop,0.17,Silver,5
+FASH1327,Female,44,Lake Jesustown,Ethnic,6,3770,2024-12-15,2024-01-19,Tablet,0.28,Bronze,5
+FASH1328,Male,24,Rosebury,Formal,4,1082,2024-12-14,2024-08-19,Tablet,0.18,Bronze,5
+FASH1329,Male,20,Lake Madisonport,Formal,4,2113,2024-12-23,2023-06-22,Mobile,0.18,Silver,4
+FASH1330,Male,46,Wilsonton,Casual,2,1601,2025-04-17,2024-09-10,Desktop,0.13,Silver,3
+FASH1331,Female,41,West Wendyville,Streetwear,2,788,2024-12-19,2024-09-03,Mobile,0.27,Bronze,4
+FASH1332,Male,20,East Paigeberg,Ethnic,3,4359,2024-12-06,2024-10-09,Desktop,0.27,Platinum,3
+FASH1333,Male,37,Chavezside,Casual,4,3560,2024-11-20,2024-01-02,Desktop,0.12,Platinum,3
+FASH1334,Male,32,Matthewsberg,Streetwear,6,3426,2025-02-02,2024-05-29,Mobile,0.18,Gold,3
+FASH1335,Male,42,Penafort,Ethnic,4,4602,2024-11-27,2024-07-31,Tablet,0.1,Gold,4
+FASH1336,Female,47,Crosbyview,Sporty,5,1683,2025-03-24,2024-07-14,Mobile,0.19,Bronze,4
+FASH1337,Female,31,Lake Mitchellmouth,Ethnic,4,4835,2025-02-04,2024-02-16,Desktop,0.25,Platinum,4
+FASH1338,Female,24,Sampsonstad,Formal,5,1946,2024-12-21,2023-07-09,Mobile,0.26,Silver,2
+FASH1339,Male,34,Lake Michaelstad,Formal,8,2249,2025-04-20,2024-01-15,Tablet,0.32,Bronze,4
+FASH1340,Female,37,South Joshuaville,Sporty,4,2403,2025-03-13,2024-06-25,Tablet,0.23,Gold,3
+FASH1341,Female,53,Davisborough,Casual,2,3675,2024-12-10,2023-10-31,Desktop,0.2,Bronze,4
+FASH1342,Male,26,North Kristinbury,Streetwear,2,1577,2025-04-22,2023-10-03,Mobile,0.02,Silver,3
+FASH1343,Male,55,Port Anne,Ethnic,3,2877,2025-03-07,2024-06-21,Tablet,0.4,Bronze,5
+FASH1344,Male,39,Port Kathyborough,Formal,6,1347,2025-01-01,2023-07-05,Mobile,0.31,Silver,4
+FASH1345,Female,19,Port Molly,Casual,4,3376,2025-01-13,2024-06-09,Tablet,0.2,Silver,4
+FASH1346,Female,41,Kimtown,Sporty,3,1739,2025-05-07,2023-09-14,Desktop,0.31,Silver,4
+FASH1347,Male,25,Micheleberg,Formal,4,1832,2025-04-02,2024-04-01,Desktop,0.4,Bronze,4
+FASH1348,Male,28,New John,Sporty,3,4006,2025-05-08,2024-07-08,Mobile,0.35,Silver,2
+FASH1349,Female,30,North Donna,Ethnic,8,2879,2025-04-17,2024-07-04,Desktop,0.31,Silver,4
+FASH1350,Female,34,East Alexisbury,Streetwear,4,4622,2024-11-25,2024-03-22,Tablet,0.56,Bronze,4
+FASH1351,Female,25,Alfredview,Formal,8,3737,2024-11-28,2023-07-24,Desktop,0.2,Platinum,4
+FASH1352,Female,38,East Judyhaven,Formal,4,2865,2025-01-26,2024-02-09,Tablet,0.34,Silver,3
+FASH1353,Male,35,Lake Brycemouth,Ethnic,4,2912,2025-02-28,2023-11-01,Tablet,0.34,Gold,5
+FASH1354,Male,47,Williamville,Casual,1,3674,2025-01-28,2023-10-26,Desktop,0.47,Bronze,3
+FASH1355,Female,35,Gordonton,Streetwear,3,872,2025-02-27,2024-10-10,Tablet,0.13,Bronze,3
+FASH1356,Male,48,Stephentown,Formal,8,2449,2025-01-14,2024-01-26,Tablet,0.33,Bronze,5
+FASH1357,Female,55,South Melaniechester,Streetwear,6,744,2025-04-27,2024-01-26,Mobile,0.4,Silver,5
+FASH1358,Female,49,South Jennifermouth,Formal,6,2340,2025-01-04,2024-02-18,Mobile,0.26,Bronze,1
+FASH1359,Female,28,North Marcberg,Streetwear,9,3927,2025-02-20,2023-12-28,Mobile,0.32,Silver,5
+FASH1360,Male,42,East Joshuashire,Sporty,4,624,2025-02-08,2023-10-30,Desktop,0.09,Bronze,3
+FASH1361,Female,50,Oscarhaven,Formal,3,3253,2025-05-09,2024-09-05,Mobile,0.51,Bronze,4
+FASH1362,Female,55,Shawnchester,Streetwear,8,2419,2025-04-30,2024-06-29,Tablet,0.19,Silver,4
+FASH1363,Female,58,Port Jacquelineside,Casual,3,2135,2024-11-14,2024-05-16,Desktop,0.46,Platinum,4
+FASH1364,Female,25,South Shannon,Sporty,2,1925,2025-04-13,2024-07-23,Desktop,0.32,Bronze,4
+FASH1365,Male,28,South Matthew,Sporty,2,2040,2025-03-28,2024-09-29,Desktop,0.33,Gold,3
+FASH1366,Other,39,Rossville,Casual,7,1030,2025-03-12,2023-05-20,Desktop,0.25,Gold,3
+FASH1367,Female,41,Ronaldview,Streetwear,5,4849,2025-03-06,2023-08-11,Tablet,0.37,Silver,4
+FASH1368,Male,58,Stephaniefort,Ethnic,6,3603,2025-02-21,2024-10-14,Tablet,0.16,Gold,3
+FASH1369,Male,34,North Marieland,Casual,5,2301,2025-04-12,2024-02-06,Mobile,0.64,Platinum,5
+FASH1370,Male,29,Davisstad,Streetwear,9,1536,2025-02-01,2024-04-24,Desktop,0.13,Bronze,4
+FASH1371,Male,49,New Brian,Casual,4,4228,2024-12-03,2023-11-16,Mobile,0.57,Silver,2
+FASH1372,Male,32,Elizabethchester,Casual,5,4511,2025-01-31,2024-09-23,Tablet,0.13,Silver,4
+FASH1373,Female,33,Morganchester,Formal,7,3963,2024-12-11,2024-09-01,Desktop,0.59,Silver,3
+FASH1374,Male,39,West Carolinestad,Streetwear,3,1642,2024-12-10,2024-09-07,Tablet,0.02,Bronze,2
+FASH1375,Male,45,New Williamberg,Ethnic,8,2255,2025-03-02,2023-11-19,Mobile,0.29,Platinum,3
+FASH1376,Female,37,Walkerville,Formal,5,2129,2025-03-06,2023-06-13,Tablet,0.26,Gold,5
+FASH1377,Male,50,Meganstad,Casual,5,1262,2025-03-05,2024-10-25,Desktop,0.44,Bronze,3
+FASH1378,Female,27,Port Joshuabury,Casual,2,4457,2025-04-08,2024-01-18,Desktop,0.04,Bronze,3
+FASH1379,Male,57,Bruceside,Casual,8,1057,2025-05-13,2024-03-05,Mobile,0.05,Platinum,3
+FASH1380,Male,49,New Sarahview,Streetwear,9,1339,2024-12-01,2023-08-10,Desktop,0.43,Bronze,1
+FASH1381,Female,50,East Joshuaport,Streetwear,3,502,2025-05-10,2024-03-08,Tablet,0.21,Silver,2
+FASH1382,Female,19,Michaelburgh,Formal,4,1551,2024-12-02,2023-11-29,Tablet,0.33,Bronze,5
+FASH1383,Female,50,New Diane,Ethnic,4,1904,2025-03-01,2024-07-06,Tablet,0.36,Bronze,5
+FASH1384,Female,50,East Joycetown,Formal,4,656,2025-04-12,2023-12-19,Tablet,0.28,Bronze,3
+FASH1385,Female,58,Lake Alyssafurt,Sporty,9,2437,2024-12-01,2023-06-02,Mobile,0.48,Bronze,4
+FASH1386,Male,30,Chavezburgh,Casual,5,1010,2025-04-13,2024-06-18,Tablet,0.46,Bronze,5
+FASH1387,Male,47,Larrymouth,Casual,6,3904,2025-01-06,2024-02-29,Mobile,0.68,Silver,3
+FASH1388,Female,50,North Ericton,Casual,7,1637,2025-04-29,2024-06-16,Tablet,0.35,Silver,3
+FASH1389,Female,30,West Scottchester,Formal,11,4414,2025-02-24,2024-06-12,Mobile,0.38,Bronze,5
+FASH1390,Other,43,Lawsonchester,Formal,10,3821,2025-05-01,2024-04-24,Tablet,0.27,Gold,4
+FASH1391,Male,39,Jasonhaven,Casual,7,1214,2025-01-17,2024-05-26,Tablet,0.24,Silver,3
+FASH1392,Male,56,West Russellport,Formal,4,2786,2025-05-01,2023-06-17,Mobile,0.45,Silver,3
+FASH1393,Female,19,Roseport,Streetwear,5,3154,2025-01-30,2023-12-30,Desktop,0.18,Silver,2
+FASH1394,Male,55,East Randallton,Streetwear,4,1490,2025-01-02,2024-10-01,Desktop,0.16,Silver,3
+FASH1395,Female,56,East Kevinborough,Formal,5,4929,2025-01-25,2023-10-10,Desktop,0.07,Platinum,4
+FASH1396,Female,43,Port Jonathan,Casual,6,2660,2025-03-19,2024-01-17,Mobile,0.58,Silver,4
+FASH1397,Male,32,Davidfort,Formal,6,4957,2025-02-14,2024-06-16,Desktop,0.07,Bronze,4
+FASH1398,Female,51,Thompsonfurt,Formal,0,2644,2025-03-03,2023-07-16,Desktop,0.68,Gold,3
+FASH1399,Female,59,New Angelica,Formal,4,2563,2025-03-10,2023-07-27,Mobile,0.55,Bronze,3
+FASH1400,Male,57,Charleston,Sporty,4,3103,2025-02-11,2023-09-21,Desktop,0.4,Bronze,1
+FASH1401,Female,28,Smithland,Streetwear,7,2477,2024-11-19,2024-07-04,Desktop,0.33,Silver,5
+FASH1402,Female,20,Barbarashire,Ethnic,9,875,2024-12-15,2024-07-01,Desktop,0.28,Gold,4
+FASH1403,Female,23,Mckinneychester,Ethnic,3,1241,2025-01-04,2023-05-19,Mobile,0.36,Bronze,3
+FASH1404,Male,26,Dariustown,Sporty,3,4985,2025-01-29,2024-09-11,Mobile,0.36,Gold,3
+FASH1405,Female,23,Georgemouth,Formal,4,3167,2024-12-09,2023-07-03,Desktop,0.19,Bronze,5
+FASH1406,Male,26,Christopherville,Sporty,3,1740,2025-03-12,2023-10-24,Desktop,0.16,Bronze,4
+FASH1407,Male,56,South Brianna,Sporty,5,3970,2025-03-10,2024-10-15,Mobile,0.26,Platinum,3
+FASH1408,Female,48,South Monicamouth,Casual,7,2867,2025-03-24,2024-09-13,Desktop,0.4,Silver,3
+FASH1409,Male,49,West Kimberly,Streetwear,2,2743,2025-03-26,2023-10-26,Mobile,0.4,Gold,3
+FASH1410,Male,58,New Cynthiahaven,Ethnic,8,4049,2025-01-29,2024-10-27,Desktop,0.3,Gold,5
+FASH1411,Other,29,Port Michael,Formal,5,917,2024-11-19,2024-04-07,Mobile,0.14,Platinum,4
+FASH1412,Other,25,East Curtis,Ethnic,6,1106,2025-01-27,2023-08-02,Tablet,0.23,Bronze,4
+FASH1413,Female,25,Jamesberg,Ethnic,4,1067,2025-05-03,2023-10-20,Tablet,0.26,Bronze,5
+FASH1414,Female,45,East Stephaniefort,Streetwear,5,1043,2025-05-01,2024-07-04,Mobile,0.11,Gold,5
+FASH1415,Male,37,Webstershire,Ethnic,9,1383,2025-01-15,2024-11-09,Tablet,0.22,Silver,3
+FASH1416,Male,24,Maldonadoshire,Ethnic,3,1723,2025-03-26,2024-04-16,Desktop,0.27,Silver,3
+FASH1417,Male,28,Michellemouth,Sporty,4,3393,2024-12-28,2024-09-27,Mobile,0.29,Bronze,4
+FASH1418,Female,37,South Carlos,Streetwear,5,2568,2024-11-21,2023-07-09,Mobile,0.43,Bronze,1
+FASH1419,Female,33,Welchview,Casual,4,4209,2025-04-05,2024-10-27,Desktop,0.08,Silver,4
+FASH1420,Female,21,West Williamport,Formal,3,2286,2025-02-12,2023-09-10,Desktop,0.27,Bronze,5
+FASH1421,Female,23,Hayeston,Ethnic,9,1957,2025-05-09,2023-06-01,Mobile,0.32,Bronze,4
+FASH1422,Male,39,Marieland,Formal,4,2414,2025-01-03,2024-05-04,Desktop,0.39,Bronze,3
+FASH1423,Female,43,New Brookefurt,Casual,5,577,2025-05-05,2024-01-26,Mobile,0.15,Bronze,2
+FASH1424,Male,20,Carpenterton,Formal,4,4113,2025-01-23,2023-06-12,Desktop,0.28,Gold,3
+FASH1425,Female,58,Stoutshire,Casual,5,1808,2024-11-15,2023-07-20,Mobile,0.34,Gold,5
+FASH1426,Male,59,West Cassidy,Sporty,5,1147,2025-01-16,2023-07-09,Desktop,0.16,Bronze,3
+FASH1427,Female,31,North Shannon,Ethnic,9,2687,2025-04-19,2023-06-25,Desktop,0.32,Bronze,1
+FASH1428,Male,28,Toniland,Casual,5,1052,2025-04-15,2023-09-29,Tablet,0.11,Silver,3
+FASH1429,Male,35,North John,Formal,8,781,2025-01-09,2023-11-25,Tablet,0.46,Bronze,5
+FASH1430,Male,29,Ritterhaven,Ethnic,5,1781,2025-01-11,2024-07-20,Tablet,0.07,Gold,4
+FASH1431,Female,40,West Nathan,Sporty,2,2346,2025-01-05,2023-07-07,Desktop,0.43,Gold,5
+FASH1432,Female,29,Paulmouth,Ethnic,3,2987,2025-04-24,2024-08-02,Mobile,0.37,Gold,4
+FASH1433,Male,30,Port Crystalmouth,Casual,2,3293,2025-02-15,2023-11-06,Desktop,0.13,Silver,4
+FASH1434,Male,42,West Codyfurt,Sporty,5,4211,2025-04-27,2023-11-30,Tablet,0.13,Bronze,2
+FASH1435,Female,36,Johnathanberg,Formal,3,4699,2025-03-27,2024-03-25,Desktop,0.29,Silver,3
+FASH1436,Male,53,Christopherberg,Sporty,3,3276,2025-03-24,2024-03-10,Tablet,0.26,Bronze,4
+FASH1437,Female,25,Kylefurt,Sporty,6,2096,2024-12-01,2024-04-28,Tablet,0.21,Bronze,5
+FASH1438,Female,46,New Jeanne,Streetwear,6,979,2025-04-29,2024-09-14,Mobile,0.45,Bronze,3
+FASH1439,Male,49,West Angelicamouth,Sporty,6,3812,2024-12-26,2024-03-23,Mobile,0.21,Silver,2
+FASH1440,Male,35,Lake Jacqueline,Sporty,5,3718,2024-12-08,2024-04-14,Tablet,0.39,Bronze,4
+FASH1441,Other,23,Lake Ellenhaven,Ethnic,4,2463,2025-01-09,2024-01-14,Tablet,0.65,Bronze,3
+FASH1442,Male,35,Andrewport,Formal,2,2642,2025-04-05,2023-05-27,Desktop,0.18,Silver,4
+FASH1443,Male,36,East Matthew,Ethnic,6,4398,2025-02-06,2024-03-11,Tablet,0.38,Platinum,3
+FASH1444,Female,39,Leeberg,Ethnic,5,2572,2025-04-11,2024-10-17,Desktop,0.24,Bronze,3
+FASH1445,Female,54,North Kenneth,Casual,4,1795,2025-04-21,2023-08-13,Tablet,0.17,Silver,3
+FASH1446,Other,49,New Kellihaven,Ethnic,4,1438,2025-01-13,2024-07-02,Mobile,0.09,Bronze,4
+FASH1447,Female,58,Lake Matthewberg,Streetwear,4,1261,2025-01-03,2023-05-18,Mobile,0.29,Platinum,4
+FASH1448,Male,20,Mooreburgh,Streetwear,7,2169,2025-04-02,2024-09-23,Tablet,0.43,Bronze,3
+FASH1449,Male,45,Lake Samuel,Casual,4,4362,2025-01-31,2024-09-05,Desktop,0.03,Gold,5
+FASH1450,Female,27,Diazbury,Formal,5,3185,2025-03-09,2023-07-02,Desktop,0.29,Bronze,2
+FASH1451,Female,52,Bishopmouth,Formal,4,4399,2025-03-17,2024-08-10,Desktop,0.07,Gold,1
+FASH1452,Male,46,New John,Ethnic,3,2431,2024-11-29,2023-06-18,Tablet,0.21,Bronze,4
+FASH1453,Female,32,Mckeeborough,Ethnic,6,4439,2024-12-18,2024-11-08,Tablet,0.32,Bronze,2
+FASH1454,Male,50,Erikashire,Ethnic,7,1626,2025-02-05,2023-07-09,Mobile,0.13,Bronze,4
+FASH1455,Female,24,Murrayport,Formal,8,3797,2024-12-23,2024-02-15,Mobile,0.37,Bronze,5
+FASH1456,Male,29,Shawchester,Sporty,3,1703,2025-05-08,2024-06-07,Tablet,0.09,Gold,4
+FASH1457,Female,47,Port James,Streetwear,3,4635,2025-04-20,2023-08-04,Mobile,0.07,Silver,4
+FASH1458,Male,38,Port John,Sporty,6,4272,2025-01-30,2023-12-25,Desktop,0.07,Silver,4
+FASH1459,Male,48,Sawyerside,Sporty,3,1019,2025-04-04,2024-10-27,Desktop,0.16,Platinum,3
+FASH1460,Male,41,Lake Meghanville,Formal,3,2783,2025-02-14,2024-01-03,Tablet,0.24,Silver,3
+FASH1461,Female,37,Christopherburgh,Sporty,3,982,2025-04-08,2024-08-27,Desktop,0.23,Platinum,3
+FASH1462,Female,54,Shannonhaven,Casual,4,2977,2025-02-20,2023-07-20,Tablet,0.48,Bronze,5
+FASH1463,Female,21,Port Samuel,Ethnic,4,3593,2025-04-29,2023-12-18,Desktop,0.5,Platinum,3
+FASH1464,Other,45,Port Shannon,Casual,1,842,2025-01-23,2024-04-17,Tablet,0.43,Bronze,4
+FASH1465,Male,37,Sarahchester,Streetwear,5,1962,2025-04-20,2024-03-05,Desktop,0.21,Silver,5
+FASH1466,Male,41,South Waynebury,Ethnic,10,1702,2024-11-22,2024-03-15,Desktop,0.36,Silver,4
+FASH1467,Female,49,Vangstad,Sporty,4,2121,2025-02-20,2024-10-08,Mobile,0.16,Silver,5
+FASH1468,Male,58,North Lucas,Streetwear,9,2898,2025-04-14,2023-06-06,Mobile,0.05,Silver,4
+FASH1469,Other,53,Port Jennifermouth,Ethnic,2,4096,2024-12-12,2024-05-16,Mobile,0.31,Bronze,3
+FASH1470,Male,51,East Benjamin,Sporty,5,4035,2024-11-24,2023-09-12,Mobile,0.27,Platinum,5
+FASH1471,Other,53,Hortonberg,Casual,9,3377,2025-01-11,2024-07-01,Mobile,0.26,Platinum,3
+FASH1472,Male,19,Westtown,Ethnic,8,2890,2025-03-29,2023-10-31,Mobile,0.21,Platinum,3
+FASH1473,Female,32,North Jonathanberg,Sporty,2,3851,2025-02-18,2023-08-27,Tablet,0.25,Platinum,4
+FASH1474,Female,51,Rodriguezport,Casual,3,3413,2025-01-29,2024-03-12,Tablet,0.19,Gold,4
+FASH1475,Other,53,West David,Streetwear,3,1689,2024-12-08,2024-07-10,Mobile,0.19,Platinum,5
+FASH1476,Male,23,South Danielle,Streetwear,4,2840,2025-04-12,2023-12-29,Tablet,0.64,Gold,5
+FASH1477,Female,56,Brownfort,Streetwear,2,4080,2025-04-26,2024-09-17,Mobile,0.15,Silver,5
+FASH1478,Other,59,Lake Zacharybury,Streetwear,6,2103,2025-02-21,2023-09-02,Tablet,0.3,Gold,2
+FASH1479,Female,29,West Ruben,Formal,2,3797,2025-05-01,2023-12-31,Desktop,0.26,Platinum,4
+FASH1480,Female,20,Johnchester,Ethnic,6,1097,2025-03-02,2024-10-21,Tablet,0.61,Gold,4
+FASH1481,Female,35,Lake Elizabeth,Ethnic,5,1144,2024-11-17,2024-09-28,Tablet,0.26,Silver,5
+FASH1482,Female,57,Carloshaven,Formal,6,3402,2024-12-15,2024-02-27,Tablet,0.42,Bronze,3
+FASH1483,Female,38,South Morganton,Sporty,4,1263,2024-12-19,2023-05-22,Desktop,0.33,Gold,3
+FASH1484,Female,32,Zavalaview,Sporty,3,2142,2025-04-30,2024-07-16,Mobile,0.22,Platinum,5
+FASH1485,Female,50,West Kristinastad,Streetwear,3,2797,2025-04-22,2024-07-18,Tablet,0.62,Bronze,3
+FASH1486,Male,52,Lake Diane,Casual,2,2672,2024-12-20,2023-08-31,Tablet,0.3,Bronze,4
+FASH1487,Male,43,Port Bonniemouth,Sporty,7,2660,2025-04-23,2023-08-17,Desktop,0.05,Bronze,3
+FASH1488,Other,25,North Michael,Casual,3,4249,2024-11-23,2023-06-15,Mobile,0.02,Silver,3
+FASH1489,Female,53,Lisaburgh,Ethnic,7,3422,2024-12-30,2023-05-17,Tablet,0.59,Bronze,4
+FASH1490,Female,47,Pollardfort,Casual,3,1079,2024-11-18,2024-07-31,Desktop,0.29,Silver,3
+FASH1491,Female,40,Port Dennis,Ethnic,4,4304,2025-02-08,2024-08-19,Mobile,0.34,Platinum,4
+FASH1492,Male,59,Johnsonborough,Formal,4,2868,2024-11-21,2024-03-15,Mobile,0.5,Silver,1
+FASH1493,Male,31,Port Jameston,Formal,6,4432,2025-05-09,2024-07-04,Tablet,0.51,Bronze,3
+FASH1494,Female,31,Sarahhaven,Streetwear,4,3860,2025-01-20,2024-07-12,Tablet,0.44,Platinum,3
+FASH1495,Male,19,Haysside,Sporty,2,1600,2025-03-28,2023-07-19,Tablet,0.24,Silver,4
+FASH1496,Female,54,Kingborough,Streetwear,5,2170,2024-12-20,2024-01-05,Tablet,0.25,Bronze,3
+FASH1497,Male,22,Michaelton,Ethnic,5,2720,2025-01-04,2023-10-24,Desktop,0.11,Silver,4
+FASH1498,Other,55,Joshuastad,Streetwear,4,716,2025-01-22,2024-02-05,Desktop,0.18,Silver,4
+FASH1499,Other,58,Prestonmouth,Casual,6,875,2025-04-20,2023-10-25,Tablet,0.01,Gold,4
+FASH1500,Female,31,Morganburgh,Ethnic,5,2109,2025-02-10,2024-03-29,Mobile,0.29,Platinum,4
+FASH1501,Female,56,Holtstad,Formal,2,4606,2025-02-18,2024-09-26,Tablet,0.13,Bronze,3
+FASH1502,Male,42,Lauriechester,Sporty,4,4339,2025-01-28,2024-06-15,Mobile,0.53,Bronze,3
+FASH1503,Female,37,South Carrieburgh,Ethnic,4,3439,2025-03-15,2023-09-01,Mobile,0.14,Bronze,4
+FASH1504,Female,19,Manuelland,Ethnic,6,4562,2025-05-10,2023-09-16,Mobile,0.43,Gold,2
+FASH1505,Male,56,Donnaport,Casual,6,2113,2024-12-06,2023-10-03,Desktop,0.29,Gold,5
+FASH1506,Female,23,Morrisonchester,Sporty,6,4179,2025-03-24,2023-11-01,Mobile,0.23,Silver,5
+FASH1507,Female,34,Lake Scott,Formal,5,1796,2024-11-17,2024-09-04,Mobile,0.14,Bronze,3
+FASH1508,Female,42,Williamsstad,Ethnic,6,4496,2024-12-28,2023-11-26,Desktop,0.14,Platinum,4
+FASH1509,Female,45,Hillton,Ethnic,4,1655,2025-01-23,2023-10-11,Mobile,0.31,Platinum,5
+FASH1510,Female,19,Lake Danastad,Casual,8,2866,2025-02-14,2023-08-11,Mobile,0.2,Bronze,3
+FASH1511,Male,52,North Douglas,Streetwear,6,3391,2025-03-07,2023-10-01,Tablet,0.19,Gold,4
+FASH1512,Female,54,Johnsonland,Formal,2,2472,2025-02-06,2024-10-16,Mobile,0.63,Silver,2
+FASH1513,Female,22,Port Deanna,Sporty,5,1284,2024-12-16,2024-07-27,Mobile,0.39,Bronze,4
+FASH1514,Male,18,Patrickshire,Ethnic,5,4992,2025-04-30,2023-06-25,Mobile,0.11,Bronze,5
+FASH1515,Male,57,New Ericmouth,Ethnic,9,1581,2025-02-12,2024-07-13,Mobile,0.34,Bronze,4
+FASH1516,Male,29,Nathanland,Formal,7,2533,2025-03-05,2024-05-06,Mobile,0.43,Bronze,4
+FASH1517,Female,53,New Michael,Streetwear,3,2114,2025-02-27,2024-09-25,Desktop,0.27,Silver,5
+FASH1518,Other,40,Debrabury,Ethnic,9,2916,2025-01-18,2024-07-13,Mobile,0.35,Bronze,4
+FASH1519,Male,48,North Jillfort,Formal,6,4153,2025-01-17,2023-07-09,Mobile,0.2,Bronze,4
+FASH1520,Female,28,Mcintyreville,Casual,3,996,2024-12-13,2023-12-25,Desktop,0.36,Silver,4
+FASH1521,Male,27,Kimberlymouth,Streetwear,8,1004,2025-04-23,2024-10-16,Desktop,0.16,Bronze,4
+FASH1522,Other,20,New Justin,Sporty,4,3886,2025-05-04,2023-07-05,Mobile,0.59,Gold,5
+FASH1523,Female,31,Gonzalezberg,Ethnic,7,2708,2025-01-01,2023-11-24,Mobile,0.52,Silver,5
+FASH1524,Female,33,South Geraldmouth,Formal,10,3716,2025-04-06,2023-07-29,Mobile,0.36,Silver,4
+FASH1525,Female,27,Port Evelynmouth,Casual,6,4166,2025-04-22,2023-10-14,Tablet,0.38,Platinum,4
+FASH1526,Male,46,Jennaside,Sporty,6,1908,2025-03-25,2024-08-06,Tablet,0.08,Bronze,2
+FASH1527,Male,27,Patriciaburgh,Formal,3,4864,2024-11-29,2024-05-26,Mobile,0.3,Silver,5
+FASH1528,Male,29,Port Michael,Formal,4,4577,2025-01-06,2024-01-25,Desktop,0.3,Bronze,4
+FASH1529,Female,47,North Tracie,Sporty,2,1977,2024-11-17,2024-02-15,Mobile,0.36,Gold,4
+FASH1530,Female,58,East Kristy,Casual,6,2897,2025-01-26,2023-08-21,Desktop,0.08,Gold,3
+FASH1531,Other,18,West Angelastad,Casual,6,609,2024-11-21,2024-10-16,Desktop,0.38,Bronze,5
+FASH1532,Other,22,Laraside,Streetwear,5,4054,2024-12-13,2024-10-04,Desktop,0.51,Silver,2
+FASH1533,Female,37,New Nicole,Ethnic,5,1149,2025-04-26,2023-11-12,Mobile,0.73,Bronze,3
+FASH1534,Female,25,West Raymondfort,Sporty,5,1999,2025-03-03,2023-07-30,Mobile,0.42,Platinum,4
+FASH1535,Female,29,Hammondshire,Sporty,5,1095,2025-04-12,2023-12-21,Desktop,0.25,Bronze,4
+FASH1536,Female,18,East Teresaland,Sporty,5,1478,2024-12-23,2024-09-06,Tablet,0.39,Gold,3
+FASH1537,Male,37,Owenshaven,Casual,2,1230,2025-04-27,2023-07-07,Tablet,0.36,Bronze,4
+FASH1538,Female,45,Davidside,Ethnic,3,556,2024-12-24,2023-10-11,Tablet,0.32,Silver,3
+FASH1539,Male,54,Port Tammy,Streetwear,1,2743,2025-03-17,2024-01-15,Desktop,0.15,Platinum,1
+FASH1540,Other,54,Shawton,Formal,3,2201,2024-12-25,2024-05-25,Mobile,0.06,Gold,3
+FASH1541,Female,29,New Ericburgh,Formal,3,1786,2025-03-23,2024-04-28,Desktop,0.17,Bronze,5
+FASH1542,Male,54,West Sarah,Sporty,5,611,2024-12-22,2024-01-24,Tablet,0.43,Silver,3
+FASH1543,Female,45,West Stacey,Ethnic,6,1701,2025-01-03,2024-09-03,Mobile,0.1,Bronze,2
+FASH1544,Female,32,Meghanview,Casual,5,1447,2025-03-18,2024-10-07,Desktop,0.41,Silver,4
+FASH1545,Male,23,Lake Stephanie,Ethnic,4,4621,2025-01-30,2024-01-06,Desktop,0.35,Bronze,3
+FASH1546,Male,37,Davidport,Ethnic,5,1257,2025-02-19,2024-11-02,Tablet,0.05,Bronze,4
+FASH1547,Female,31,New Danielleshire,Casual,6,3888,2024-11-15,2024-08-09,Desktop,0.02,Silver,5
+FASH1548,Female,19,East Donna,Sporty,3,2341,2025-04-28,2023-09-09,Mobile,0.19,Bronze,5
+FASH1549,Female,26,Meganshire,Ethnic,1,4035,2025-04-12,2024-07-26,Tablet,0.43,Silver,3
+FASH1550,Female,54,Port Michelleland,Formal,3,2793,2025-04-10,2024-07-27,Tablet,0.46,Bronze,4
+FASH1551,Female,37,Lake Kelliview,Casual,5,1604,2025-03-24,2024-02-21,Mobile,0.2,Bronze,4
+FASH1552,Female,43,Port Ashley,Streetwear,5,1161,2024-11-13,2024-01-14,Tablet,0.22,Gold,3
+FASH1553,Female,46,South Pamelaside,Sporty,4,1408,2025-02-12,2024-04-10,Desktop,0.21,Bronze,1
+FASH1554,Female,18,Dawnport,Casual,3,2356,2025-05-07,2023-09-21,Desktop,0.38,Bronze,4
+FASH1555,Male,52,Sanchezfurt,Streetwear,5,2811,2024-12-07,2023-05-17,Tablet,0.11,Silver,1
+FASH1556,Male,23,Shawnton,Streetwear,4,1289,2025-03-17,2024-01-12,Mobile,0.16,Silver,5
+FASH1557,Male,54,South Robert,Ethnic,5,671,2024-12-15,2023-11-21,Desktop,0.57,Silver,4
+FASH1558,Female,22,Harrisberg,Ethnic,9,4860,2025-03-08,2023-11-02,Mobile,0.62,Bronze,3
+FASH1559,Female,50,Michellemouth,Ethnic,3,2486,2025-04-16,2024-09-22,Desktop,0.24,Bronze,3
+FASH1560,Female,31,Theresaberg,Casual,6,2385,2024-11-13,2024-04-16,Desktop,0.26,Gold,5
+FASH1561,Male,29,Zacharyville,Casual,3,975,2024-12-25,2023-12-14,Tablet,0.19,Platinum,3
+FASH1562,Male,59,Johnville,Sporty,8,1549,2024-12-31,2024-02-17,Tablet,0.39,Bronze,4
+FASH1563,Male,37,Shannonberg,Ethnic,5,4629,2025-03-10,2023-08-26,Mobile,0.16,Silver,3
+FASH1564,Male,41,North Kellyfurt,Streetwear,5,2811,2025-04-17,2024-10-22,Tablet,0.26,Bronze,5
+FASH1565,Female,51,Wrightburgh,Formal,3,1661,2025-01-10,2024-01-26,Desktop,0.14,Bronze,4
+FASH1566,Male,42,Sarahmouth,Sporty,5,1315,2025-03-30,2024-05-20,Desktop,0.61,Bronze,1
+FASH1567,Male,46,Port Erik,Casual,2,4266,2025-03-29,2024-05-07,Mobile,0.27,Silver,3
+FASH1568,Female,56,Jimenezport,Sporty,4,3422,2025-03-16,2024-04-23,Mobile,0.73,Bronze,4
+FASH1569,Male,48,Johnsonfurt,Sporty,8,1253,2025-01-04,2024-02-16,Desktop,0.61,Platinum,5
+FASH1570,Female,40,Levyborough,Sporty,4,961,2025-02-02,2024-01-06,Tablet,0.59,Silver,2
+FASH1571,Female,55,Brandonport,Sporty,6,3739,2025-05-04,2024-05-26,Tablet,0.06,Bronze,4
+FASH1572,Male,37,Harperfort,Formal,8,3202,2025-01-24,2024-07-15,Mobile,0.53,Gold,3
+FASH1573,Female,40,Amandaville,Ethnic,2,580,2025-04-26,2023-08-06,Mobile,0.22,Bronze,5
+FASH1574,Female,33,Andersonview,Streetwear,3,3304,2025-01-18,2023-09-27,Desktop,0.12,Silver,4
+FASH1575,Female,59,Kathrynstad,Sporty,7,1369,2025-02-09,2024-09-26,Desktop,0.13,Bronze,3
+FASH1576,Male,25,South Brettside,Sporty,4,1306,2024-12-30,2024-08-27,Mobile,0.57,Bronze,3
+FASH1577,Female,38,West Angela,Sporty,8,2434,2024-12-24,2023-07-16,Desktop,0.7,Bronze,1
+FASH1578,Female,18,South Williamside,Ethnic,4,1203,2025-02-10,2023-12-17,Mobile,0.12,Bronze,4
+FASH1579,Male,25,Marciaville,Casual,4,3023,2025-01-09,2023-08-30,Mobile,0.44,Bronze,3
+FASH1580,Female,46,North Phillip,Casual,4,3139,2025-03-23,2024-07-05,Tablet,0.53,Bronze,3
+FASH1581,Other,49,Angelastad,Formal,6,4409,2025-02-21,2023-10-13,Mobile,0.64,Platinum,5
+FASH1582,Female,55,East Carrie,Casual,7,1664,2025-04-21,2023-12-04,Desktop,0.25,Bronze,4
+FASH1583,Male,22,Porterton,Sporty,2,1119,2025-03-13,2024-09-11,Tablet,0.08,Bronze,4
+FASH1584,Female,39,East Jenniferfort,Sporty,5,3566,2025-01-28,2023-07-12,Tablet,0.37,Platinum,3
+FASH1585,Male,51,Hernandezhaven,Sporty,5,946,2025-03-05,2023-07-11,Desktop,0.05,Silver,1
+FASH1586,Male,18,West Sarah,Formal,5,2837,2024-12-01,2023-05-28,Desktop,0.28,Silver,3
+FASH1587,Male,43,Franciscoport,Sporty,4,708,2024-11-13,2024-06-10,Desktop,0.35,Bronze,4
+FASH1588,Male,27,Williamhaven,Casual,6,2960,2025-02-19,2024-09-15,Mobile,0.35,Silver,4
+FASH1589,Male,47,Ericksonport,Ethnic,4,3942,2025-03-20,2023-06-07,Tablet,0.06,Bronze,5
+FASH1590,Male,35,Cabrerastad,Ethnic,5,3211,2025-04-24,2024-08-07,Mobile,0.29,Silver,3
+FASH1591,Female,34,Emilychester,Streetwear,4,2837,2025-04-23,2024-08-05,Mobile,0.2,Platinum,3
+FASH1592,Male,43,Lauratown,Casual,3,1791,2025-01-23,2024-03-23,Mobile,0.17,Silver,5
+FASH1593,Male,25,Bakershire,Sporty,3,2698,2025-03-01,2024-08-14,Mobile,0.17,Bronze,3
+FASH1594,Female,57,Lake Brett,Ethnic,4,1900,2025-03-17,2023-10-26,Tablet,0.35,Silver,3
+FASH1595,Female,29,Jacksonfurt,Casual,3,3155,2025-03-07,2023-06-11,Tablet,0.6,Silver,2
+FASH1596,Female,44,Port Erin,Ethnic,7,4512,2025-03-10,2024-07-15,Mobile,0.13,Silver,4
+FASH1597,Male,25,New Stacyville,Sporty,7,1204,2025-01-05,2023-12-02,Desktop,0.47,Silver,5
+FASH1598,Male,42,North Scott,Ethnic,6,1325,2025-01-08,2024-07-09,Tablet,0.7,Silver,1
+FASH1599,Male,21,Hernandezborough,Streetwear,5,1504,2025-03-24,2024-07-06,Mobile,0.1,Silver,3
+FASH1600,Male,50,Shawfort,Streetwear,4,3960,2024-12-02,2024-05-14,Desktop,0.08,Platinum,4
+FASH1601,Male,18,Lake Devinborough,Ethnic,4,876,2025-02-13,2024-10-02,Desktop,0.34,Gold,5
+FASH1602,Male,36,Whitneyfort,Casual,7,1472,2024-11-24,2023-09-06,Mobile,0.31,Bronze,3
+FASH1603,Male,48,Edwardsburgh,Casual,6,4713,2025-01-16,2024-02-22,Tablet,0.15,Gold,5
+FASH1604,Male,33,Barrmouth,Casual,3,3576,2025-01-04,2024-03-13,Desktop,0.01,Bronze,3
+FASH1605,Female,31,Ericaview,Ethnic,4,943,2025-03-16,2023-11-03,Tablet,0.59,Gold,3
+FASH1606,Male,22,Leebury,Casual,4,1254,2025-01-14,2024-08-13,Tablet,0.43,Bronze,1
+FASH1607,Male,58,Angelabury,Sporty,4,4104,2025-04-28,2023-12-26,Desktop,0.07,Silver,3
+FASH1608,Female,43,Kellieborough,Streetwear,7,2671,2025-01-04,2023-08-25,Mobile,0.34,Gold,3
+FASH1609,Female,45,Stewartstad,Sporty,6,3205,2025-01-01,2024-05-08,Desktop,0.21,Bronze,5
+FASH1610,Male,19,Keithshire,Casual,7,3965,2025-03-19,2024-06-06,Desktop,0.3,Gold,3
+FASH1611,Female,23,Huangfurt,Sporty,3,3211,2025-03-30,2024-06-13,Tablet,0.59,Silver,3
+FASH1612,Female,26,Stephanieberg,Casual,5,2907,2025-05-04,2023-07-23,Mobile,0.04,Bronze,1
+FASH1613,Male,50,Bobbyland,Ethnic,5,1122,2025-03-18,2024-03-17,Tablet,0.45,Silver,4
+FASH1614,Female,58,Sandraview,Sporty,4,2223,2025-01-09,2024-02-20,Desktop,0.1,Platinum,5
+FASH1615,Female,42,Lewisside,Ethnic,5,3822,2024-12-18,2024-06-07,Mobile,0.24,Bronze,3
+FASH1616,Male,30,Sarahview,Ethnic,2,2419,2024-12-11,2023-05-22,Mobile,0.17,Silver,3
+FASH1617,Male,26,North Christina,Formal,6,1418,2025-02-20,2024-10-09,Mobile,0.2,Gold,2
+FASH1618,Female,30,East Brent,Casual,2,4715,2025-04-09,2023-11-15,Mobile,0.16,Platinum,4
+FASH1619,Female,48,Lake Jesse,Streetwear,3,1081,2024-12-28,2024-09-01,Mobile,0.06,Gold,2
+FASH1620,Male,58,South Markfort,Casual,3,4381,2025-05-05,2024-10-26,Desktop,0.21,Silver,4
+FASH1621,Male,28,Lake Kellitown,Streetwear,5,2186,2024-11-23,2023-09-19,Desktop,0.3,Platinum,4
+FASH1622,Male,21,South Denise,Casual,0,4409,2025-04-17,2024-06-16,Desktop,0.38,Gold,4
+FASH1623,Female,51,Woodsborough,Ethnic,9,2499,2025-04-27,2023-08-31,Tablet,0.14,Gold,3
+FASH1624,Female,55,Manuelton,Sporty,4,3211,2025-04-16,2024-04-24,Mobile,0.14,Bronze,3
+FASH1625,Male,21,Lake Audreyside,Sporty,2,900,2025-04-18,2023-09-14,Mobile,0.03,Bronze,4
+FASH1626,Female,55,East Robertburgh,Formal,5,4148,2025-03-08,2023-09-30,Desktop,0.35,Silver,4
+FASH1627,Female,36,Port Randyfort,Streetwear,3,3128,2025-01-29,2024-07-26,Mobile,0.23,Silver,2
+FASH1628,Male,23,Lake Suzanne,Streetwear,2,2156,2025-03-20,2024-07-26,Tablet,0.04,Bronze,5
+FASH1629,Male,51,Nancytown,Streetwear,5,1120,2025-01-13,2024-10-07,Mobile,0.07,Bronze,4
+FASH1630,Female,35,Ashleyville,Ethnic,5,746,2025-03-24,2023-09-04,Mobile,0.13,Silver,3
+FASH1631,Female,30,Justinside,Streetwear,3,3839,2024-12-09,2024-05-23,Tablet,0.21,Bronze,2
+FASH1632,Female,58,Smallberg,Sporty,4,3510,2025-04-01,2024-02-16,Desktop,0.22,Bronze,5
+FASH1633,Female,40,Nelsonville,Ethnic,2,2868,2024-11-16,2023-06-14,Desktop,0.59,Bronze,3
+FASH1634,Male,36,Franciscomouth,Casual,9,4494,2025-03-19,2023-10-30,Mobile,0.03,Gold,5
+FASH1635,Male,28,Jennifertown,Streetwear,13,2339,2025-02-16,2024-05-26,Tablet,0.46,Silver,3
+FASH1636,Female,18,Krystalshire,Streetwear,4,3403,2025-01-08,2023-11-10,Desktop,0.05,Bronze,3
+FASH1637,Male,41,East Cheryl,Casual,3,4895,2025-01-01,2023-07-01,Desktop,0.54,Bronze,4
+FASH1638,Male,24,Wilcoxhaven,Streetwear,9,4998,2025-05-07,2023-12-05,Desktop,0.35,Silver,1
+FASH1639,Male,42,Christopherville,Casual,2,4191,2025-02-01,2024-02-24,Mobile,0.13,Gold,3
+FASH1640,Male,38,East Thomas,Ethnic,4,4341,2025-01-29,2023-11-11,Tablet,0.05,Silver,3
+FASH1641,Male,32,North Jose,Sporty,7,4848,2025-01-26,2023-06-16,Mobile,0.28,Bronze,5
+FASH1642,Male,18,South Karen,Casual,3,1892,2025-04-04,2024-10-14,Desktop,0.28,Silver,4
+FASH1643,Male,29,Kevinshire,Formal,4,4250,2024-11-18,2023-10-21,Tablet,0.11,Gold,3
+FASH1644,Male,24,West Desireebury,Casual,7,4755,2025-03-05,2024-06-19,Mobile,0.28,Bronze,3
+FASH1645,Female,32,Lake Davidport,Streetwear,3,3508,2025-03-29,2024-02-18,Desktop,0.2,Silver,4
+FASH1646,Female,38,South Gina,Ethnic,8,4800,2025-03-03,2024-03-10,Desktop,0.31,Bronze,3
+FASH1647,Female,36,Hannahport,Ethnic,6,3838,2025-04-19,2024-05-12,Mobile,0.2,Bronze,3
+FASH1648,Female,46,Christinabury,Casual,6,4014,2024-12-18,2024-05-01,Desktop,0.16,Bronze,3
+FASH1649,Female,42,South Eric,Sporty,8,1259,2025-01-17,2023-06-19,Desktop,0.69,Silver,4
+FASH1650,Male,50,Robertside,Formal,3,3268,2025-04-02,2023-06-13,Tablet,0.3,Bronze,3
+FASH1651,Female,49,Toddborough,Ethnic,6,3588,2025-03-30,2024-09-28,Desktop,0.41,Bronze,4
+FASH1652,Female,52,Lake Karen,Streetwear,5,2615,2024-12-25,2024-01-20,Mobile,0.26,Bronze,4
+FASH1653,Female,55,New Seanstad,Streetwear,8,4728,2025-03-25,2023-08-02,Tablet,0.31,Bronze,5
+FASH1654,Male,43,New Danielside,Sporty,10,2223,2025-02-23,2024-11-10,Mobile,0.13,Silver,4
+FASH1655,Male,28,New Amanda,Ethnic,2,3466,2025-03-15,2024-06-21,Desktop,0.35,Bronze,3
+FASH1656,Male,52,West Melissa,Casual,4,929,2025-04-13,2024-09-17,Tablet,0.37,Bronze,4
+FASH1657,Male,25,Wilsonborough,Streetwear,6,2855,2025-02-12,2023-12-12,Tablet,0.47,Gold,5
+FASH1658,Female,31,Davishaven,Sporty,4,2959,2025-05-07,2023-12-04,Tablet,0.29,Silver,4
+FASH1659,Female,27,Stokesmouth,Ethnic,6,4692,2025-05-13,2024-08-05,Tablet,0.33,Silver,3
+FASH1660,Male,19,New Robert,Ethnic,4,2218,2025-03-22,2024-07-09,Mobile,0.22,Bronze,2
+FASH1661,Other,26,New Stevenport,Ethnic,7,1765,2025-01-20,2024-07-29,Desktop,0.66,Silver,5
+FASH1662,Female,20,South Jonathantown,Ethnic,5,1808,2025-02-18,2023-09-26,Desktop,0.2,Bronze,3
+FASH1663,Male,38,New Charles,Ethnic,1,1550,2025-01-09,2024-03-01,Tablet,0.24,Bronze,2
+FASH1664,Male,43,Cooperland,Streetwear,4,3973,2025-04-25,2024-10-02,Desktop,0.49,Silver,4
+FASH1665,Male,25,North Valeriefort,Sporty,12,2749,2024-12-15,2024-03-03,Mobile,0.1,Platinum,5
+FASH1666,Male,19,West Robertberg,Ethnic,10,3309,2025-04-24,2024-02-21,Desktop,0.51,Silver,3
+FASH1667,Male,23,Brooksfurt,Formal,4,3421,2025-03-19,2024-08-12,Mobile,0.51,Bronze,4
+FASH1668,Male,45,Kanefurt,Formal,3,4541,2025-05-01,2024-10-02,Mobile,0.39,Gold,5
+FASH1669,Male,46,Millerside,Sporty,6,2917,2025-02-28,2023-07-13,Desktop,0.08,Bronze,4
+FASH1670,Male,43,Lake Michelle,Casual,6,1032,2024-12-17,2024-06-18,Mobile,0.28,Gold,4
+FASH1671,Female,42,East Victoriafurt,Casual,5,1398,2025-01-08,2023-11-25,Mobile,0.11,Bronze,4
+FASH1672,Male,29,Lake Tiffany,Casual,2,3154,2024-11-30,2024-03-01,Mobile,0.44,Bronze,5
+FASH1673,Female,22,Port Andrewport,Formal,9,1969,2025-02-11,2023-11-03,Mobile,0.11,Silver,4
+FASH1674,Male,51,Nunezside,Casual,6,3420,2024-12-06,2024-06-18,Tablet,0.29,Platinum,5
+FASH1675,Other,54,Patelbury,Streetwear,4,1752,2025-04-04,2024-03-24,Desktop,0.22,Gold,3
+FASH1676,Male,32,South Michael,Ethnic,6,1269,2025-01-01,2024-02-12,Tablet,0.35,Silver,3
+FASH1677,Male,53,Jacobville,Formal,8,1333,2025-04-01,2024-02-05,Mobile,0.19,Silver,2
+FASH1678,Other,32,Port Donnatown,Sporty,2,2709,2025-04-17,2024-05-26,Desktop,0.37,Silver,4
+FASH1679,Female,40,East Carlos,Sporty,2,3924,2025-02-28,2024-05-22,Mobile,0.16,Silver,5
+FASH1680,Female,23,South Carlaton,Ethnic,6,1591,2025-04-09,2024-08-25,Desktop,0.12,Gold,3
+FASH1681,Male,38,Lake Bradley,Formal,6,1696,2025-05-08,2023-05-19,Tablet,0.33,Bronze,2
+FASH1682,Male,40,Youngborough,Casual,4,4414,2024-12-17,2024-06-06,Desktop,0.19,Bronze,2
+FASH1683,Female,33,East Williamport,Casual,9,2160,2025-03-23,2023-08-29,Mobile,0.46,Platinum,3
+FASH1684,Female,32,Port Sabrina,Streetwear,3,760,2025-05-05,2024-04-19,Desktop,0.06,Platinum,3
+FASH1685,Female,42,Barbaramouth,Streetwear,5,2764,2025-01-16,2023-09-19,Desktop,0.44,Bronze,3
+FASH1686,Female,53,West Nancy,Casual,8,1685,2025-03-19,2023-11-08,Tablet,0.57,Bronze,5
+FASH1687,Male,28,South Kevin,Sporty,5,2949,2024-11-29,2023-07-12,Mobile,0.2,Platinum,3
+FASH1688,Female,32,New Stacyburgh,Sporty,5,4033,2024-12-25,2024-06-16,Desktop,0.13,Silver,4
+FASH1689,Male,21,Peterston,Streetwear,7,4870,2025-01-19,2024-09-24,Tablet,0.34,Silver,4
+FASH1690,Male,38,Shellyfurt,Ethnic,4,4801,2024-12-25,2023-12-18,Desktop,0.08,Bronze,4
+FASH1691,Male,30,Heatherchester,Casual,6,3844,2025-04-05,2023-10-25,Mobile,0.41,Gold,3
+FASH1692,Female,39,West Nicholas,Streetwear,5,1366,2025-04-30,2023-09-07,Desktop,0.1,Bronze,5
+FASH1693,Male,36,Allenbury,Streetwear,6,592,2025-01-10,2023-10-06,Desktop,0.46,Bronze,4
+FASH1694,Male,51,Meredithberg,Casual,5,3678,2025-02-01,2023-09-13,Desktop,0.28,Bronze,3
+FASH1695,Female,31,Melendezside,Casual,5,1851,2025-04-14,2024-02-19,Desktop,0.06,Platinum,2
+FASH1696,Male,21,Faulknerside,Sporty,4,864,2025-05-03,2024-08-23,Mobile,0.6,Gold,2
+FASH1697,Female,44,South John,Ethnic,4,4218,2025-01-15,2023-08-13,Tablet,0.14,Gold,4
+FASH1698,Male,46,West Deborah,Ethnic,5,2424,2025-01-23,2024-10-08,Tablet,0.32,Bronze,4
+FASH1699,Female,45,Booneland,Casual,3,3595,2025-01-01,2023-11-08,Desktop,0.09,Platinum,3
+FASH1700,Female,52,North Joseph,Formal,5,3038,2025-03-05,2024-03-31,Mobile,0.27,Gold,3
+FASH1701,Male,25,Port Charlesshire,Streetwear,7,1796,2025-01-08,2024-01-25,Mobile,0.31,Gold,5
+FASH1702,Male,33,South Jason,Streetwear,3,2776,2025-02-10,2023-08-10,Mobile,0.27,Platinum,5
+FASH1703,Male,59,Kevintown,Casual,0,502,2025-04-26,2024-05-22,Mobile,0.41,Bronze,4
+FASH1704,Male,53,East Suzanne,Formal,5,3992,2024-12-04,2024-10-19,Mobile,0.25,Silver,4
+FASH1705,Other,47,Lake Yvonnefort,Sporty,4,2253,2025-02-11,2024-05-19,Mobile,0.09,Platinum,5
+FASH1706,Male,35,Lake Cassandra,Casual,1,1410,2024-11-22,2024-05-20,Desktop,0.24,Gold,4
+FASH1707,Female,19,South Rose,Casual,5,806,2025-04-29,2023-10-24,Tablet,0.14,Silver,3
+FASH1708,Male,30,Kimberlyfurt,Streetwear,5,4731,2025-03-15,2024-08-14,Tablet,0.32,Bronze,2
+FASH1709,Female,21,Fergusonstad,Casual,3,4515,2025-03-05,2023-09-16,Desktop,0.34,Silver,4
+FASH1710,Female,43,Josehaven,Casual,1,1938,2025-03-04,2024-09-27,Tablet,0.38,Silver,3
+FASH1711,Female,42,Owensfort,Casual,5,1372,2025-03-12,2024-03-28,Mobile,0.04,Bronze,1
+FASH1712,Female,47,Robinstad,Streetwear,11,1641,2024-11-25,2023-05-31,Mobile,0.31,Gold,5
+FASH1713,Male,28,Robertshire,Sporty,5,1165,2025-02-11,2023-11-19,Tablet,0.34,Bronze,4
+FASH1714,Male,24,Lake Dustin,Sporty,5,708,2025-05-03,2023-06-16,Mobile,0.21,Bronze,5
+FASH1715,Female,48,Angelashire,Casual,7,1451,2024-12-19,2023-08-21,Mobile,0.2,Silver,4
+FASH1716,Female,27,Phillipsborough,Streetwear,4,1557,2025-02-17,2024-08-01,Tablet,0.08,Silver,5
+FASH1717,Other,56,Jerryshire,Sporty,1,4508,2024-12-05,2024-08-16,Desktop,0.15,Bronze,3
+FASH1718,Male,30,South Andrea,Sporty,5,2368,2025-04-29,2023-09-16,Tablet,0.6,Bronze,4
+FASH1719,Female,48,Jonathanfort,Sporty,7,1271,2025-03-24,2023-08-26,Tablet,0.16,Bronze,3
+FASH1720,Female,24,Murraystad,Streetwear,3,4530,2025-01-25,2024-09-13,Tablet,0.34,Bronze,1
+FASH1721,Male,59,East Jennifer,Streetwear,3,1021,2025-02-22,2024-06-15,Tablet,0.3,Bronze,3
+FASH1722,Male,59,Whiteside,Casual,9,3855,2025-01-08,2023-06-13,Desktop,0.4,Bronze,4
+FASH1723,Female,53,New Arthurland,Ethnic,1,1900,2025-01-31,2024-07-31,Desktop,0.23,Bronze,3
+FASH1724,Female,37,Port Adamberg,Sporty,6,4238,2024-11-22,2023-09-05,Mobile,0.15,Silver,4
+FASH1725,Female,21,North Jasmine,Ethnic,6,4843,2025-04-30,2023-06-26,Mobile,0.72,Platinum,3
+FASH1726,Male,24,East Williamstad,Streetwear,5,4223,2025-04-26,2023-09-20,Tablet,0.52,Silver,2
+FASH1727,Female,18,New Danafort,Streetwear,4,3747,2024-12-11,2023-11-30,Mobile,0.43,Gold,4
+FASH1728,Male,59,Smithside,Streetwear,7,2358,2024-12-08,2023-09-30,Desktop,0.07,Bronze,5
+FASH1729,Male,30,Smithhaven,Ethnic,7,4564,2024-12-20,2024-06-18,Mobile,0.39,Gold,3
+FASH1730,Male,39,Amandaport,Streetwear,6,2898,2025-01-17,2024-03-23,Mobile,0.54,Silver,4
+FASH1731,Female,38,New Lisachester,Casual,5,642,2025-01-30,2024-08-21,Mobile,0.07,Silver,5
+FASH1732,Female,39,North Samantha,Streetwear,3,3351,2025-03-02,2024-07-24,Tablet,0.17,Bronze,4
+FASH1733,Female,45,East James,Formal,5,3969,2025-05-04,2024-09-20,Mobile,0.19,Bronze,4
+FASH1734,Male,26,Lisaview,Ethnic,3,4195,2025-05-07,2023-05-28,Desktop,0.32,Silver,3
+FASH1735,Female,43,Millerfurt,Formal,1,1217,2025-02-08,2024-10-08,Desktop,0.21,Silver,4
+FASH1736,Male,26,Cunninghambury,Streetwear,2,1142,2024-12-09,2023-12-20,Desktop,0.37,Gold,3
+FASH1737,Female,32,Gabriellaland,Casual,6,3940,2025-01-12,2023-07-19,Desktop,0.45,Bronze,4
+FASH1738,Male,27,North Richardfurt,Sporty,4,3048,2025-04-28,2023-10-29,Mobile,0.25,Bronze,5
+FASH1739,Male,41,Browntown,Streetwear,9,4193,2025-03-30,2024-04-26,Tablet,0.45,Silver,4
+FASH1740,Female,59,North Vincent,Casual,4,869,2024-12-17,2024-08-27,Desktop,0.21,Gold,2
+FASH1741,Male,25,Newmanmouth,Ethnic,6,4150,2025-04-12,2024-05-14,Desktop,0.21,Bronze,5
+FASH1742,Female,41,New Samanthabury,Formal,8,1286,2024-11-27,2024-05-22,Tablet,0.38,Silver,4
+FASH1743,Female,33,Port Heather,Formal,5,1449,2025-02-14,2023-09-23,Tablet,0.32,Bronze,5
+FASH1744,Male,43,Nelsonland,Formal,3,1021,2025-01-15,2023-10-31,Desktop,0.18,Silver,4
+FASH1745,Female,44,Rachelshire,Ethnic,4,3443,2025-03-14,2024-03-28,Desktop,0.32,Gold,2
+FASH1746,Male,54,East Sarahmouth,Casual,3,854,2024-12-16,2024-08-22,Tablet,0.44,Gold,4
+FASH1747,Female,21,East Brendafurt,Ethnic,6,2835,2025-01-11,2023-09-01,Desktop,0.11,Bronze,4
+FASH1748,Female,41,West Franciscobury,Formal,6,1982,2025-03-15,2024-08-08,Desktop,0.38,Bronze,3
+FASH1749,Female,36,Rhodesside,Streetwear,9,2147,2024-11-23,2023-10-02,Mobile,0.66,Silver,4
+FASH1750,Male,53,Patrickberg,Sporty,5,3545,2024-11-12,2024-09-09,Tablet,0.24,Bronze,4
+FASH1751,Female,56,New Juliestad,Ethnic,5,2715,2025-02-07,2024-10-07,Mobile,0.39,Silver,4
+FASH1752,Female,27,North Samuelland,Ethnic,3,927,2025-01-04,2024-06-13,Mobile,0.34,Silver,3
+FASH1753,Male,42,Cassiefurt,Casual,8,3037,2024-12-22,2023-12-05,Tablet,0.31,Bronze,4
+FASH1754,Male,35,Anthonyview,Casual,6,1044,2025-04-08,2023-09-21,Mobile,0.41,Gold,3
+FASH1755,Female,36,Henrystad,Ethnic,5,3264,2025-04-11,2024-10-27,Desktop,0.33,Bronze,3
+FASH1756,Female,53,Reynoldsshire,Formal,1,4265,2024-12-14,2024-02-04,Mobile,0.15,Platinum,2
+FASH1757,Female,27,Millerport,Sporty,3,1158,2025-03-03,2024-04-30,Tablet,0.35,Gold,1
+FASH1758,Female,50,Lake Charles,Casual,2,3327,2025-04-09,2024-08-19,Desktop,0.32,Gold,3
+FASH1759,Female,22,Ericberg,Formal,7,2558,2024-12-12,2024-08-14,Desktop,0.13,Bronze,3
+FASH1760,Male,52,Stewartville,Streetwear,2,3827,2025-02-15,2023-07-06,Desktop,0.38,Platinum,3
+FASH1761,Male,51,North Sherrymouth,Casual,2,1230,2025-04-13,2023-11-08,Desktop,0.34,Gold,5
+FASH1762,Male,50,Kathleenville,Formal,8,2332,2025-04-09,2024-03-02,Mobile,0.24,Bronze,4
+FASH1763,Female,38,North Jacob,Formal,3,908,2025-04-12,2024-03-08,Mobile,0.58,Bronze,4
+FASH1764,Male,34,Hawkinshaven,Sporty,6,4679,2024-11-29,2023-08-24,Desktop,0.09,Bronze,5
+FASH1765,Female,39,Garcialand,Sporty,6,3747,2024-12-07,2023-08-06,Tablet,0.22,Platinum,5
+FASH1766,Female,54,Angelamouth,Streetwear,2,633,2025-03-11,2023-05-26,Desktop,0.51,Gold,5
+FASH1767,Female,32,Smithchester,Formal,5,1166,2025-02-04,2023-10-18,Mobile,0.5,Platinum,2
+FASH1768,Male,52,Maxwellside,Formal,2,776,2025-03-15,2024-06-23,Desktop,0.31,Gold,4
+FASH1769,Female,45,New Adriana,Sporty,2,3807,2025-02-03,2024-06-08,Mobile,0.67,Silver,5
+FASH1770,Male,24,Jacksonview,Casual,5,1381,2025-01-29,2024-10-26,Desktop,0.22,Bronze,5
+FASH1771,Female,49,Josephberg,Casual,4,2560,2025-02-03,2024-04-04,Tablet,0.26,Bronze,4
+FASH1772,Male,28,East Ryanchester,Ethnic,3,2582,2025-02-12,2023-09-07,Desktop,0.32,Bronze,1
+FASH1773,Male,27,Toddland,Sporty,5,1737,2025-01-25,2024-08-26,Tablet,0.26,Silver,5
+FASH1774,Female,26,Johnathanbury,Ethnic,8,2952,2024-11-12,2023-07-27,Tablet,0.05,Platinum,4
+FASH1775,Male,31,Wheelerborough,Sporty,7,658,2024-11-19,2023-09-28,Desktop,0.39,Platinum,3
+FASH1776,Male,30,Rodriguezport,Streetwear,5,3096,2025-02-23,2024-05-17,Tablet,0.11,Bronze,3
+FASH1777,Female,42,South Martinfurt,Formal,6,4315,2024-12-20,2024-09-02,Tablet,0.38,Silver,3
+FASH1778,Female,19,Scottchester,Streetwear,3,4874,2025-04-02,2024-08-21,Mobile,0.16,Silver,3
+FASH1779,Female,52,West Malik,Sporty,5,3026,2025-01-23,2023-06-13,Mobile,0.13,Silver,3
+FASH1780,Female,24,South Leon,Formal,8,610,2024-11-14,2024-06-29,Tablet,0.41,Silver,5
+FASH1781,Female,38,Novakport,Casual,5,1041,2025-05-04,2024-06-07,Desktop,0.1,Bronze,3
+FASH1782,Male,35,Faulknerbury,Casual,6,1638,2025-01-13,2023-08-13,Tablet,0.11,Platinum,4
+FASH1783,Male,20,Nicholasfurt,Ethnic,5,3783,2025-04-07,2023-07-25,Desktop,0.2,Gold,5
+FASH1784,Male,59,Danielshire,Sporty,5,4110,2025-04-22,2024-05-22,Mobile,0.13,Gold,4
+FASH1785,Female,56,New Wendy,Sporty,7,4955,2025-02-23,2024-10-07,Desktop,0.26,Bronze,3
+FASH1786,Female,58,Lake Katrina,Casual,5,4057,2024-12-19,2023-08-23,Tablet,0.29,Bronze,4
+FASH1787,Male,28,Lake Stevenborough,Streetwear,4,2919,2024-11-15,2024-08-24,Tablet,0.16,Bronze,2
+FASH1788,Female,56,Salinasland,Formal,7,2256,2025-03-23,2024-07-05,Tablet,0.19,Gold,2
+FASH1789,Female,41,Chambersberg,Streetwear,6,3586,2024-11-12,2023-05-14,Tablet,0.37,Platinum,4
+FASH1790,Male,36,Johnberg,Streetwear,9,2806,2025-03-13,2024-10-22,Tablet,0.14,Silver,5
+FASH1791,Female,21,Mccormickland,Casual,4,1475,2025-04-03,2024-09-29,Desktop,0.09,Gold,4
+FASH1792,Female,43,Ewingfort,Casual,1,1222,2024-12-30,2024-04-13,Tablet,0.35,Silver,2
+FASH1793,Female,55,Fergusonchester,Casual,8,3070,2024-12-25,2024-06-22,Mobile,0.33,Bronze,3
+FASH1794,Male,59,Port Tanyaside,Ethnic,5,824,2025-03-26,2024-04-04,Tablet,0.3,Gold,1
+FASH1795,Female,49,North Kaylastad,Streetwear,6,2029,2025-05-01,2024-02-25,Desktop,0.25,Gold,4
+FASH1796,Female,56,Lake Cheyenne,Sporty,5,2445,2025-01-17,2023-06-16,Tablet,0.06,Bronze,3
+FASH1797,Female,53,Rasmussenmouth,Formal,6,4986,2025-01-11,2024-11-05,Tablet,0.31,Bronze,5
+FASH1798,Female,57,Rodriguezville,Ethnic,8,2930,2024-12-07,2024-06-28,Desktop,0.1,Silver,2
+FASH1799,Female,54,Jeffreyhaven,Sporty,2,4611,2024-12-01,2024-04-11,Tablet,0.09,Bronze,1
+FASH1800,Female,50,South Neil,Streetwear,4,4010,2025-01-25,2023-11-08,Desktop,0.16,Platinum,4
+FASH1801,Male,53,Bartonshire,Casual,1,1345,2025-02-17,2024-05-22,Tablet,0.59,Silver,3
+FASH1802,Female,20,West Whitney,Streetwear,6,1067,2025-03-06,2024-03-05,Mobile,0.26,Bronze,4
+FASH1803,Female,26,Garciachester,Formal,8,4188,2025-01-10,2024-02-10,Tablet,0.31,Bronze,5
+FASH1804,Male,25,North Marieberg,Ethnic,7,2679,2024-12-14,2024-08-13,Desktop,0.4,Platinum,1
+FASH1805,Female,50,Larrymouth,Ethnic,6,2519,2024-11-24,2024-11-05,Mobile,0.12,Gold,3
+FASH1806,Female,23,New Timothy,Formal,4,3819,2025-04-20,2024-08-03,Desktop,0.32,Gold,5
+FASH1807,Female,58,Davismouth,Sporty,3,2820,2024-11-20,2023-07-28,Tablet,0.38,Bronze,4
+FASH1808,Female,56,Carloston,Sporty,6,2146,2025-01-08,2024-04-08,Mobile,0.19,Gold,5
+FASH1809,Male,21,North Melindaville,Ethnic,6,4503,2025-01-07,2023-08-25,Desktop,0.6,Silver,3
+FASH1810,Other,30,Lake John,Ethnic,3,4409,2025-02-08,2023-11-27,Mobile,0.33,Silver,3
+FASH1811,Female,19,New Ethan,Casual,1,3920,2025-04-02,2024-05-18,Mobile,0.15,Platinum,3
+FASH1812,Male,22,Mullenbury,Sporty,8,3031,2025-02-21,2023-11-10,Desktop,0.34,Bronze,3
+FASH1813,Female,44,Sotoburgh,Formal,2,856,2025-03-07,2023-07-18,Mobile,0.18,Silver,4
+FASH1814,Female,49,Fosterborough,Sporty,5,3581,2025-02-21,2023-12-20,Desktop,0.48,Bronze,3
+FASH1815,Female,38,Vargasfurt,Casual,4,2780,2025-01-16,2024-08-20,Mobile,0.15,Silver,4
+FASH1816,Female,25,Lake Jasonview,Ethnic,6,4631,2025-02-04,2024-07-09,Mobile,0.09,Bronze,3
+FASH1817,Male,55,New Cristianside,Ethnic,4,2960,2025-05-03,2024-03-26,Mobile,0.28,Platinum,5
+FASH1818,Male,25,West Mark,Casual,5,3287,2025-03-25,2023-11-30,Tablet,0.49,Bronze,1
+FASH1819,Male,20,Wilsonfort,Formal,5,4709,2024-12-07,2023-10-07,Tablet,0.29,Silver,3
+FASH1820,Female,20,Candicefurt,Ethnic,6,1697,2025-01-17,2023-05-18,Desktop,0.34,Gold,4
+FASH1821,Male,39,West Michaelmouth,Streetwear,3,1778,2025-05-06,2023-05-19,Mobile,0.09,Platinum,2
+FASH1822,Male,23,Port Emily,Ethnic,5,965,2025-02-15,2024-08-04,Desktop,0.16,Silver,4
+FASH1823,Male,19,Samanthashire,Streetwear,5,4500,2025-01-20,2024-06-22,Tablet,0.63,Silver,3
+FASH1824,Female,40,Lake Dennisville,Casual,4,3848,2025-04-06,2023-08-13,Tablet,0.22,Bronze,5
+FASH1825,Female,19,West Daryl,Casual,4,1987,2024-12-18,2024-06-20,Tablet,0.17,Bronze,4
+FASH1826,Male,55,Heatherhaven,Ethnic,4,825,2024-12-14,2023-05-19,Tablet,0.09,Silver,4
+FASH1827,Male,34,Barnesberg,Sporty,4,2265,2025-05-07,2024-02-29,Desktop,0.52,Bronze,5
+FASH1828,Female,52,Hendersonfort,Streetwear,6,4662,2025-05-09,2024-10-03,Mobile,0.09,Bronze,5
+FASH1829,Female,51,New Garrett,Formal,6,803,2025-04-18,2023-10-20,Desktop,0.17,Bronze,4
+FASH1830,Male,40,Donaldmouth,Ethnic,6,1940,2025-01-29,2024-10-29,Mobile,0.06,Silver,4
+FASH1831,Female,47,Harveystad,Formal,7,648,2024-11-15,2024-01-14,Tablet,0.19,Silver,4
+FASH1832,Male,25,South Derrickfurt,Ethnic,5,3534,2024-12-26,2024-03-26,Mobile,0.2,Bronze,3
+FASH1833,Male,39,Ortizfort,Sporty,8,3131,2024-12-25,2024-02-19,Tablet,0.24,Bronze,5
+FASH1834,Female,53,Mckinneymouth,Sporty,4,595,2025-04-02,2023-08-04,Desktop,0.23,Silver,4
+FASH1835,Male,22,Jacksonshire,Sporty,5,3955,2024-12-07,2023-09-11,Mobile,0.07,Silver,3
+FASH1836,Female,30,Port Kathleenport,Sporty,1,4877,2024-12-23,2024-04-08,Desktop,0.05,Silver,2
+FASH1837,Male,46,West Jeffreyport,Casual,7,2869,2025-04-03,2024-10-01,Tablet,0.26,Gold,1
+FASH1838,Female,48,Port Stephen,Casual,5,3967,2024-11-16,2024-08-10,Desktop,0.39,Bronze,3
+FASH1839,Female,33,Dunnville,Streetwear,9,1028,2025-03-06,2023-11-27,Tablet,0.6,Bronze,3
+FASH1840,Male,59,West Kimberlystad,Formal,5,2810,2025-02-17,2023-12-02,Tablet,0.22,Bronze,3
+FASH1841,Female,47,Port Jenniferside,Ethnic,8,2163,2024-12-14,2024-07-03,Tablet,0.38,Silver,3
+FASH1842,Male,33,South Curtis,Ethnic,9,3864,2024-12-05,2024-04-06,Desktop,0.15,Gold,4
+FASH1843,Other,29,West Nancy,Casual,5,2841,2025-01-22,2024-07-25,Desktop,0.72,Bronze,3
+FASH1844,Male,34,South Joseland,Ethnic,9,1192,2025-03-30,2024-02-22,Mobile,0.29,Silver,3
+FASH1845,Male,33,Grimesville,Casual,5,4830,2025-03-18,2024-08-31,Mobile,0.28,Silver,4
+FASH1846,Male,29,East Lisa,Streetwear,6,1451,2025-04-14,2023-12-14,Desktop,0.4,Platinum,5
+FASH1847,Other,25,Michellechester,Formal,3,1860,2024-11-19,2024-10-23,Desktop,0.24,Gold,4
+FASH1848,Female,37,New Donald,Streetwear,5,1038,2025-01-23,2024-03-17,Desktop,0.31,Silver,3
+FASH1849,Female,20,Port Jamie,Sporty,5,1319,2025-05-01,2023-10-19,Desktop,0.31,Silver,4
+FASH1850,Male,33,New Michaelview,Sporty,8,3662,2025-03-16,2024-03-29,Tablet,0.79,Platinum,3
+FASH1851,Female,47,West Tiffany,Sporty,7,4425,2024-12-31,2024-07-15,Tablet,0.37,Platinum,3
+FASH1852,Male,40,Keithview,Streetwear,8,771,2025-04-10,2024-07-20,Tablet,0.41,Silver,3
+FASH1853,Female,45,East Sydneychester,Ethnic,12,1528,2025-02-23,2024-05-22,Desktop,0.12,Silver,4
+FASH1854,Male,57,West Michelleberg,Formal,2,4165,2025-03-13,2023-09-29,Tablet,0.07,Silver,4
+FASH1855,Male,22,East Dustin,Sporty,6,1742,2024-11-21,2024-02-25,Tablet,0.51,Silver,4
+FASH1856,Male,37,Mariafurt,Sporty,4,1641,2025-03-07,2024-07-21,Mobile,0.19,Silver,3
+FASH1857,Female,57,Thomasview,Sporty,7,1092,2024-11-21,2024-07-18,Mobile,0.83,Bronze,4
+FASH1858,Female,18,Brooksland,Formal,4,2105,2025-03-20,2024-05-23,Tablet,0.08,Platinum,3
+FASH1859,Male,47,South Zacharyview,Sporty,4,4710,2024-12-02,2023-11-27,Tablet,0.29,Silver,3
+FASH1860,Female,38,Shawnfort,Formal,3,3877,2025-03-18,2024-01-07,Tablet,0.58,Gold,3
+FASH1861,Female,37,Brandiland,Sporty,6,4571,2025-04-23,2024-08-04,Desktop,0.01,Silver,4
+FASH1862,Female,23,Reidstad,Streetwear,6,4802,2024-11-15,2024-02-05,Mobile,0.33,Gold,2
+FASH1863,Male,39,Port Amandaborough,Streetwear,4,4194,2024-11-21,2024-11-11,Mobile,0.35,Bronze,4
+FASH1864,Male,35,Summersfort,Formal,7,2850,2025-03-25,2024-03-18,Mobile,0.09,Silver,5
+FASH1865,Female,25,Marcusport,Streetwear,6,4707,2024-12-04,2023-08-29,Tablet,0.05,Silver,3
+FASH1866,Male,56,Amyberg,Formal,6,1940,2025-01-31,2024-10-07,Desktop,0.3,Bronze,4
+FASH1867,Male,49,Kramerton,Streetwear,6,4126,2025-02-06,2023-08-14,Mobile,0.2,Gold,3
+FASH1868,Female,50,North Conniemouth,Streetwear,2,2382,2025-01-24,2023-11-08,Mobile,0.55,Bronze,3
+FASH1869,Female,33,North Sarahburgh,Formal,4,4211,2024-12-05,2024-04-24,Desktop,0.39,Silver,1
+FASH1870,Male,29,Bryantchester,Ethnic,2,684,2025-02-26,2024-11-07,Tablet,0.33,Bronze,5
+FASH1871,Male,55,Lake Regina,Streetwear,4,720,2024-12-31,2023-09-16,Tablet,0.25,Gold,3
+FASH1872,Female,51,Erikview,Sporty,4,3688,2025-02-12,2023-07-30,Mobile,0.07,Bronze,4
+FASH1873,Male,31,Lake Michaelland,Ethnic,3,1593,2025-03-28,2023-10-27,Mobile,0.34,Silver,2
+FASH1874,Male,53,Elizabethburgh,Formal,5,3445,2024-12-11,2024-06-11,Desktop,0.22,Bronze,5
+FASH1875,Male,50,South Conniebury,Ethnic,6,2974,2024-12-21,2024-03-20,Mobile,0.3,Silver,5
+FASH1876,Female,40,Riosville,Casual,4,3115,2025-03-26,2024-01-31,Desktop,0.31,Gold,4
+FASH1877,Female,19,East Thomasberg,Casual,4,2512,2025-03-25,2024-07-14,Mobile,0.38,Bronze,5
+FASH1878,Male,58,New Erin,Streetwear,2,2990,2025-03-14,2024-09-01,Mobile,0.38,Silver,3
+FASH1879,Male,38,North Heatherville,Streetwear,9,1100,2024-11-13,2024-11-05,Mobile,0.07,Bronze,4
+FASH1880,Male,19,Bensonfort,Sporty,9,1660,2025-01-09,2024-10-26,Tablet,0.13,Silver,4
+FASH1881,Female,44,East Patrickville,Ethnic,8,4813,2025-02-01,2023-06-23,Desktop,0.11,Silver,4
+FASH1882,Male,26,West Michaelport,Casual,6,3235,2025-03-20,2023-09-15,Desktop,0.2,Silver,5
+FASH1883,Male,18,South Kiara,Streetwear,8,2718,2024-12-01,2024-03-11,Tablet,0.22,Silver,3
+FASH1884,Female,28,Lake Victoria,Ethnic,4,1652,2025-03-20,2024-09-18,Tablet,0.08,Silver,3
+FASH1885,Male,20,North Alyssa,Streetwear,7,556,2025-02-21,2023-05-18,Tablet,0.21,Bronze,3
+FASH1886,Female,40,New Debramouth,Streetwear,6,1704,2025-01-03,2023-07-23,Desktop,0.32,Silver,5
+FASH1887,Male,43,Jenniferberg,Casual,6,4841,2025-03-12,2023-09-03,Mobile,0.18,Bronze,5
+FASH1888,Male,21,Jensenmouth,Casual,7,643,2025-03-09,2024-05-14,Tablet,0.11,Gold,4
+FASH1889,Male,35,North Peggy,Streetwear,2,867,2025-03-28,2024-08-22,Tablet,0.17,Gold,4
+FASH1890,Female,23,Port David,Formal,7,1982,2024-12-08,2024-04-16,Tablet,0.18,Bronze,4
+FASH1891,Female,52,Bellchester,Streetwear,6,1115,2025-02-01,2023-07-21,Mobile,0.49,Bronze,4
+FASH1892,Female,39,Kyliebury,Streetwear,6,4138,2025-04-22,2023-07-02,Mobile,0.14,Bronze,3
+FASH1893,Male,32,Deannabury,Sporty,6,3828,2025-05-05,2023-12-04,Tablet,0.53,Platinum,4
+FASH1894,Female,39,Kimberlytown,Sporty,5,3727,2024-12-02,2023-11-02,Mobile,0.15,Gold,4
+FASH1895,Male,54,Jamiehaven,Sporty,7,2088,2025-02-19,2024-02-26,Tablet,0.21,Bronze,4
+FASH1896,Male,59,Lake Peter,Formal,5,2989,2025-03-31,2023-07-15,Mobile,0.42,Silver,1
+FASH1897,Female,29,Port Rachaelbury,Formal,9,3503,2025-03-11,2024-08-29,Desktop,0.27,Bronze,4
+FASH1898,Male,59,Cruzbury,Streetwear,6,1198,2024-12-04,2023-06-12,Desktop,0.13,Silver,5
+FASH1899,Male,55,Littleland,Sporty,5,3323,2025-01-05,2024-03-07,Mobile,0.5,Gold,4
+FASH1900,Male,35,West Sarahberg,Formal,3,1444,2024-12-04,2024-03-20,Desktop,0.14,Silver,4
+FASH1901,Male,52,Valenciashire,Casual,10,4381,2025-04-13,2024-09-01,Desktop,0.41,Gold,4
+FASH1902,Male,47,Diazburgh,Streetwear,3,1422,2024-12-02,2024-10-04,Desktop,0.25,Silver,4
+FASH1903,Female,41,Bestland,Ethnic,4,2246,2025-02-16,2024-06-21,Tablet,0.5,Bronze,3
+FASH1904,Male,59,New Carlosview,Streetwear,4,4620,2024-12-20,2023-12-22,Mobile,0.26,Silver,4
+FASH1905,Female,47,North Sandra,Ethnic,5,3353,2025-03-10,2024-08-20,Mobile,0.47,Silver,4
+FASH1906,Female,31,Hunterhaven,Sporty,8,2059,2024-12-20,2023-06-27,Mobile,0.14,Platinum,4
+FASH1907,Male,23,Hendersonfurt,Ethnic,2,1583,2025-04-12,2023-09-27,Desktop,0.36,Bronze,4
+FASH1908,Male,20,Lake Amandaberg,Sporty,12,4038,2025-01-02,2024-09-22,Tablet,0.29,Silver,4
+FASH1909,Male,33,Christopherland,Casual,4,933,2025-04-22,2024-05-31,Mobile,0.41,Silver,4
+FASH1910,Female,24,Port Eric,Ethnic,2,3426,2025-02-21,2024-04-18,Desktop,0.27,Silver,4
+FASH1911,Male,31,Peterland,Streetwear,3,1589,2024-12-21,2023-05-22,Tablet,0.1,Bronze,5
+FASH1912,Female,26,Hollybury,Sporty,1,3457,2025-01-20,2023-10-17,Tablet,0.31,Platinum,4
+FASH1913,Male,32,East Christopherchester,Streetwear,8,3112,2025-03-28,2024-10-05,Mobile,0.13,Bronze,5
+FASH1914,Female,38,South Cherylton,Formal,8,4691,2025-01-30,2024-06-19,Mobile,0.22,Bronze,4
+FASH1915,Male,52,Elizabethburgh,Sporty,6,4259,2025-01-08,2023-12-22,Desktop,0.25,Gold,3
+FASH1916,Male,19,North Jeantown,Ethnic,3,4763,2024-12-13,2023-10-12,Mobile,0.36,Bronze,5
+FASH1917,Female,44,South Stephanie,Sporty,5,2589,2024-11-19,2023-06-09,Desktop,0.37,Bronze,4
+FASH1918,Female,19,Garyberg,Streetwear,5,2402,2025-02-26,2024-08-21,Tablet,0.14,Silver,5
+FASH1919,Male,52,Jessicaville,Casual,5,3067,2025-02-16,2024-06-13,Tablet,0.2,Bronze,4
+FASH1920,Female,35,West Lindsayview,Sporty,3,2498,2025-05-07,2024-06-17,Tablet,0.36,Platinum,2
+FASH1921,Female,31,West Jennifershire,Ethnic,9,3614,2024-12-22,2024-11-06,Tablet,0.32,Silver,3
+FASH1922,Female,37,South Spencerstad,Formal,6,3494,2025-03-25,2023-11-09,Mobile,0.29,Silver,4
+FASH1923,Female,35,South Micheleburgh,Casual,7,2510,2025-05-12,2024-09-02,Mobile,0.39,Bronze,5
+FASH1924,Male,27,Ericville,Formal,5,2391,2025-02-13,2023-09-22,Desktop,0.37,Bronze,4
+FASH1925,Male,42,East Joycetown,Sporty,4,1330,2025-01-15,2024-10-18,Desktop,0.08,Silver,3
+FASH1926,Male,19,Port Michellebury,Streetwear,4,548,2024-12-27,2023-06-11,Desktop,0.05,Silver,4
+FASH1927,Female,42,South Michaelberg,Streetwear,3,4710,2024-11-12,2024-02-17,Desktop,0.23,Gold,4
+FASH1928,Female,50,Port Austin,Ethnic,11,1678,2024-11-14,2023-11-15,Desktop,0.6,Bronze,2
+FASH1929,Male,53,Walkerbury,Streetwear,4,3533,2025-03-22,2024-10-03,Tablet,0.5,Silver,3
+FASH1930,Male,48,Moonmouth,Casual,6,570,2024-11-29,2023-05-14,Tablet,0.41,Bronze,3
+FASH1931,Female,31,Margaretshire,Streetwear,8,566,2025-05-07,2023-09-13,Tablet,0.07,Silver,3
+FASH1932,Other,18,Davidton,Ethnic,4,2277,2024-12-03,2023-07-20,Desktop,0.18,Silver,3
+FASH1933,Female,33,East Linda,Sporty,10,2728,2025-04-23,2023-12-14,Tablet,0.25,Bronze,2
+FASH1934,Male,20,South Caseymouth,Sporty,4,2289,2025-03-03,2024-03-19,Tablet,0.32,Silver,5
+FASH1935,Male,52,Kiaraport,Streetwear,6,1112,2025-03-21,2024-02-12,Tablet,0.58,Bronze,3
+FASH1936,Male,58,Christophermouth,Formal,6,2386,2025-02-15,2024-10-15,Tablet,0.21,Silver,3
+FASH1937,Female,23,West Jamesshire,Sporty,5,2122,2024-12-10,2024-03-15,Mobile,0.35,Silver,3
+FASH1938,Male,42,Jodibury,Streetwear,4,1196,2024-11-29,2024-03-23,Desktop,0.34,Bronze,4
+FASH1939,Female,30,Richardsonfort,Ethnic,7,1737,2025-04-12,2024-08-11,Desktop,0.22,Platinum,4
+FASH1940,Male,51,Lake Rachel,Streetwear,3,2906,2025-02-19,2023-10-16,Mobile,0.22,Silver,3
+FASH1941,Female,25,East Adam,Sporty,6,748,2024-11-26,2024-06-19,Tablet,0.26,Platinum,4
+FASH1942,Female,38,Johnsonside,Ethnic,5,1137,2025-04-01,2023-05-25,Tablet,0.46,Bronze,4
+FASH1943,Female,51,Cynthiatown,Streetwear,2,1449,2025-04-01,2024-11-10,Tablet,0.11,Platinum,3
+FASH1944,Male,21,Aaronfurt,Casual,5,2404,2024-12-01,2023-07-06,Desktop,0.08,Bronze,4
+FASH1945,Male,42,Daltonhaven,Ethnic,1,4087,2025-05-06,2023-07-23,Desktop,0.4,Silver,4
+FASH1946,Male,32,South Travis,Casual,3,1611,2024-12-31,2024-07-13,Desktop,0.27,Platinum,3
+FASH1947,Female,21,East Jenniferland,Formal,6,675,2025-03-17,2023-12-20,Desktop,0.36,Bronze,4
+FASH1948,Female,29,East Phyllishaven,Ethnic,6,1222,2024-12-26,2024-07-21,Desktop,0.45,Bronze,5
+FASH1949,Female,49,Haynesstad,Casual,12,4342,2025-02-08,2024-08-08,Mobile,0.37,Gold,4
+FASH1950,Female,49,Villegasland,Sporty,3,4174,2025-01-08,2024-02-08,Desktop,0.01,Silver,3
+FASH1951,Female,45,New Dennisfurt,Sporty,4,2447,2025-01-02,2024-02-07,Tablet,0.29,Silver,5
+FASH1952,Male,30,New Ashleychester,Formal,3,1202,2025-02-10,2023-12-14,Desktop,0.3,Bronze,4
+FASH1953,Female,48,East Kelly,Ethnic,4,2628,2024-11-21,2023-11-05,Mobile,0.18,Silver,3
+FASH1954,Male,31,Sarafurt,Ethnic,0,1426,2024-12-01,2024-08-26,Tablet,0.37,Bronze,3
+FASH1955,Male,37,Louisview,Ethnic,7,4733,2025-04-18,2023-10-12,Mobile,0.03,Platinum,4
+FASH1956,Female,35,North Sherry,Formal,7,4004,2024-12-15,2024-05-01,Tablet,0.21,Silver,5
+FASH1957,Male,46,Port Kayla,Ethnic,3,3017,2025-04-30,2024-03-22,Desktop,0.67,Gold,3
+FASH1958,Male,23,East Danielmouth,Sporty,4,2897,2024-11-19,2024-08-02,Mobile,0.04,Bronze,3
+FASH1959,Female,49,Edwardsville,Casual,6,1649,2025-04-26,2023-05-17,Tablet,0.08,Gold,4
+FASH1960,Male,46,Tamiborough,Sporty,4,3880,2025-01-07,2023-12-02,Desktop,0.3,Silver,5
+FASH1961,Female,19,Parkerview,Sporty,3,2378,2025-01-20,2023-09-26,Tablet,0.12,Gold,3
+FASH1962,Male,40,North Ericport,Casual,4,1753,2025-04-16,2024-03-25,Mobile,0.25,Bronze,5
+FASH1963,Male,36,East Marymouth,Sporty,7,1983,2025-03-23,2024-06-10,Mobile,0.46,Gold,4
+FASH1964,Male,48,North Jennifer,Formal,5,809,2025-01-11,2023-08-04,Mobile,0.35,Silver,4
+FASH1965,Male,22,Randyton,Casual,4,4452,2025-02-02,2024-07-20,Mobile,0.09,Bronze,4
+FASH1966,Female,36,Jorgeburgh,Sporty,11,3549,2025-04-04,2023-07-09,Desktop,0.43,Silver,3
+FASH1967,Male,51,South Melissaside,Streetwear,2,2064,2024-12-04,2024-06-07,Tablet,0.26,Bronze,4
+FASH1968,Female,27,North Steven,Sporty,4,2000,2024-11-30,2023-12-28,Desktop,0.67,Bronze,5
+FASH1969,Female,42,North Alexander,Formal,5,515,2025-04-26,2024-02-02,Mobile,0.38,Bronze,3
+FASH1970,Female,19,East James,Ethnic,4,1105,2025-04-08,2023-08-12,Tablet,0.38,Silver,4
+FASH1971,Female,28,Watsonland,Sporty,4,1881,2025-05-03,2024-06-15,Mobile,0.2,Silver,3
+FASH1972,Female,48,Samanthaland,Ethnic,1,3883,2024-11-20,2023-11-30,Desktop,0.66,Silver,3
+FASH1973,Male,32,North Jamesmouth,Streetwear,2,1394,2024-11-13,2024-07-04,Desktop,0.42,Bronze,4
+FASH1974,Male,26,North Rebecca,Sporty,9,2067,2025-04-26,2024-08-02,Desktop,0.3,Gold,3
+FASH1975,Male,40,Davidmouth,Casual,6,913,2024-12-08,2023-11-24,Tablet,0.1,Platinum,4
+FASH1976,Female,36,East Sandrachester,Ethnic,7,4620,2025-03-20,2024-11-03,Tablet,0.19,Bronze,3
+FASH1977,Male,26,Crawfordfurt,Streetwear,6,2504,2025-03-17,2024-04-21,Mobile,0.22,Bronze,5
+FASH1978,Female,52,Thompsonborough,Casual,4,815,2024-12-15,2024-03-01,Tablet,0.21,Silver,3
+FASH1979,Female,38,West Joshua,Casual,10,3555,2025-01-14,2024-07-24,Tablet,0.06,Gold,2
+FASH1980,Male,26,North Christina,Casual,3,2349,2025-01-20,2024-05-23,Desktop,0.4,Silver,2
+FASH1981,Female,45,Lake Kenneth,Casual,9,2453,2025-05-04,2023-11-18,Mobile,0.18,Silver,5
+FASH1982,Male,24,Andradefort,Sporty,0,888,2025-02-04,2024-02-01,Desktop,0.3,Bronze,3
+FASH1983,Male,33,North Joshuaberg,Sporty,8,3269,2025-03-12,2024-05-04,Mobile,0.25,Gold,1
+FASH1984,Female,33,Gonzalezhaven,Sporty,7,3546,2025-01-03,2024-10-24,Mobile,0.36,Silver,5
+FASH1985,Female,50,Lake Virginia,Streetwear,1,2915,2025-05-01,2024-05-05,Tablet,0.22,Bronze,5
+FASH1986,Female,21,South Kimberlystad,Streetwear,3,2889,2025-04-03,2024-08-11,Desktop,0.22,Bronze,5
+FASH1987,Male,21,Stephensfort,Streetwear,4,803,2024-11-30,2023-06-04,Tablet,0.63,Silver,3
+FASH1988,Male,56,Robertahaven,Formal,4,1263,2025-01-23,2024-05-22,Tablet,0.37,Silver,3
+FASH1989,Female,57,Paulburgh,Streetwear,5,2473,2025-04-19,2023-08-12,Tablet,0.36,Silver,4
+FASH1990,Female,34,West Carlatown,Sporty,8,1315,2025-01-17,2023-11-30,Mobile,0.35,Platinum,4
+FASH1991,Female,54,Brianfort,Sporty,8,1377,2024-12-17,2023-07-05,Desktop,0.33,Bronze,3
+FASH1992,Male,56,Katiebury,Formal,4,2826,2024-12-04,2024-03-06,Desktop,0.03,Platinum,3
+FASH1993,Female,46,North John,Formal,1,2929,2025-01-28,2024-09-17,Tablet,0.63,Silver,5
+FASH1994,Male,53,West Amanda,Streetwear,7,2560,2025-01-28,2023-11-01,Mobile,0.47,Silver,3
+FASH1995,Male,55,Port Wendybury,Ethnic,3,4898,2025-02-08,2024-10-20,Desktop,0.19,Gold,4
+FASH1996,Female,56,Kellyburgh,Formal,2,2079,2025-01-03,2024-11-08,Desktop,0.08,Silver,4
+FASH1997,Male,54,East Brittany,Casual,7,4755,2025-04-23,2023-11-08,Tablet,0.48,Bronze,4
+FASH1998,Other,52,Robintown,Sporty,2,2701,2025-01-25,2024-01-14,Mobile,0.32,Gold,4
+FASH1999,Male,24,Staceyshire,Casual,8,4097,2025-03-25,2024-03-29,Tablet,0.39,Silver,3

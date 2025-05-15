@@ -1,0 +1,151 @@
+Customer_ID,Age,Gender,Education_Level,Monthly_Spend,Tenure_Years,Support_Tickets_Raised,City_Tier,Used_App_Last_Month,Customer_Churn
+CUST00001,63,Male,PhD,3086.33,7,2,1,Yes,0
+CUST00002,20,Male,Master's,4445.83,0,0,2,No,0
+CUST00003,46,Male,Master's,5122.69,1,3,1,No,0
+CUST00004,52,Female,PhD,5380.49,7,4,2,Yes,0
+CUST00005,56,Male,Master's,5023.28,2,3,2,Yes,0
+CUST00006,35,Male,High School,2379.39,3,0,2,Yes,0
+CUST00007,37,Male,Bachelor's,4052.72,5,2,2,Yes,0
+CUST00008,60,Female,High School,3014.09,5,2,3,Yes,1
+CUST00009,40,Male,High School,4610.4,0,0,2,Yes,1
+CUST00010,51,Female,Master's,4717.6,2,0,1,No,1
+CUST00011,50,Female,High School,3859.76,5,6,1,Yes,0
+CUST00012,27,Female,Master's,3470.15,8,4,2,Yes,0
+CUST00013,50,Female,PhD,2913.49,9,1,1,Yes,0
+CUST00014,64,Male,Bachelor's,6282.26,7,0,1,No,0
+CUST00015,50,Female,High School,5831.71,9,2,1,No,0
+CUST00016,43,Female,PhD,1704.17,7,4,1,Yes,0
+CUST00017,37,Female,Master's,5492.81,4,2,1,No,0
+CUST00018,32,Female,Master's,3290.5,5,2,1,Yes,0
+CUST00019,54,Male,High School,6361.85,1,5,3,Yes,1
+CUST00020,50,Male,PhD,2866.77,8,1,1,Yes,1
+CUST00021,34,Female,PhD,5586.67,6,3,2,Yes,0
+CUST00022,22,Female,Master's,6037.57,8,0,2,Yes,0
+CUST00023,21,Female,Bachelor's,4875.65,4,1,1,Yes,0
+CUST00024,20,Female,High School,5812.37,2,3,1,No,0
+CUST00025,38,Female,Bachelor's,4488.58,7,2,1,No,0
+CUST00026,57,Male,High School,6323.91,1,1,3,Yes,0
+CUST00027,20,Male,PhD,4654.18,6,1,3,Yes,0
+CUST00028,38,Female,Bachelor's,5069.0,2,0,2,Yes,0
+CUST00029,25,Female,Master's,4888.11,6,4,2,Yes,0
+CUST00030,59,Female,Master's,4830.76,5,5,1,Yes,0
+CUST00031,53,Male,Master's,4513.38,6,2,2,No,0
+CUST00032,46,Female,PhD,6338.05,0,5,3,Yes,0
+CUST00033,56,Male,Master's,8515.21,3,2,2,No,0
+CUST00034,51,Male,PhD,7062.57,2,4,2,No,0
+CUST00035,39,Male,PhD,5573.71,2,3,3,Yes,0
+CUST00036,48,Female,Master's,2816.87,9,2,3,Yes,0
+CUST00037,45,Female,Master's,3092.9,7,1,1,No,1
+CUST00038,52,Female,Bachelor's,6521.41,5,1,2,Yes,1
+CUST00039,51,Male,High School,3062.52,5,0,3,Yes,0
+CUST00040,30,Female,High School,1639.2,0,2,2,Yes,1
+CUST00041,58,Male,Bachelor's,5210.63,0,3,2,Yes,0
+CUST00042,21,Male,Bachelor's,6040.85,9,2,3,Yes,0
+CUST00043,60,Female,Master's,5118.55,3,3,1,Yes,0
+CUST00044,23,Female,Master's,5948.38,7,3,3,Yes,0
+CUST00045,18,Female,Bachelor's,4747.41,1,2,2,Yes,0
+CUST00046,29,Male,Bachelor's,5000.29,8,2,2,No,1
+CUST00047,52,Female,Master's,6182.81,2,3,1,Yes,0
+CUST00048,28,Female,PhD,4947.12,5,3,3,Yes,1
+CUST00049,40,Male,High School,2400.17,0,3,1,No,1
+CUST00050,31,Male,PhD,3100.69,1,3,3,Yes,0
+CUST00051,36,Male,Bachelor's,5353.86,0,1,2,No,0
+CUST00052,54,Female,PhD,5821.85,7,3,3,Yes,0
+CUST00053,33,Male,Master's,5325.79,7,1,2,Yes,0
+CUST00054,61,Female,PhD,6224.7,5,3,2,Yes,0
+CUST00055,45,Female,PhD,4173.34,8,2,3,No,0
+CUST00056,62,Male,PhD,6568.08,1,3,2,Yes,1
+CUST00057,48,Male,Bachelor's,3239.9,5,0,2,Yes,0
+CUST00058,24,Female,PhD,2595.67,6,2,2,Yes,0
+CUST00059,63,Female,Master's,3977.74,7,2,3,Yes,0
+CUST00060,44,Female,Master's,6992.73,0,2,1,Yes,1
+CUST00061,34,Female,Bachelor's,4611.38,6,1,2,No,1
+CUST00062,24,Female,PhD,6048.67,4,2,3,Yes,0
+CUST00063,32,Male,Bachelor's,2935.06,1,3,2,Yes,0
+CUST00064,57,Female,Bachelor's,6229.32,4,4,2,Yes,0
+CUST00065,29,Female,Bachelor's,4081.08,2,1,2,Yes,0
+CUST00066,25,Female,Bachelor's,3349.9,2,1,1,Yes,1
+CUST00067,19,Male,Bachelor's,6144.79,1,3,2,Yes,1
+CUST00068,61,Female,PhD,4482.22,0,2,1,No,0
+CUST00069,55,Female,Bachelor's,5838.39,9,1,3,Yes,0
+CUST00070,43,Male,Bachelor's,6289.05,1,0,3,Yes,0
+CUST00071,38,Male,Bachelor's,4867.28,1,1,3,Yes,0
+CUST00072,30,Male,Bachelor's,5787.07,6,2,2,No,1
+CUST00073,36,Female,Bachelor's,4277.01,6,1,3,Yes,0
+CUST00074,35,Female,Master's,4518.19,3,1,1,Yes,0
+CUST00075,19,Male,Master's,3810.98,9,1,2,Yes,1
+CUST00076,62,Male,Bachelor's,4333.16,6,2,2,No,1
+CUST00077,59,Female,Bachelor's,5305.29,7,3,1,Yes,0
+CUST00078,45,Male,Bachelor's,3790.43,7,4,3,Yes,0
+CUST00079,40,Male,High School,6411.93,6,2,1,Yes,0
+CUST00080,21,Male,Master's,2030.25,1,2,1,Yes,0
+CUST00081,21,Female,PhD,5870.27,9,0,2,Yes,0
+CUST00082,29,Male,High School,3481.56,3,2,1,No,0
+CUST00083,39,Female,Master's,3946.06,7,3,2,Yes,1
+CUST00084,43,Female,High School,3649.23,2,0,1,Yes,0
+CUST00085,57,Female,Master's,5600.82,3,2,3,No,1
+CUST00086,59,Male,PhD,7431.52,8,2,2,No,1
+CUST00087,52,Female,High School,5783.45,0,3,3,Yes,0
+CUST00088,21,Female,High School,1989.97,3,3,1,Yes,0
+CUST00089,29,Female,Master's,5828.68,3,2,1,Yes,1
+CUST00090,21,Male,Master's,5390.05,9,1,1,Yes,0
+CUST00091,48,Male,PhD,2807.97,8,4,1,No,1
+CUST00092,24,Male,Master's,5661.86,6,3,1,Yes,1
+CUST00093,27,Male,Bachelor's,6222.52,3,3,3,Yes,0
+CUST00094,41,Female,Master's,6085.77,7,3,2,Yes,0
+CUST00095,32,Male,Bachelor's,5792.13,5,4,2,Yes,0
+CUST00096,56,Female,High School,4259.7,8,2,2,No,0
+CUST00097,37,Female,High School,7252.99,4,1,3,Yes,0
+CUST00098,24,Female,Master's,4717.62,8,1,3,No,0
+CUST00099,30,Female,Master's,3889.83,5,4,1,Yes,0
+CUST00100,45,Male,Bachelor's,3259.21,1,0,2,No,0
+CUST00101,56,Female,PhD,5197.29,7,2,3,Yes,0
+CUST00102,35,Female,Master's,5567.19,2,2,1,Yes,0
+CUST00103,64,Female,Bachelor's,6092.27,7,2,1,Yes,0
+CUST00104,28,Female,Master's,6582.25,8,2,3,Yes,0
+CUST00105,53,Female,Bachelor's,4786.52,1,3,2,Yes,0
+CUST00106,53,Female,High School,2846.42,7,3,3,Yes,0
+CUST00107,19,Male,Bachelor's,5865.05,1,1,1,Yes,0
+CUST00108,63,Male,Bachelor's,6526.95,8,5,2,Yes,1
+CUST00109,34,Female,Bachelor's,5705.07,1,3,3,No,0
+CUST00110,23,Male,Master's,4756.91,9,0,1,Yes,0
+CUST00111,58,Male,PhD,2358.26,2,3,2,Yes,0
+CUST00112,63,Female,Master's,4898.74,3,1,1,Yes,0
+CUST00113,40,Male,Master's,3202.82,4,0,2,Yes,0
+CUST00114,64,Female,High School,4133.07,2,3,1,Yes,0
+CUST00115,33,Female,Master's,2886.22,0,1,1,No,0
+CUST00116,58,Female,PhD,4409.27,7,1,2,No,1
+CUST00117,43,Female,Bachelor's,4773.84,5,2,2,Yes,0
+CUST00118,63,Female,Bachelor's,6788.13,9,2,2,Yes,0
+CUST00119,18,Female,Master's,5455.86,8,1,1,Yes,0
+CUST00120,53,Male,Master's,4768.12,5,1,1,Yes,0
+CUST00121,47,Female,High School,5888.72,0,4,3,No,0
+CUST00122,19,Female,PhD,4597.31,5,7,1,Yes,0
+CUST00123,37,Female,Bachelor's,770.8,5,3,3,Yes,0
+CUST00124,22,Male,PhD,3778.45,1,3,3,Yes,0
+CUST00125,48,Male,High School,5604.64,3,2,1,Yes,0
+CUST00126,25,Male,High School,4773.83,8,3,1,No,1
+CUST00127,47,Female,Master's,2719.49,0,3,2,Yes,1
+CUST00128,56,Female,Master's,7046.32,8,2,1,No,0
+CUST00129,19,Male,Bachelor's,3091.05,0,3,1,No,0
+CUST00130,30,Female,Master's,5727.4,0,2,2,No,0
+CUST00131,21,Male,Bachelor's,4350.67,9,2,2,No,1
+CUST00132,62,Male,Bachelor's,3426.11,2,1,1,Yes,0
+CUST00133,25,Female,High School,5043.82,5,4,1,Yes,0
+CUST00134,56,Male,PhD,6693.56,1,2,3,Yes,0
+CUST00135,42,Female,Master's,5302.01,2,4,1,Yes,0
+CUST00136,24,Female,Master's,4863.77,3,2,2,Yes,0
+CUST00137,31,Male,Bachelor's,4167.31,0,5,2,No,0
+CUST00138,46,Male,High School,6486.23,6,4,2,Yes,0
+CUST00139,62,Male,Master's,7611.4,7,0,1,No,0
+CUST00140,38,Male,Master's,3470.24,3,1,2,Yes,0
+CUST00141,54,Female,PhD,2741.24,9,4,1,No,1
+CUST00142,50,Female,Master's,4121.76,7,2,1,No,0
+CUST00143,58,Female,Master's,4698.57,9,1,3,No,0
+CUST00144,42,Female,Master's,4467.83,4,1,1,Yes,0
+CUST00145,63,Female,High School,3987.28,8,5,1,No,0
+CUST00146,31,Male,Master's,2716.79,0,5,2,Yes,0
+CUST00147,26,Female,PhD,5385.89,9,3,2,Yes,0
+CUST00148,32,Male,Bachelor's,3776.1,7,3,1,Yes,0
+CUST00149,24,Female,High School,1936.74,0,1,3,Yes,0
+CUST00150,19,Female,Master's,2664.86,0,1,2,Yes,0

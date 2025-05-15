@@ -1,0 +1,1001 @@
+CustomerID,Name,Gender,Age,Location,SignUpDate,LastLoginDate,TotalSpend,NoOfOrders,PreferredCategory,PaymentMethod,DeviceUsed,RatingGiven,IsPremiumMember
+CUST1000,Allison Hill,Male,64,Jacobsonview,2023-08-26,2025-05-05,18326,12,Clothing,Cash on Delivery,Desktop,3,No
+CUST1001,Noah Rhodes,Female,29,Lake Amyburgh,2024-11-08,2025-05-02,25481,12,Home,Cash on Delivery,Mobile,1,No
+CUST1002,Angie Henderson,Female,33,Nicolestad,2023-08-29,2025-05-07,10882,14,Books,Debit Card,Mobile,4,No
+CUST1003,Daniel Wagner,Female,41,South Bradley,2024-06-19,2025-04-27,4937,14,Clothing,Credit Card,Desktop,3,Yes
+CUST1004,Cristian Santos,Male,36,Marshallbury,2024-09-28,2025-05-11,5935,12,Home,Debit Card,Desktop,3,No
+CUST1005,Connie Lawrence,Male,25,Anneberg,2024-05-02,2025-05-13,25319,11,Beauty,Cash on Delivery,Mobile,4,No
+CUST1006,Abigail Shaffer,Male,48,North Elizabethside,2023-04-27,2025-05-04,37375,15,Beauty,Cash on Delivery,Tablet,5,No
+CUST1007,Gina Moore,Female,38,Arellanoshire,2022-06-24,2025-04-18,32482,8,Home,Wallet,Mobile,4,No
+CUST1008,Gabrielle Davis,Female,34,New Bruce,2022-05-17,2025-05-04,33828,9,Clothing,Debit Card,Tablet,3,Yes
+CUST1009,Ryan Munoz,Female,40,Cardenaschester,2023-01-08,2025-05-01,12829,11,Home,Debit Card,Mobile,5,No
+CUST1010,Monica Herrera,Male,54,Armstrongbury,2023-06-26,2025-05-13,25669,6,Home,Credit Card,Desktop,5,No
+CUST1011,Jamie Arnold,Other,33,Evansfurt,2023-08-23,2025-04-23,22432,6,Books,Credit Card,Tablet,2,Yes
+CUST1012,Lisa Hensley,Female,23,New Ashleyhaven,2025-02-02,2025-05-05,35094,11,Beauty,Wallet,Desktop,4,No
+CUST1013,Michele Williams,Male,25,North Stacy,2025-01-26,2025-05-04,11921,10,Books,Net Banking,Desktop,3,No
+CUST1014,Dylan Miller,Male,42,Thompsonburgh,2024-05-17,2025-04-18,45533,12,Books,Net Banking,Desktop,1,No
+CUST1015,Brian Ramirez,Male,35,Port James,2022-11-22,2025-04-15,8129,9,Home,Net Banking,Desktop,4,Yes
+CUST1016,Holly Wood,Male,42,South Christianchester,2025-02-22,2025-05-08,8825,9,Books,Debit Card,Desktop,5,No
+CUST1017,Derek Zuniga,Female,29,Port Courtney,2025-03-13,2025-04-30,28995,13,Beauty,Debit Card,Mobile,2,No
+CUST1018,Lisa Jackson,Male,32,Luisland,2023-08-03,2025-05-06,32250,10,Books,Cash on Delivery,Tablet,5,No
+CUST1019,Carla Gray,Male,43,South Angelaside,2024-02-21,2025-04-24,30119,4,Beauty,Debit Card,Mobile,5,No
+CUST1020,Margaret Hawkins DDS,Female,58,Melissahaven,2023-02-16,2025-04-21,40961,14,Books,Debit Card,Mobile,5,No
+CUST1021,Patty Perez,Male,62,Starktown,2024-06-16,2025-05-08,8764,14,Beauty,Debit Card,Mobile,3,Yes
+CUST1022,Ethan Adams,Male,43,Rodriguezberg,2025-04-16,2025-05-09,13186,7,Books,Wallet,Desktop,5,No
+CUST1023,Tommy Walter,Male,64,New Brianna,2025-02-08,2025-05-09,46984,9,Books,Debit Card,Mobile,3,No
+CUST1024,Matthew Foster,Male,49,North Annaville,2023-05-29,2025-04-18,24726,13,Clothing,Credit Card,Tablet,4,No
+CUST1025,Judy Baker,Female,27,Mikaylastad,2022-06-27,2025-04-28,7221,15,Beauty,Credit Card,Mobile,1,Yes
+CUST1026,Justin Baker,Male,33,Bakerfort,2022-11-15,2025-05-06,21109,9,Beauty,Cash on Delivery,Desktop,1,No
+CUST1027,Stephanie Ross,Female,24,Johnsonview,2023-07-18,2025-05-05,7873,9,Beauty,Wallet,Tablet,4,No
+CUST1028,Zachary Hicks,Female,34,Thomasfurt,2024-06-17,2025-04-17,39175,10,Electronics,Credit Card,Tablet,3,No
+CUST1029,Anthony Rodriguez,Male,40,South Pamelamouth,2022-08-25,2025-05-07,49395,11,Books,Wallet,Tablet,3,Yes
+CUST1030,Rebecca Henderson,Female,43,North Julie,2024-11-29,2025-04-28,29437,8,Beauty,Wallet,Tablet,2,Yes
+CUST1031,James Ferrell,Male,38,Pennytown,2023-11-26,2025-04-21,6156,9,Electronics,Cash on Delivery,Mobile,4,No
+CUST1032,Tricia Valencia,Male,39,Lisaport,2024-11-01,2025-04-20,9484,9,Clothing,Wallet,Desktop,1,Yes
+CUST1033,Nathan Maldonado,Female,24,Juanfort,2024-05-29,2025-04-28,30484,11,Beauty,Debit Card,Tablet,5,No
+CUST1034,Debra Davidson,Other,31,Port Jeremyport,2024-10-08,2025-04-26,8786,14,Beauty,Wallet,Tablet,1,Yes
+CUST1035,Jeffrey Chavez,Female,32,Schroedermouth,2024-03-21,2025-05-09,6401,14,Electronics,Cash on Delivery,Desktop,2,No
+CUST1036,Sherri Baker,Male,24,Jessicaland,2023-06-18,2025-05-04,32052,11,Books,Cash on Delivery,Mobile,3,No
+CUST1037,Cassandra Gaines,Male,26,South Jason,2025-01-13,2025-04-28,26209,10,Clothing,Cash on Delivery,Tablet,3,No
+CUST1038,Elizabeth Fowler,Female,25,Figueroahaven,2025-04-13,2025-05-11,31555,5,Beauty,Credit Card,Mobile,3,No
+CUST1039,Brittany Farmer,Male,40,Lorihaven,2024-05-22,2025-04-16,38185,16,Books,Debit Card,Mobile,3,No
+CUST1040,Paula Moreno,Male,46,North Larry,2025-04-26,2025-05-10,8929,9,Clothing,Credit Card,Mobile,,Yes
+CUST1041,Fred Smith,Female,35,Taylorhaven,2022-11-15,2025-04-17,15216,6,Home,Net Banking,Mobile,4,Yes
+CUST1042,Sherry Decker,Male,48,East Jamesborough,2023-12-14,2025-04-16,49063,6,Home,Debit Card,Tablet,1,No
+CUST1043,Anthony Humphrey,Female,47,East Antonioton,2024-07-18,2025-05-08,11638,9,Clothing,Wallet,Tablet,3,No
+CUST1044,Angelica Tucker,Male,56,Janetview,2024-10-23,2025-04-19,35798,10,Electronics,Cash on Delivery,Mobile,5,No
+CUST1045,Philip Cannon,Female,52,Madisonhaven,2022-06-10,2025-05-08,23929,5,Clothing,Net Banking,Mobile,3,No
+CUST1046,John Pierce,Male,35,Reidville,2023-06-21,2025-05-04,6272,6,Clothing,Debit Card,Desktop,1,No
+CUST1047,Shane Henderson,Female,59,East Nathanmouth,2023-01-21,2025-05-04,48744,10,Electronics,Credit Card,Desktop,4,No
+CUST1048,Joshua Blair,Female,56,Port Thomas,2024-11-02,2025-04-18,49019,9,Electronics,Cash on Delivery,Desktop,4,Yes
+CUST1049,Eric Carney,Male,34,Maxview,2022-08-12,2025-05-06,36232,12,Books,Credit Card,Tablet,4,No
+CUST1050,Jessica Holmes,Other,31,West Anthonyton,2022-12-27,2025-05-11,40405,10,Books,Debit Card,Desktop,1,No
+CUST1051,Danny Morgan,Female,48,Port Ashley,2023-09-22,2025-04-26,17847,10,Electronics,Debit Card,Tablet,2,No
+CUST1052,Crystal Robinson,Female,41,Port Jeffrey,2024-04-29,2025-05-01,17420,7,Home,Net Banking,Tablet,4,No
+CUST1053,Mark Perez,Female,52,Lake Jamie,2025-04-24,2025-04-26,32322,12,Home,Wallet,Tablet,2,No
+CUST1054,Shannon Jones,Female,61,Palmertown,2022-12-10,2025-05-12,47159,8,Clothing,Credit Card,Tablet,4,No
+CUST1055,Michael Lewis,Female,62,Buckburgh,2023-11-20,2025-04-17,40608,10,Beauty,Net Banking,Desktop,4,No
+CUST1056,Timothy Duncan,Male,51,East Johnnyport,2023-01-22,2025-05-08,24063,6,Clothing,Cash on Delivery,Mobile,3,Yes
+CUST1057,Richard Aguirre,Male,20,Rodneyfurt,2022-08-04,2025-04-14,8467,11,Clothing,Wallet,Mobile,5,Yes
+CUST1058,Brent Jordan,Male,54,Stephenborough,2023-07-11,2025-04-19,45683,10,Beauty,Net Banking,Mobile,5,No
+CUST1059,John Daniel,Male,60,Turnerhaven,2023-11-26,2025-05-06,12371,12,Electronics,Credit Card,Desktop,4,No
+CUST1060,Victoria Garcia,Male,57,Silvatown,2024-02-24,2025-04-22,29263,10,Home,Debit Card,Mobile,1,No
+CUST1061,Gerald Hensley,Male,43,Annaport,2025-01-26,2025-04-22,12416,10,Clothing,Cash on Delivery,Desktop,2,Yes
+CUST1062,Connor West,Female,40,Gabriellefort,2023-11-18,2025-05-03,9234,13,Beauty,Credit Card,Desktop,3,Yes
+CUST1063,Donald Wright,Male,61,West Vanessamouth,2022-07-28,2025-04-16,34113,8,Books,Wallet,Desktop,2,No
+CUST1064,Jessica Callahan,Male,56,Joseport,2023-08-07,2025-04-18,28679,10,Clothing,Wallet,Mobile,,No
+CUST1065,Amber Kidd,Female,32,East Zachary,2023-08-10,2025-05-04,35762,9,Home,Debit Card,Mobile,2,No
+CUST1066,Tracy House,Male,21,North Linda,2024-08-13,2025-04-28,13177,15,Electronics,Debit Card,Mobile,3,No
+CUST1067,Carol Tucker,Female,46,Guerreroberg,2025-01-30,2025-04-29,18768,10,Clothing,Cash on Delivery,Tablet,3,Yes
+CUST1068,James Brown,Male,39,Lake Tylerport,2022-09-10,2025-05-12,12830,11,Clothing,Cash on Delivery,Desktop,4,No
+CUST1069,William Baker,Other,42,Rebeccafurt,2024-07-20,2025-05-06,21233,13,Beauty,Debit Card,Tablet,2,No
+CUST1070,Jordan Henderson,Female,30,Doyleshire,2023-03-11,2025-05-05,38447,8,Books,Debit Card,Desktop,3,Yes
+CUST1071,Whitney Peters,Male,35,West Jessica,2025-01-13,2025-04-26,27786,8,Books,Wallet,Mobile,3,No
+CUST1072,Brittney Phillips,Male,50,Lake Amanda,2023-02-22,2025-04-30,7110,7,Electronics,Debit Card,Desktop,5,Yes
+CUST1073,Lauren Daniels,Female,33,Knoxstad,2022-10-07,2025-04-23,6930,10,Home,Net Banking,Desktop,1,Yes
+CUST1074,Amy Silva,Female,62,Meganside,2024-11-29,2025-04-24,40422,11,Electronics,Credit Card,Tablet,5,Yes
+CUST1075,Sarah Moore,Female,59,West Connor,2023-01-28,2025-04-22,14328,8,Clothing,Debit Card,Desktop,5,Yes
+CUST1076,Angela Lopez,Female,61,Lake Jonathan,2024-09-04,2025-04-17,43413,10,Clothing,Cash on Delivery,Mobile,3,No
+CUST1077,Megan Young,Male,19,Lake Rachel,2023-09-27,2025-05-13,31997,8,Books,Net Banking,Desktop,4,No
+CUST1078,Steve Sanchez,Male,52,East Michaelport,2023-09-17,2025-04-26,39756,4,Home,Cash on Delivery,Desktop,1,No
+CUST1079,Lisa Barnes,Male,59,Frenchmouth,2025-04-12,2025-04-19,37118,12,Beauty,Net Banking,Desktop,,No
+CUST1080,Kelly Donovan,Female,51,Jorgeport,2023-08-24,2025-05-05,46832,9,Home,Debit Card,Tablet,4,Yes
+CUST1081,Mike Allen,Female,47,Yorkfort,2023-07-09,2025-05-09,27026,8,Clothing,Credit Card,Desktop,3,Yes
+CUST1082,Michael Evans,Male,30,Port Cynthiashire,2025-04-12,2025-04-14,30658,10,Beauty,Cash on Delivery,Desktop,3,No
+CUST1083,Paul Jones,Male,30,South Pamelahaven,2025-05-02,2025-04-14,25532,11,Home,Net Banking,Tablet,1,No
+CUST1084,Zachary Ferrell,Male,35,Port Erinhaven,2025-04-17,2025-05-03,38346,14,Home,Wallet,Tablet,,Yes
+CUST1085,Daniel Baker,Male,49,Robertberg,2023-11-28,2025-04-19,45436,7,Beauty,Debit Card,Tablet,1,No
+CUST1086,Shirley Suarez,Female,49,East Matthew,2022-10-09,2025-04-14,30294,6,Clothing,Credit Card,Tablet,4,No
+CUST1087,Christopher Bass,Female,52,Thomasburgh,2024-08-21,2025-04-22,5948,12,Home,Debit Card,Mobile,3,No
+CUST1088,Lisa Archer,Female,56,South Marvinburgh,2024-10-31,2025-05-07,29361,14,Beauty,Wallet,Mobile,5,No
+CUST1089,Aimee Montoya,Male,63,Cynthiatown,2023-11-11,2025-05-06,28641,8,Clothing,Credit Card,Desktop,2,Yes
+CUST1090,Matthew Mcmillan,Male,46,Hillburgh,2022-12-23,2025-05-03,9574,8,Beauty,Wallet,Mobile,4,No
+CUST1091,Brian Rodriguez,Female,46,South Kristen,2022-06-03,2025-05-13,6906,11,Beauty,Debit Card,Desktop,3,Yes
+CUST1092,Denise Jacobs,Female,61,East Christinachester,2022-12-12,2025-05-07,32323,10,Home,Net Banking,Mobile,4,No
+CUST1093,Christina Walters,Female,33,Pattersonfort,2024-07-26,2025-04-28,23791,9,Clothing,Debit Card,Tablet,1,Yes
+CUST1094,John Whitehead,Female,61,Smithside,2023-07-25,2025-05-13,42068,7,Home,Debit Card,Tablet,2,No
+CUST1095,Anna Henderson,Female,64,Lake Nathan,2023-12-14,2025-05-01,32503,14,Electronics,Debit Card,Mobile,2,Yes
+CUST1096,Aaron Wise,Female,27,West Katherinehaven,2024-06-05,2025-05-03,47351,13,Electronics,Cash on Delivery,Mobile,4,No
+CUST1097,Deborah Figueroa,Male,47,North Erica,2024-02-13,2025-04-28,34906,11,Clothing,Wallet,Desktop,2,No
+CUST1098,Jessica Smith,Male,42,East Heather,2023-10-24,2025-04-18,23812,10,Beauty,Wallet,Desktop,4,No
+CUST1099,Stephen Mckee,Male,56,Larryville,2023-01-22,2025-04-20,43608,8,Home,Wallet,Desktop,2,No
+CUST1100,Sandra Aguilar,Male,37,Gordonport,2022-10-20,2025-04-20,1882,11,Home,Cash on Delivery,Tablet,5,No
+CUST1101,Cameron Parker,Female,22,North Madison,2023-04-17,2025-04-14,34671,15,Clothing,Net Banking,Tablet,5,No
+CUST1102,Rebecca Valencia,Male,18,Stacymouth,2023-01-09,2025-04-23,42279,9,Clothing,Debit Card,Tablet,4,No
+CUST1103,Christine Wright,Female,47,Ryanberg,2024-07-03,2025-04-19,3792,12,Electronics,Net Banking,Tablet,3,No
+CUST1104,Richard Henson,Female,20,Wendyfort,2023-04-22,2025-04-14,42279,9,Books,Cash on Delivery,Desktop,2,No
+CUST1105,Marc Moore,Male,62,Karenburgh,2023-03-02,2025-04-23,33687,7,Clothing,Wallet,Tablet,1,No
+CUST1106,Sharon Cherry,Male,31,Smithbury,2024-09-27,2025-04-15,12911,12,Books,Debit Card,Tablet,3,No
+CUST1107,Sierra Johnson,Female,47,East Jessica,2024-12-21,2025-04-24,37785,15,Clothing,Credit Card,Tablet,4,No
+CUST1108,Evelyn Galvan,Male,21,North Michael,2025-04-19,2025-05-07,15922,10,Beauty,Credit Card,Tablet,4,No
+CUST1109,Sharon Cochran,Male,35,South Nancyview,2024-08-07,2025-04-21,42968,16,Beauty,Net Banking,Mobile,5,No
+CUST1110,Richard Rodriguez,Male,54,New Virginiaville,2024-08-17,2025-04-25,32871,6,Electronics,Wallet,Desktop,3,No
+CUST1111,Shannon Walker,Male,42,North Hannahchester,2024-09-16,2025-05-05,6193,14,Electronics,Credit Card,Desktop,4,Yes
+CUST1112,Julia Torres,Female,18,Jamesside,2025-05-08,2025-05-10,34035,9,Books,Net Banking,Tablet,3,No
+CUST1113,Crystal Johnson,Female,63,Thomasberg,2022-11-07,2025-04-23,15318,16,Clothing,Cash on Delivery,Mobile,4,No
+CUST1114,Garrett Lin,Female,32,Lake Gina,2024-02-21,2025-04-18,31738,5,Home,Net Banking,Desktop,3,No
+CUST1115,Diana May,Female,26,West Robertville,2024-04-28,2025-04-28,31374,6,Electronics,Net Banking,Desktop,3,No
+CUST1116,William Herrera,Female,32,Cindyberg,2022-09-09,2025-05-06,27215,14,Home,Net Banking,Tablet,3,Yes
+CUST1117,Ashley Waller,Male,41,Rivasville,2022-11-11,2025-04-21,28105,8,Home,Debit Card,Tablet,4,No
+CUST1118,Victor Baker,Female,21,West Danielville,2022-12-03,2025-05-07,34817,8,Clothing,Net Banking,Desktop,5,No
+CUST1119,Jeffrey Chandler,Female,29,Gonzalezborough,2022-06-09,2025-05-04,31674,5,Books,Net Banking,Desktop,3,No
+CUST1120,Larry Dixon,Female,54,Marieborough,2024-05-27,2025-04-15,10456,9,Clothing,Debit Card,Mobile,1,Yes
+CUST1121,Kenneth Scott,Female,54,Jadeport,2023-11-05,2025-04-19,39408,10,Electronics,Debit Card,Desktop,3,No
+CUST1122,April Frost,Male,60,North Amy,2023-09-10,2025-04-22,11337,11,Home,Cash on Delivery,Desktop,4,No
+CUST1123,Michelle Harmon,Male,23,Lake Sarah,2025-04-21,2025-04-21,4216,7,Clothing,Wallet,Tablet,2,Yes
+CUST1124,Helen Jones,Male,56,Jimmytown,2023-11-28,2025-05-05,4981,9,Clothing,Credit Card,Desktop,4,No
+CUST1125,Erin Edwards,Male,63,North Maryfort,2022-12-15,2025-05-07,24782,9,Clothing,Credit Card,Tablet,,Yes
+CUST1126,Michelle Evans,Female,41,North Kimberly,2024-03-30,2025-05-06,7048,12,Electronics,Net Banking,Desktop,5,No
+CUST1127,Jason Powell,Female,28,Lake Jenniferview,2024-11-27,2025-04-14,38105,16,Books,Cash on Delivery,Desktop,2,Yes
+CUST1128,Cameron Fisher,Male,30,South Vanessa,2024-08-03,2025-05-05,8258,10,Clothing,Net Banking,Desktop,5,Yes
+CUST1129,Megan Orr,Female,51,Josephton,2023-10-27,2025-05-12,44168,5,Electronics,Credit Card,Mobile,4,No
+CUST1130,Elizabeth Kelley,Male,42,Port Greggton,2023-02-05,2025-04-25,23677,13,Home,Debit Card,Tablet,3,Yes
+CUST1131,Dustin Jordan,Male,24,Michaelmouth,2023-08-30,2025-04-23,24522,5,Beauty,Wallet,Mobile,4,Yes
+CUST1132,Mary Marshall,Male,21,Rodgersville,2022-06-27,2025-04-28,41261,17,Electronics,Cash on Delivery,Desktop,5,No
+CUST1133,Daniel Kennedy,Male,25,North Melissaburgh,2022-11-14,2025-05-11,6042,12,Beauty,Debit Card,Mobile,3,No
+CUST1134,Rebecca Jackson,Female,37,Michaelmouth,2023-04-24,2025-05-03,25976,15,Clothing,Wallet,Tablet,3,No
+CUST1135,Jose Schultz,Male,46,Natalieland,2022-11-29,2025-04-16,31284,13,Clothing,Cash on Delivery,Desktop,3,No
+CUST1136,Robert Potter,Female,62,Lisaburgh,2025-04-26,2025-04-30,23240,8,Electronics,Cash on Delivery,Mobile,4,No
+CUST1137,Courtney Gonzalez,Female,63,South Ricardomouth,2022-12-21,2025-04-14,25317,6,Beauty,Credit Card,Mobile,2,No
+CUST1138,David Alvarez,Male,27,Maryfort,2025-04-16,2025-04-18,48096,11,Clothing,Debit Card,Tablet,5,Yes
+CUST1139,Angel Perry,Other,60,Banksburgh,2023-04-30,2025-05-04,16552,9,Home,Cash on Delivery,Mobile,4,Yes
+CUST1140,Cheyenne Horton,Other,51,East Heatherton,2023-09-03,2025-05-04,35653,7,Books,Cash on Delivery,Tablet,4,No
+CUST1141,David Douglas Jr.,Male,43,North Robert,2022-11-24,2025-05-08,47576,8,Books,Wallet,Desktop,1,No
+CUST1142,Patricia Rodriguez,Female,58,Phammouth,2023-04-04,2025-05-12,1171,12,Clothing,Credit Card,Desktop,4,No
+CUST1143,Christopher Rubio,Male,20,New Noah,2022-12-02,2025-05-12,663,11,Beauty,Net Banking,Mobile,2,No
+CUST1144,Amber Wright,Male,23,Cherylberg,2022-09-13,2025-05-10,41924,11,Clothing,Credit Card,Desktop,1,No
+CUST1145,Joyce Solis,Male,22,Knappville,2024-03-03,2025-04-28,44502,10,Beauty,Net Banking,Desktop,4,Yes
+CUST1146,Victoria Larson,Female,22,Alexanderland,2025-04-21,2025-04-15,5295,12,Home,Debit Card,Mobile,3,Yes
+CUST1147,Stephanie Salazar,Female,64,Dianatown,2022-11-03,2025-05-07,11134,8,Beauty,Debit Card,Desktop,4,No
+CUST1148,Kathy Rivas,Male,40,Lake Morgan,2022-09-11,2025-05-03,5298,11,Clothing,Cash on Delivery,Mobile,1,No
+CUST1149,Stephanie Manning,Male,26,South Dorothybury,2022-06-12,2025-05-07,22920,4,Home,Debit Card,Tablet,3,No
+CUST1150,David Wright,Female,52,Reedfurt,2024-06-04,2025-05-08,29800,7,Electronics,Cash on Delivery,Tablet,2,Yes
+CUST1151,Pamela Boyd,Male,37,Port Margaret,2024-03-13,2025-05-12,24845,11,Books,Credit Card,Tablet,,No
+CUST1152,Denise Jones,Male,59,North Dawnburgh,2022-07-19,2025-05-13,11249,11,Clothing,Debit Card,Mobile,4,No
+CUST1153,Devon Flores,Female,52,Christianburgh,2023-03-15,2025-05-07,39095,7,Clothing,Credit Card,Mobile,4,Yes
+CUST1154,Brenda Hall,Other,35,Port Travisbury,2022-10-28,2025-04-25,25621,14,Clothing,Credit Card,Desktop,3,No
+CUST1155,Michelle Brown,Male,34,Taraton,2022-07-03,2025-04-16,37987,10,Home,Debit Card,Desktop,1,No
+CUST1156,Joshua Perry,Female,41,New Dawn,2025-03-03,2025-05-09,28911,6,Electronics,Credit Card,Desktop,,No
+CUST1157,Jason Stein,Female,20,Montoyaland,2024-07-19,2025-04-14,33861,8,Beauty,Debit Card,Desktop,3,No
+CUST1158,Melissa Gates,Male,49,Wallaceshire,2024-11-20,2025-05-04,21723,10,Electronics,Debit Card,Desktop,3,Yes
+CUST1159,Jamie Smith,Female,52,Millerfort,2022-08-14,2025-05-11,7894,12,Home,Debit Card,Mobile,4,No
+CUST1160,Paul Castaneda,Male,55,Stewartfort,2024-05-11,2025-04-29,14556,16,Clothing,Net Banking,Mobile,1,Yes
+CUST1161,Jennifer Adkins,Female,30,North Richardton,2022-11-14,2025-05-10,28880,7,Books,Credit Card,Tablet,5,No
+CUST1162,Lindsey Walker,Female,64,Port Christopherport,2023-06-11,2025-04-17,26535,9,Clothing,Wallet,Tablet,4,No
+CUST1163,Jeffrey Johnson,Female,42,Lake Emily,2022-07-20,2025-04-27,31120,13,Beauty,Debit Card,Tablet,3,No
+CUST1164,Michael Powell,Male,26,Michaelton,2022-08-24,2025-05-04,20377,13,Books,Credit Card,Tablet,1,No
+CUST1165,John Anderson,Female,21,Port Shawn,2023-08-25,2025-05-06,43904,6,Clothing,Cash on Delivery,Mobile,2,No
+CUST1166,Alyssa Long,Male,31,Moranstad,2025-03-16,2025-04-19,31411,10,Books,Debit Card,Mobile,5,No
+CUST1167,Alyssa Day,Male,54,Wilsonbury,2022-05-29,2025-05-08,33284,12,Electronics,Debit Card,Mobile,4,No
+CUST1168,Joel Williams,Male,51,West Michaelport,2022-10-10,2025-04-30,3691,9,Home,Wallet,Desktop,2,No
+CUST1169,Daniel Murphy,Female,28,Jacquelineton,2022-11-22,2025-05-05,33660,5,Clothing,Net Banking,Desktop,1,No
+CUST1170,Jamie Walton,Female,58,South Donald,2024-12-03,2025-05-05,25500,10,Beauty,Net Banking,Tablet,4,No
+CUST1171,Darlene Miller,Male,20,Rodriguezborough,2023-03-29,2025-04-15,39540,17,Electronics,Debit Card,Desktop,4,No
+CUST1172,Joshua Cooke,Female,45,North Sarah,2024-11-11,2025-04-21,4131,7,Clothing,Credit Card,Mobile,3,No
+CUST1173,Matthew Harrington,Male,46,Lewisborough,2023-03-20,2025-04-27,6672,15,Electronics,Cash on Delivery,Tablet,3,No
+CUST1174,Nicole Herring,Female,26,Danielchester,2023-02-25,2025-04-23,42580,7,Beauty,Cash on Delivery,Tablet,2,Yes
+CUST1175,Alex Hernandez,Male,20,Lake Maryshire,2025-03-20,2025-05-06,24061,12,Clothing,Credit Card,Desktop,4,Yes
+CUST1176,Michael Elliott,Female,42,Port Patriciamouth,2023-11-11,2025-04-30,25317,12,Beauty,Debit Card,Tablet,,Yes
+CUST1177,Michael Wang,Male,51,South Adam,2022-06-28,2025-05-05,20781,9,Books,Cash on Delivery,Desktop,2,No
+CUST1178,Lawrence Adkins,Female,29,New Savannahshire,2022-10-02,2025-04-25,29171,13,Beauty,Net Banking,Desktop,4,No
+CUST1179,Robert Oconnell,Male,59,Glassburgh,2022-12-26,2025-05-08,25864,7,Books,Credit Card,Tablet,3,No
+CUST1180,Alexander Collins,Male,26,Lake Lisa,2023-07-18,2025-04-24,42174,11,Clothing,Wallet,Desktop,3,No
+CUST1181,Tina Sanders,Male,32,South Dianemouth,2024-10-30,2025-05-12,27925,13,Books,Debit Card,Desktop,3,No
+CUST1182,Angela Vaughn,Female,57,Barnesbury,2023-11-05,2025-04-30,29102,10,Clothing,Credit Card,Desktop,5,No
+CUST1183,Ashley Barton,Female,42,Raymondmouth,2023-11-12,2025-05-13,23753,6,Clothing,Cash on Delivery,Desktop,3,Yes
+CUST1184,Lindsay Martinez,Male,22,Shawnberg,2023-01-18,2025-05-06,23972,13,Home,Debit Card,Tablet,4,Yes
+CUST1185,Dr. Hannah Patterson,Female,28,South Carrie,2024-06-29,2025-04-20,49730,7,Clothing,Net Banking,Mobile,3,No
+CUST1186,Jonathan Peterson,Female,51,Meganside,2024-12-21,2025-04-28,8580,15,Books,Debit Card,Mobile,2,No
+CUST1187,Samantha Garcia,Female,41,Jenniferside,2023-05-24,2025-05-02,7599,15,Home,Debit Card,Desktop,1,No
+CUST1188,Madison Poole,Female,32,East Jason,2024-07-06,2025-05-04,25931,10,Home,Net Banking,Desktop,4,Yes
+CUST1189,Jessica Gross,Male,55,Glendaberg,2024-10-15,2025-05-01,31686,10,Clothing,Net Banking,Desktop,2,No
+CUST1190,Debra Morton,Male,25,New Amy,2022-08-28,2025-05-06,48184,5,Beauty,Debit Card,Mobile,4,Yes
+CUST1191,Karen Graham,Female,22,Jenniferstad,2022-10-14,2025-04-21,30611,8,Beauty,Net Banking,Desktop,3,Yes
+CUST1192,Debra Christian,Female,43,Aguilarchester,2024-10-28,2025-04-24,40351,11,Home,Credit Card,Tablet,3,Yes
+CUST1193,Angelica Keith,Female,35,Nataliechester,2022-06-04,2025-04-27,23114,13,Clothing,Net Banking,Tablet,3,Yes
+CUST1194,John Bishop,Male,23,New Danielfurt,2024-08-12,2025-04-18,27224,17,Beauty,Net Banking,Tablet,3,No
+CUST1195,Allen Rosales,Male,54,North Ellen,2023-04-16,2025-05-07,42491,12,Clothing,Debit Card,Mobile,2,Yes
+CUST1196,Daniel Salinas,Female,30,West Karen,2023-03-07,2025-04-20,5440,9,Clothing,Credit Card,Desktop,3,No
+CUST1197,Spencer Haynes,Female,45,West Frances,2023-07-25,2025-04-22,29258,11,Home,Wallet,Desktop,4,No
+CUST1198,Adam Vaughan,Female,22,Port Bryan,2023-02-04,2025-04-23,36724,8,Home,Wallet,Desktop,4,Yes
+CUST1199,Nathan Freeman,Female,30,Jamesside,2024-08-25,2025-04-21,8288,6,Electronics,Cash on Delivery,Mobile,3,Yes
+CUST1200,Melissa Brewer,Female,34,West Lisaville,2022-05-20,2025-05-13,28582,9,Beauty,Net Banking,Mobile,3,No
+CUST1201,Ricky Davis II,Male,57,Lake Deborah,2022-10-14,2025-05-07,24534,10,Beauty,Net Banking,Mobile,2,Yes
+CUST1202,Elizabeth Perkins,Male,62,Youngport,2023-04-11,2025-04-18,35979,7,Beauty,Credit Card,Mobile,2,No
+CUST1203,Joseph Coleman,Female,49,South Paulmouth,2024-07-05,2025-05-04,11780,11,Books,Wallet,Tablet,1,No
+CUST1204,Erin Warner,Female,46,North Juliaborough,2024-05-20,2025-05-07,18552,11,Clothing,Cash on Delivery,Mobile,5,Yes
+CUST1205,David Martinez,Male,20,Greerstad,2023-12-04,2025-04-28,17031,8,Home,Credit Card,Mobile,2,No
+CUST1206,Bryan Herrera,Male,57,Port Jenny,2025-05-02,2025-04-25,23304,10,Beauty,Net Banking,Mobile,2,Yes
+CUST1207,Cathy Robinson,Female,51,West Shane,2024-11-14,2025-04-24,29403,13,Electronics,Wallet,Desktop,3,No
+CUST1208,Dr. William Warren,Male,57,East Sydneyhaven,2023-02-25,2025-05-11,45357,12,Beauty,Cash on Delivery,Desktop,2,No
+CUST1209,Brian Lee,Male,44,South Billyview,2024-03-26,2025-04-16,10642,8,Clothing,Debit Card,Desktop,4,Yes
+CUST1210,Christopher Smith,Female,30,Davidshire,2025-03-25,2025-04-14,48855,10,Clothing,Wallet,Tablet,1,Yes
+CUST1211,Denise Mccann,Female,62,Adammouth,2022-10-27,2025-05-01,10366,3,Home,Cash on Delivery,Tablet,2,No
+CUST1212,Melissa Martinez,Female,50,North Eric,2023-02-18,2025-04-26,5031,16,Books,Credit Card,Mobile,4,No
+CUST1213,Katherine Salas,Male,23,Candiceport,2023-11-16,2025-05-01,45954,10,Home,Debit Card,Desktop,3,Yes
+CUST1214,Julie Alexander,Female,41,Tylerside,2023-12-24,2025-04-21,38598,11,Beauty,Cash on Delivery,Tablet,4,No
+CUST1215,Anthony Everett,Male,36,Charlesmouth,2024-03-02,2025-04-22,38778,9,Electronics,Cash on Delivery,Desktop,4,No
+CUST1216,Rodney Morales,Male,33,East Abigail,2023-04-11,2025-05-08,28638,7,Home,Net Banking,Tablet,3,No
+CUST1217,Mark Brown,Female,57,South Amy,2024-07-20,2025-04-15,27565,14,Books,Wallet,Tablet,4,Yes
+CUST1218,Justin Torres,Female,45,Davisbury,2023-05-02,2025-04-17,30456,7,Home,Net Banking,Mobile,2,No
+CUST1219,Bailey Duran DDS,Female,50,Lake Martin,2024-02-06,2025-04-30,42232,12,Clothing,Debit Card,Mobile,4,No
+CUST1220,Courtney Mills,Female,58,Kellyhaven,2022-11-05,2025-05-04,39761,9,Beauty,Cash on Delivery,Tablet,3,Yes
+CUST1221,Jeremy Dalton,Female,30,Barajastown,2023-09-14,2025-04-19,11259,13,Beauty,Net Banking,Mobile,3,No
+CUST1222,Elizabeth Oliver DDS,Male,60,Lake Michaelbury,2022-11-22,2025-05-13,5939,8,Beauty,Wallet,Tablet,4,No
+CUST1223,Theresa Clark,Male,62,North Felicia,2024-05-06,2025-04-25,47741,9,Beauty,Debit Card,Tablet,5,No
+CUST1224,Matthew Moore,Male,42,Patrickville,2022-11-01,2025-04-19,43033,13,Beauty,Credit Card,Desktop,,Yes
+CUST1225,Benjamin Smith,Male,59,Scottport,2024-07-29,2025-05-11,28770,6,Beauty,Net Banking,Mobile,4,No
+CUST1226,Kirk Carter,Other,53,New Lynnstad,2022-12-11,2025-04-24,13779,9,Electronics,Debit Card,Mobile,3,No
+CUST1227,Michael Warner,Male,44,Tuckerport,2024-06-22,2025-05-07,39779,10,Books,Credit Card,Mobile,2,No
+CUST1228,Michael Bradshaw,Female,55,West Willie,2023-11-26,2025-04-26,44751,11,Beauty,Net Banking,Desktop,3,No
+CUST1229,Lori Guerrero,Female,24,East Teresaside,2025-05-12,2025-04-30,24388,9,Books,Debit Card,Desktop,3,No
+CUST1230,Jessica Stephens,Female,22,Lake Cameronborough,2023-08-04,2025-05-01,18130,11,Beauty,Debit Card,Desktop,3,No
+CUST1231,Susan Serrano,Female,60,Houstonborough,2024-09-25,2025-04-16,35644,11,Home,Net Banking,Mobile,5,Yes
+CUST1232,Christopher Parker,Female,62,Lucasland,2022-07-16,2025-05-11,31682,12,Beauty,Debit Card,Mobile,3,No
+CUST1233,Laura Roberts,Female,48,North Stephen,2022-09-18,2025-04-26,26038,6,Clothing,Cash on Delivery,Mobile,3,No
+CUST1234,Michael Lyons,Male,40,Benjaminland,2023-10-05,2025-04-21,12324,6,Electronics,Net Banking,Desktop,3,Yes
+CUST1235,Kathryn Snyder,Female,59,East Lauraside,2024-06-18,2025-05-09,32625,14,Home,Debit Card,Desktop,5,No
+CUST1236,Andrew Reynolds,Male,27,New Lorraineview,2022-11-09,2025-05-13,7479,1,Home,Credit Card,Tablet,4,No
+CUST1237,David Davis,Male,49,Hughesfurt,2024-01-01,2025-04-19,26689,6,Clothing,Credit Card,Desktop,4,Yes
+CUST1238,Sara Johnston,Female,60,Stewartfurt,2023-07-28,2025-04-16,43100,12,Beauty,Cash on Delivery,Tablet,3,Yes
+CUST1239,Yvonne Chambers,Male,47,New Adamland,2024-04-22,2025-05-05,13004,12,Electronics,Net Banking,Mobile,5,Yes
+CUST1240,Andrew Avila,Female,56,Lake Melaniestad,2024-12-01,2025-05-06,21169,10,Home,Debit Card,Desktop,1,Yes
+CUST1241,Matthew Moon,Female,48,West Kristinport,2023-09-10,2025-04-19,7410,10,Electronics,Debit Card,Mobile,5,No
+CUST1242,Kevin Walters,Female,35,West Kathymouth,2025-04-15,2025-04-19,47357,9,Home,Credit Card,Mobile,4,Yes
+CUST1243,Brandon Bailey MD,Male,53,Fostertown,2024-04-02,2025-05-13,35464,6,Beauty,Cash on Delivery,Mobile,3,No
+CUST1244,Shannon Rivera,Male,19,Moorebury,2023-04-29,2025-05-13,20631,11,Home,Credit Card,Mobile,3,No
+CUST1245,Donna Landry,Female,31,Lake Peter,2024-09-20,2025-04-18,25727,5,Home,Credit Card,Desktop,4,Yes
+CUST1246,Krista Gibson,Male,30,Susanberg,2024-02-05,2025-05-11,6478,10,Books,Cash on Delivery,Mobile,1,No
+CUST1247,Frank Cordova,Other,46,Ericastad,2023-08-08,2025-04-16,22491,10,Beauty,Net Banking,Tablet,5,No
+CUST1248,Jose Travis,Other,29,New Nancyberg,2024-03-08,2025-05-08,17653,9,Clothing,Debit Card,Desktop,3,No
+CUST1249,Kimberly Gutierrez,Female,56,North Adamfurt,2023-03-03,2025-04-19,34048,10,Clothing,Net Banking,Mobile,3,Yes
+CUST1250,Isaiah Avila,Male,19,West Jasonstad,2022-08-30,2025-04-22,43176,17,Beauty,Wallet,Desktop,2,Yes
+CUST1251,Olivia Harris,Male,49,South Rebecca,2024-05-21,2025-04-19,39571,12,Clothing,Wallet,Tablet,3,No
+CUST1252,Tanya Kim,Female,30,East Jack,2025-04-02,2025-04-23,47954,8,Beauty,Wallet,Mobile,3,No
+CUST1253,Barbara Dudley,Male,63,Jamesburgh,2023-12-05,2025-05-01,4483,10,Clothing,Cash on Delivery,Tablet,3,No
+CUST1254,Cynthia Moore,Male,44,Port Karenside,2023-02-16,2025-04-21,10003,11,Books,Credit Card,Mobile,4,No
+CUST1255,Kristen Davis,Female,58,Newmanland,2022-06-02,2025-04-28,30421,6,Clothing,Net Banking,Tablet,3,Yes
+CUST1256,Susan Murray MD,Female,34,Emilyview,2025-03-26,2025-05-05,17405,7,Home,Debit Card,Mobile,,No
+CUST1257,Kathleen Moran,Female,57,East Jessicafort,2024-06-15,2025-05-08,46338,16,Beauty,Wallet,Desktop,4,Yes
+CUST1258,Denise Davenport,Female,48,Michaelbury,2025-03-23,2025-05-08,24453,14,Electronics,Net Banking,Mobile,5,Yes
+CUST1259,Mrs. Kristen Reyes,Male,51,West Christineborough,2022-10-24,2025-04-18,27306,7,Electronics,Wallet,Desktop,2,No
+CUST1260,Katie Suarez,Female,41,Toddmouth,2024-01-19,2025-04-21,45500,5,Beauty,Wallet,Mobile,3,Yes
+CUST1261,Desiree Tyler,Other,62,Heatherberg,2024-03-24,2025-05-01,22668,12,Books,Debit Card,Mobile,3,No
+CUST1262,Timothy Romero,Male,52,Lindseychester,2024-08-02,2025-04-30,5083,7,Clothing,Cash on Delivery,Tablet,4,No
+CUST1263,Diane Evans,Female,23,North Lawrence,2025-03-02,2025-04-20,39214,12,Books,Credit Card,Tablet,5,Yes
+CUST1264,Yvonne Burns,Female,36,Lake Jodi,2025-03-29,2025-04-19,49645,15,Electronics,Cash on Delivery,Tablet,1,No
+CUST1265,Joshua Reed,Female,47,Hillstad,2022-09-23,2025-04-23,40396,5,Beauty,Net Banking,Mobile,1,No
+CUST1266,Kimberly Gibson,Female,24,Lake Jessica,2022-11-15,2025-05-05,12389,7,Beauty,Cash on Delivery,Mobile,5,No
+CUST1267,Colin Terry,Female,27,Fordstad,2022-12-22,2025-05-04,27913,7,Books,Net Banking,Mobile,2,Yes
+CUST1268,Cynthia Rowe,Male,58,Tonyville,2024-01-17,2025-04-14,12775,10,Books,Net Banking,Desktop,4,No
+CUST1269,Patrick Thornton,Male,49,Lake Catherine,2024-01-26,2025-04-25,2961,11,Clothing,Credit Card,Desktop,4,No
+CUST1270,Jasmin Alvarado,Female,51,Micheleberg,2025-04-27,2025-05-06,14791,12,Home,Debit Card,Mobile,5,No
+CUST1271,Veronica Simpson,Female,45,West Jessica,2024-11-16,2025-04-30,47304,11,Home,Credit Card,Tablet,2,Yes
+CUST1272,Jonathan Lawrence,Female,32,Lake Charlestown,2022-10-19,2025-04-27,11935,16,Clothing,Cash on Delivery,Tablet,2,No
+CUST1273,Shelly Alexander,Female,47,Port Bonniefurt,2023-01-31,2025-05-08,28435,9,Home,Net Banking,Tablet,4,Yes
+CUST1274,Joyce Bowen,Female,54,North Andrea,2022-08-22,2025-04-22,33953,10,Electronics,Wallet,Mobile,5,No
+CUST1275,Matthew Moore,Female,46,Valdezberg,2023-11-30,2025-04-18,19044,10,Home,Wallet,Tablet,3,Yes
+CUST1276,Wayne Morgan,Female,39,Philipshire,2023-03-19,2025-04-26,12758,12,Clothing,Net Banking,Mobile,3,No
+CUST1277,Marie Christian,Female,21,Dennishaven,2023-10-22,2025-05-02,31341,11,Home,Credit Card,Desktop,4,No
+CUST1278,Shannon James,Female,37,South Michaeltown,2023-03-21,2025-05-04,49258,12,Beauty,Debit Card,Tablet,5,Yes
+CUST1279,Nathan Malone,Female,49,Port Tamara,2024-11-23,2025-05-01,49690,10,Books,Credit Card,Desktop,5,Yes
+CUST1280,Amanda Jones,Female,53,Port Willie,2024-02-01,2025-04-25,11236,5,Electronics,Net Banking,Tablet,,No
+CUST1281,Tammie Bright,Male,21,Mooreshire,2022-11-20,2025-04-21,38143,11,Beauty,Net Banking,Mobile,1,No
+CUST1282,Jessica Garcia,Male,44,Lake Jessica,2023-05-10,2025-05-09,44450,16,Beauty,Debit Card,Mobile,2,No
+CUST1283,Shelia Wallace,Male,34,Billyfort,2024-03-03,2025-05-04,35464,13,Clothing,Cash on Delivery,Mobile,4,No
+CUST1284,Stephanie Williams,Female,29,North Joseph,2024-06-27,2025-04-25,28544,9,Books,Cash on Delivery,Mobile,5,Yes
+CUST1285,Elaine Brooks,Male,39,North Elizabeth,2023-07-20,2025-04-20,40433,11,Books,Debit Card,Tablet,3,No
+CUST1286,Joseph Knight,Male,34,Paulmouth,2024-11-02,2025-05-04,16497,16,Electronics,Cash on Delivery,Desktop,2,No
+CUST1287,Carolyn Miller,Female,27,North Tinamouth,2024-11-21,2025-05-04,14715,16,Clothing,Wallet,Mobile,4,No
+CUST1288,Lisa Allen,Male,18,Lake Tanyaview,2023-07-12,2025-05-03,33569,12,Electronics,Cash on Delivery,Tablet,1,No
+CUST1289,Briana Murray,Female,39,Bethshire,2025-02-07,2025-05-06,24411,12,Home,Cash on Delivery,Desktop,3,No
+CUST1290,David Smith,Male,43,South Desiree,2024-01-25,2025-05-09,17530,12,Beauty,Cash on Delivery,Mobile,4,No
+CUST1291,Stephanie Byrd,Male,35,Brianaland,2023-11-18,2025-05-01,29834,12,Electronics,Wallet,Desktop,4,Yes
+CUST1292,Jeremy Reed,Female,31,Nicholasbury,2024-05-22,2025-04-15,15071,15,Beauty,Cash on Delivery,Mobile,4,No
+CUST1293,Margaret Coleman,Male,64,Gomezstad,2025-03-14,2025-05-05,43219,13,Clothing,Wallet,Desktop,3,No
+CUST1294,Ryan Gonzalez,Male,46,Sparkstown,2024-12-05,2025-04-21,29427,7,Home,Debit Card,Desktop,4,Yes
+CUST1295,John Young,Female,29,South Gabriel,2024-02-01,2025-04-14,21214,12,Clothing,Credit Card,Mobile,4,No
+CUST1296,Laura Haney,Female,53,New Dawnborough,2024-06-04,2025-05-09,44041,7,Home,Debit Card,Tablet,4,No
+CUST1297,William Barrett,Male,52,East Eric,2024-07-16,2025-04-17,23887,13,Home,Credit Card,Desktop,4,No
+CUST1298,Keith Jennings,Female,29,Lake Jerrymouth,2023-07-21,2025-04-18,28944,15,Beauty,Debit Card,Mobile,3,No
+CUST1299,Amber Obrien,Male,24,South Emmafort,2022-12-28,2025-04-30,49408,9,Clothing,Credit Card,Desktop,1,No
+CUST1300,Tanner Mitchell DDS,Male,46,New Evan,2024-04-19,2025-04-29,20421,9,Clothing,Credit Card,Desktop,2,Yes
+CUST1301,Heather Fields,Female,28,Johnsonton,2022-10-28,2025-05-03,13557,7,Electronics,Net Banking,Tablet,2,No
+CUST1302,Megan Le,Female,50,New Brittany,2022-11-19,2025-04-21,45768,11,Clothing,Credit Card,Desktop,4,No
+CUST1303,Sara Fuller,Female,23,Lake William,2023-06-07,2025-05-05,25358,9,Electronics,Credit Card,Desktop,5,No
+CUST1304,Maria Parker,Female,64,North Gabriel,2024-06-12,2025-04-16,49189,8,Books,Net Banking,Mobile,4,No
+CUST1305,Kevin Oconnor,Other,32,New Susan,2024-06-24,2025-05-03,45138,9,Books,Cash on Delivery,Mobile,4,Yes
+CUST1306,Edward Burgess,Female,49,Lake Jessicaport,2023-05-07,2025-04-15,26562,8,Books,Cash on Delivery,Tablet,3,No
+CUST1307,Carlos Ryan,Male,28,East Shanefort,2025-01-14,2025-04-21,37350,9,Clothing,Net Banking,Desktop,3,No
+CUST1308,Kiara Mcintyre,Female,40,Jacksonchester,2022-12-09,2025-05-11,46986,13,Clothing,Wallet,Desktop,3,No
+CUST1309,Dawn Summers,Male,43,Port Brandi,2022-06-29,2025-04-16,21067,14,Electronics,Credit Card,Desktop,2,No
+CUST1310,Dr. Paul Morgan,Male,51,New Donna,2022-10-15,2025-05-09,30239,13,Home,Credit Card,Tablet,1,No
+CUST1311,Victor Taylor,Male,63,Garymouth,2022-08-04,2025-04-28,43785,14,Electronics,Net Banking,Desktop,4,No
+CUST1312,Shannon Ramsey,Male,51,Carlsonland,2022-08-27,2025-05-04,4254,14,Books,Net Banking,Mobile,,No
+CUST1313,Tracy Ballard,Other,46,South Paul,2024-06-25,2025-05-03,27544,10,Electronics,Wallet,Tablet,2,No
+CUST1314,Richard Smith,Female,21,North Jameshaven,2025-04-01,2025-05-10,2224,13,Home,Cash on Delivery,Mobile,1,No
+CUST1315,Jordan Chambers,Female,34,Serranoville,2022-06-24,2025-04-28,1876,10,Clothing,Debit Card,Mobile,4,No
+CUST1316,Lauren Carson,Male,52,South Rachel,2023-02-16,2025-04-29,9206,11,Electronics,Cash on Delivery,Tablet,3,No
+CUST1317,Ashley Hall,Male,30,Port Amandaville,2023-12-29,2025-04-30,9394,11,Books,Credit Card,Mobile,5,No
+CUST1318,Stephen Hoffman,Male,58,South Donnaside,2024-12-08,2025-04-14,18537,10,Books,Net Banking,Desktop,4,Yes
+CUST1319,Connie Brown,Male,56,Port Erikachester,2025-04-03,2025-04-27,18950,7,Clothing,Wallet,Tablet,5,No
+CUST1320,Susan Turner,Female,32,Woodton,2023-10-03,2025-05-09,16906,12,Electronics,Cash on Delivery,Mobile,3,Yes
+CUST1321,Charles Shah,Female,46,Perezfort,2023-01-06,2025-05-13,30225,9,Home,Wallet,Desktop,4,No
+CUST1322,Johnathan Davis,Female,46,Bellshire,2023-08-27,2025-04-21,6426,5,Clothing,Cash on Delivery,Desktop,3,No
+CUST1323,Brandy Chavez,Male,28,South Dennisfort,2025-01-04,2025-05-03,39519,12,Electronics,Credit Card,Mobile,4,No
+CUST1324,Natalie Bautista,Female,49,Port Christopher,2025-01-06,2025-05-05,9996,13,Beauty,Debit Card,Desktop,3,No
+CUST1325,Patrick Moore,Female,19,Scotttown,2022-10-10,2025-04-23,36568,13,Books,Wallet,Tablet,2,Yes
+CUST1326,Brett Burns,Female,64,New Alexandrahaven,2022-09-09,2025-05-10,30306,16,Home,Wallet,Mobile,4,No
+CUST1327,Trevor Johnson,Female,31,South Diamondmouth,2025-03-05,2025-05-05,23163,10,Home,Debit Card,Desktop,4,No
+CUST1328,Jeremy Sampson,Male,37,Coxberg,2024-07-29,2025-04-30,41821,12,Home,Wallet,Desktop,5,No
+CUST1329,Ariana Jennings,Male,39,Pearsonview,2024-06-16,2025-05-03,36995,7,Books,Wallet,Mobile,4,Yes
+CUST1330,Vanessa Howard,Male,28,Melissachester,2024-05-06,2025-04-23,23156,13,Electronics,Cash on Delivery,Mobile,4,No
+CUST1331,Colton Martinez,Female,44,Cherylfurt,2023-03-23,2025-04-28,26360,9,Clothing,Cash on Delivery,Mobile,2,No
+CUST1332,Jordan Bates,Male,20,South Andrea,2023-08-13,2025-04-18,17332,7,Electronics,Debit Card,Mobile,4,No
+CUST1333,Linda Smith,Male,34,Whiteside,2025-03-07,2025-04-15,39287,15,Clothing,Credit Card,Tablet,4,No
+CUST1334,Dana Martinez,Male,61,Kingport,2024-06-25,2025-05-10,48731,13,Home,Wallet,Mobile,5,No
+CUST1335,Andrea Hubbard,Male,45,Kimfurt,2024-06-13,2025-04-30,22227,10,Electronics,Credit Card,Tablet,5,No
+CUST1336,Daniel Kane,Female,46,Port Michelle,2024-07-06,2025-05-02,43315,14,Home,Debit Card,Tablet,1,No
+CUST1337,Charles Lester,Female,38,Lake Jerryburgh,2023-06-24,2025-04-20,30045,10,Beauty,Debit Card,Mobile,5,No
+CUST1338,Scott Thomas,Male,64,East Williammouth,2024-09-02,2025-05-09,45022,10,Home,Cash on Delivery,Tablet,1,Yes
+CUST1339,David Thompson,Male,33,East Paultown,2023-10-29,2025-05-10,3020,12,Home,Wallet,Mobile,3,No
+CUST1340,Allison Smith,Female,54,Port Dustinchester,2024-08-30,2025-04-27,3581,10,Clothing,Net Banking,Mobile,4,No
+CUST1341,Cynthia Morris,Male,37,North Josestad,2024-09-09,2025-04-24,34696,10,Beauty,Debit Card,Desktop,2,Yes
+CUST1342,Anthony Harmon,Male,23,New Benjaminfurt,2022-06-10,2025-04-18,37235,8,Home,Wallet,Mobile,4,Yes
+CUST1343,Nichole Alvarez,Male,36,Mendezhaven,2022-07-02,2025-05-08,39713,8,Home,Credit Card,Desktop,1,No
+CUST1344,Kayla Rodriguez,Male,22,Jenniferton,2024-03-12,2025-05-10,15066,6,Beauty,Cash on Delivery,Tablet,2,Yes
+CUST1345,Theresa Williams,Female,20,Lake Troy,2022-11-15,2025-04-29,14542,11,Beauty,Credit Card,Desktop,4,No
+CUST1346,Sharon Boyd,Female,18,East Melissahaven,2023-12-30,2025-05-09,25998,7,Electronics,Debit Card,Tablet,4,Yes
+CUST1347,Victor Brown,Male,55,Jameshaven,2024-04-12,2025-04-30,11829,6,Clothing,Debit Card,Mobile,5,No
+CUST1348,James Parks,Male,32,New Gavin,2023-09-14,2025-04-21,32156,8,Beauty,Credit Card,Tablet,4,Yes
+CUST1349,Theodore Jones Jr.,Female,51,West Johntown,2023-12-19,2025-04-15,2659,12,Beauty,Debit Card,Tablet,4,Yes
+CUST1350,Ana Hill,Female,52,North Wendy,2024-03-31,2025-04-15,38400,12,Books,Wallet,Mobile,3,No
+CUST1351,Kimberly Nguyen,Female,42,Gomezfurt,2024-04-27,2025-05-10,19863,13,Beauty,Debit Card,Tablet,1,No
+CUST1352,Kerry Chavez DDS,Female,41,Willishaven,2022-07-08,2025-05-12,48201,8,Clothing,Cash on Delivery,Mobile,2,Yes
+CUST1353,Michael Farrell,Male,29,Lake Janeland,2022-07-04,2025-04-26,43741,11,Home,Wallet,Desktop,4,No
+CUST1354,Patricia Le,Male,35,Jessicaside,2023-02-12,2025-04-25,19533,10,Home,Net Banking,Mobile,4,No
+CUST1355,Jesse Perez,Female,32,Michaelview,2024-09-24,2025-04-28,11305,13,Home,Debit Card,Mobile,3,No
+CUST1356,Jesse Perry,Male,61,New Sylvia,2025-03-03,2025-05-04,36351,9,Home,Debit Card,Tablet,4,No
+CUST1357,Jeffery Ortega,Female,33,Spearsshire,2023-08-27,2025-05-08,27332,7,Books,Cash on Delivery,Desktop,4,No
+CUST1358,Christian Leblanc,Female,44,West Gregoryhaven,2023-01-23,2025-04-19,14444,14,Beauty,Cash on Delivery,Mobile,1,No
+CUST1359,Ronald Davis,Female,25,New Charlesport,2024-06-15,2025-04-16,20373,12,Home,Credit Card,Desktop,2,No
+CUST1360,Parker Cain,Male,63,Staceyhaven,2024-03-13,2025-05-02,40872,10,Electronics,Credit Card,Desktop,5,Yes
+CUST1361,Laurie Hoffman,Female,42,Nancyshire,2022-12-08,2025-04-26,24428,7,Home,Credit Card,Tablet,4,No
+CUST1362,Bryan Gomez,Male,34,Heatherfurt,2023-09-11,2025-05-08,15879,8,Beauty,Cash on Delivery,Mobile,5,No
+CUST1363,Nicole Parrish,Female,46,Carrillomouth,2024-01-08,2025-05-01,37251,10,Home,Credit Card,Tablet,2,No
+CUST1364,Tracy Burke,Female,25,Maldonadoshire,2024-06-09,2025-04-20,35046,9,Books,Credit Card,Mobile,,No
+CUST1365,Kenneth Lewis,Male,32,South Darrenland,2022-10-30,2025-04-16,24786,11,Clothing,Net Banking,Desktop,2,No
+CUST1366,Courtney Rodriguez,Other,44,Schultzbury,2024-10-13,2025-04-20,5610,8,Clothing,Credit Card,Mobile,1,No
+CUST1367,Holly Farmer,Female,63,Port Leslie,2025-03-27,2025-05-05,12587,7,Beauty,Debit Card,Mobile,,No
+CUST1368,Renee Bruce,Male,24,Zacharytown,2024-06-14,2025-04-28,24262,14,Clothing,Cash on Delivery,Desktop,3,No
+CUST1369,Sabrina Austin,Male,20,Johnland,2025-03-04,2025-05-11,17581,11,Clothing,Wallet,Desktop,4,No
+CUST1370,Allison Hickman,Male,46,Nunezmouth,2024-09-20,2025-04-14,35447,9,Electronics,Net Banking,Mobile,2,No
+CUST1371,Debra White,Male,61,New Sarahfort,2025-04-12,2025-05-05,10096,3,Beauty,Cash on Delivery,Tablet,4,No
+CUST1372,Ellen Morgan,Male,41,Michaelshire,2024-08-28,2025-04-30,38519,16,Beauty,Cash on Delivery,Mobile,5,Yes
+CUST1373,Sergio Knight,Female,20,Ianborough,2024-10-18,2025-04-25,42503,9,Clothing,Debit Card,Desktop,3,No
+CUST1374,Charles Schultz,Male,37,Mclaughlinbury,2024-05-12,2025-05-12,18813,5,Clothing,Credit Card,Tablet,4,No
+CUST1375,Paul Lewis,Male,63,Port Joseph,2024-05-22,2025-05-11,48139,9,Clothing,Debit Card,Desktop,2,No
+CUST1376,Glen Wood,Female,32,East Mary,2024-10-03,2025-05-09,1513,10,Books,Credit Card,Desktop,4,Yes
+CUST1377,Paula Bradley,Male,42,Ericville,2023-01-11,2025-05-12,49878,12,Home,Credit Card,Tablet,3,No
+CUST1378,Anthony Moore,Female,47,North Emmafort,2024-07-09,2025-04-25,24205,12,Books,Cash on Delivery,Desktop,2,No
+CUST1379,Megan Nelson,Male,31,Port Mercedeston,2022-08-08,2025-05-01,2328,9,Beauty,Credit Card,Desktop,3,No
+CUST1380,Karla Ramos,Male,24,Watsonmouth,2024-01-11,2025-04-28,8409,7,Electronics,Net Banking,Desktop,2,No
+CUST1381,Paul Wilson,Female,34,Villanuevashire,2023-06-27,2025-04-27,38856,9,Home,Net Banking,Desktop,5,No
+CUST1382,Douglas Gregory,Female,61,Travishaven,2024-06-20,2025-05-11,13609,14,Electronics,Net Banking,Desktop,3,Yes
+CUST1383,Mr. Andrew Foster,Female,37,Raymondshire,2024-11-17,2025-04-20,2523,13,Beauty,Cash on Delivery,Desktop,2,Yes
+CUST1384,Aimee Turner,Female,53,North Alicia,2023-12-21,2025-05-02,15037,9,Beauty,Debit Card,Desktop,3,No
+CUST1385,Chad Scott,Female,26,Mendozaside,2024-12-27,2025-05-09,27161,9,Electronics,Wallet,Desktop,3,No
+CUST1386,Adam Burgess,Male,55,New Michaelburgh,2025-03-29,2025-04-26,39159,7,Electronics,Credit Card,Desktop,4,Yes
+CUST1387,James Padilla,Male,39,Brayhaven,2023-11-12,2025-04-19,34348,12,Electronics,Wallet,Mobile,,Yes
+CUST1388,Sandra Drake,Female,19,Stewarttown,2023-07-29,2025-04-29,38304,10,Beauty,Debit Card,Mobile,3,Yes
+CUST1389,Scott Williams,Female,41,Lake Jasonshire,2023-09-23,2025-05-09,15879,6,Clothing,Debit Card,Desktop,5,No
+CUST1390,Thomas Atkins,Other,25,West Michaelview,2022-08-17,2025-05-12,28266,9,Electronics,Cash on Delivery,Mobile,4,Yes
+CUST1391,Laura Mckinney,Male,28,New Jose,2022-06-26,2025-04-23,44090,10,Home,Net Banking,Tablet,2,No
+CUST1392,Brian Smith,Male,30,Thomasmouth,2024-11-16,2025-05-01,3063,12,Beauty,Net Banking,Mobile,4,No
+CUST1393,Robert Montgomery,Female,34,Ivanchester,2022-07-23,2025-05-06,36560,10,Books,Debit Card,Desktop,4,Yes
+CUST1394,Tamara Davis,Male,25,South Jaclyn,2022-11-29,2025-04-18,29697,10,Books,Cash on Delivery,Desktop,4,No
+CUST1395,Dana Chapman,Female,38,Michaelfurt,2023-12-04,2025-04-21,4086,11,Home,Cash on Delivery,Mobile,5,Yes
+CUST1396,Jennifer Collins,Female,35,Shannonshire,2023-11-06,2025-05-04,16587,13,Clothing,Credit Card,Desktop,3,No
+CUST1397,Gary Jackson,Male,47,New Gina,2024-11-06,2025-05-04,49368,6,Electronics,Net Banking,Tablet,5,Yes
+CUST1398,Ashley Hicks,Female,35,Lake Josephbury,2022-06-24,2025-04-17,23725,10,Beauty,Debit Card,Tablet,4,No
+CUST1399,Hannah Luna,Female,63,Chaseborough,2025-01-09,2025-04-18,30250,9,Electronics,Wallet,Desktop,3,No
+CUST1400,Robin Young,Male,64,Port Susan,2023-10-26,2025-04-17,7143,13,Beauty,Net Banking,Tablet,4,Yes
+CUST1401,Craig Morrison,Female,48,South Linda,2023-12-26,2025-05-04,28023,9,Books,Credit Card,Tablet,3,Yes
+CUST1402,Mary Thompson,Female,55,South Victor,2022-10-12,2025-04-20,37227,10,Electronics,Cash on Delivery,Mobile,,No
+CUST1403,Kathleen Webster,Female,49,Kristenport,2024-03-09,2025-05-07,11505,9,Home,Debit Card,Tablet,4,Yes
+CUST1404,Joann Glass,Male,28,Annashire,2023-11-01,2025-04-24,44043,5,Clothing,Net Banking,Mobile,1,No
+CUST1405,Madison Weber,Female,62,South Coreyburgh,2023-11-20,2025-05-05,661,13,Home,Wallet,Desktop,3,No
+CUST1406,Lori Hernandez,Male,42,East Lisafort,2024-02-12,2025-04-17,16529,13,Clothing,Credit Card,Mobile,4,No
+CUST1407,Jeremy Turner,Male,50,South Julieview,2023-11-10,2025-05-01,14726,11,Electronics,Credit Card,Desktop,1,No
+CUST1408,Anthony Romero,Female,55,Michaelside,2022-08-09,2025-05-09,29231,9,Electronics,Net Banking,Desktop,1,No
+CUST1409,Jesse Brown,Male,58,Mauricechester,2025-03-06,2025-05-03,44422,4,Clothing,Wallet,Desktop,3,No
+CUST1410,Angela Lin,Male,25,West Michelleborough,2023-05-28,2025-05-12,45348,15,Books,Credit Card,Desktop,3,No
+CUST1411,Lisa Hunter,Female,28,Port Justin,2023-06-02,2025-05-11,3890,8,Beauty,Debit Card,Desktop,3,Yes
+CUST1412,Julian Conner,Female,39,Emilyfort,2023-05-13,2025-05-09,6497,10,Home,Credit Card,Mobile,3,Yes
+CUST1413,Joanna Pacheco,Female,41,Prestonfurt,2025-02-13,2025-05-03,13193,16,Home,Wallet,Desktop,2,No
+CUST1414,Erica Alvarez,Female,58,Stevenberg,2023-09-10,2025-04-26,42592,9,Home,Cash on Delivery,Tablet,4,No
+CUST1415,Antonio Garcia,Male,34,Lake Lindsey,2024-11-19,2025-05-12,1041,12,Electronics,Cash on Delivery,Tablet,4,No
+CUST1416,Gwendolyn Klein,Male,29,Robertshire,2022-09-22,2025-05-08,22317,6,Home,Net Banking,Desktop,2,Yes
+CUST1417,Carrie Wright,Male,63,Sweeneyland,2025-04-16,2025-05-04,38361,9,Beauty,Wallet,Tablet,3,No
+CUST1418,Jeffrey Mills,Female,49,East Matthewmouth,2022-08-23,2025-05-05,13928,11,Beauty,Credit Card,Mobile,4,Yes
+CUST1419,Jake Campbell,Female,32,Deniseview,2023-08-30,2025-05-07,44434,10,Clothing,Credit Card,Mobile,1,Yes
+CUST1420,George Harper,Female,33,Nelsonmouth,2022-11-07,2025-05-04,49331,10,Electronics,Cash on Delivery,Desktop,2,No
+CUST1421,Maria Jones,Female,39,Juliehaven,2023-10-20,2025-04-21,10758,14,Beauty,Cash on Delivery,Desktop,1,Yes
+CUST1422,Michael Mitchell,Male,45,Gutierrezburgh,2023-02-01,2025-04-21,16544,14,Books,Debit Card,Desktop,5,No
+CUST1423,Mary Escobar,Female,37,East Jessicaview,2022-06-13,2025-05-08,29911,20,Electronics,Cash on Delivery,Tablet,4,No
+CUST1424,Felicia Aguilar,Male,50,East Garrettville,2024-08-27,2025-04-20,5969,10,Electronics,Debit Card,Tablet,4,No
+CUST1425,Gregory Ponce,Female,27,North Sharonfort,2023-10-02,2025-05-07,29354,13,Beauty,Credit Card,Mobile,4,No
+CUST1426,Jenna Larson,Male,57,North Kellihaven,2022-07-11,2025-05-06,6756,7,Books,Debit Card,Tablet,4,Yes
+CUST1427,Emily Bennett,Female,49,North Joseberg,2024-04-28,2025-04-20,11220,11,Clothing,Debit Card,Mobile,3,Yes
+CUST1428,Robin Santiago,Male,50,Lake Sarahfurt,2025-02-28,2025-05-08,34437,17,Beauty,Net Banking,Tablet,4,No
+CUST1429,Nancy Jennings,Male,19,Jeromeport,2024-02-29,2025-05-09,34098,12,Books,Cash on Delivery,Mobile,1,No
+CUST1430,Maria Henderson,Male,50,Simsberg,2024-10-12,2025-04-19,2151,6,Electronics,Debit Card,Desktop,4,No
+CUST1431,Jack White,Female,50,North Austin,2024-07-21,2025-04-24,19694,9,Books,Credit Card,Tablet,4,Yes
+CUST1432,Travis Tucker,Female,58,Michellemouth,2024-02-27,2025-05-06,25551,15,Electronics,Wallet,Mobile,4,No
+CUST1433,Chad Jones,Male,30,Mcdonaldside,2023-07-02,2025-05-06,27886,11,Beauty,Debit Card,Tablet,3,No
+CUST1434,Ashley Wise,Male,47,Amyberg,2022-06-14,2025-04-15,10018,11,Beauty,Cash on Delivery,Desktop,3,No
+CUST1435,Sophia Johnson,Female,50,New Carla,2025-04-29,2025-04-21,46526,12,Home,Net Banking,Mobile,4,No
+CUST1436,Ralph Anderson,Male,30,Millsside,2024-05-12,2025-05-11,16684,11,Home,Credit Card,Tablet,4,Yes
+CUST1437,Christopher Guerra,Female,43,Reginafort,2024-11-12,2025-05-01,34287,4,Home,Net Banking,Tablet,5,Yes
+CUST1438,Rhonda Martin,Female,39,Port Christopher,2022-06-17,2025-04-19,22121,15,Beauty,Wallet,Desktop,3,No
+CUST1439,Jason Rhodes,Male,56,Michaelview,2023-09-17,2025-05-13,10528,7,Clothing,Debit Card,Desktop,4,No
+CUST1440,Jeremy Mitchell,Male,19,West Alex,2023-12-21,2025-05-03,12948,11,Beauty,Debit Card,Mobile,4,Yes
+CUST1441,Joann Ferguson,Other,55,West Justin,2024-10-16,2025-04-19,45753,9,Books,Cash on Delivery,Tablet,5,No
+CUST1442,Robert Harrison,Male,56,Lake Sandrafort,2024-01-10,2025-04-19,34551,14,Beauty,Debit Card,Tablet,4,Yes
+CUST1443,Holly Valentine,Male,43,Albertchester,2023-09-26,2025-05-01,30947,7,Beauty,Credit Card,Desktop,4,Yes
+CUST1444,Mrs. Diane Reyes,Female,63,Carlatown,2024-10-19,2025-05-11,18894,12,Electronics,Wallet,Desktop,4,No
+CUST1445,Tracy Montoya,Female,32,Jacobside,2022-10-12,2025-04-28,35001,13,Electronics,Net Banking,Mobile,4,Yes
+CUST1446,Brenda Wright,Other,51,Fosterburgh,2024-06-10,2025-04-15,30754,8,Electronics,Wallet,Tablet,,No
+CUST1447,Shelly Spencer,Female,59,Claytonbury,2022-10-16,2025-05-09,19009,9,Beauty,Debit Card,Tablet,1,No
+CUST1448,Ryan Rosales,Male,61,Christianbury,2025-04-21,2025-04-21,49498,15,Clothing,Net Banking,Mobile,1,Yes
+CUST1449,Phillip Nelson,Male,57,Justinside,2025-03-27,2025-04-19,14972,10,Books,Cash on Delivery,Mobile,5,Yes
+CUST1450,Brittany Kim,Female,28,Robertland,2023-03-29,2025-05-02,46157,9,Books,Wallet,Desktop,4,No
+CUST1451,Courtney Hayes,Female,20,East Keith,2023-10-17,2025-04-28,3971,10,Clothing,Net Banking,Desktop,4,Yes
+CUST1452,Alexander Brown,Male,23,Williamsonview,2024-06-23,2025-05-02,42296,16,Clothing,Net Banking,Mobile,3,No
+CUST1453,Cynthia Vang,Female,26,Lopeztown,2024-07-03,2025-04-28,30768,9,Books,Net Banking,Mobile,1,No
+CUST1454,Alfred Galvan,Male,23,North Tara,2025-03-15,2025-04-28,8829,5,Home,Credit Card,Tablet,4,No
+CUST1455,Marie Moody,Female,26,East Teresaport,2023-10-23,2025-05-07,35365,6,Electronics,Wallet,Mobile,4,No
+CUST1456,Dustin Gallegos,Male,56,Davidmouth,2023-01-27,2025-04-15,47350,11,Electronics,Net Banking,Mobile,3,Yes
+CUST1457,Brenda Thornton,Male,48,East Christophertown,2024-12-24,2025-04-20,47198,9,Books,Wallet,Tablet,3,Yes
+CUST1458,Aaron Miller,Male,49,Robinsonchester,2023-08-22,2025-04-20,28772,13,Clothing,Net Banking,Mobile,5,Yes
+CUST1459,Ruben Dunn,Male,58,Kristifort,2023-11-29,2025-05-12,43345,12,Home,Cash on Delivery,Desktop,1,No
+CUST1460,Kelsey Rodriguez,Male,29,Steventon,2024-03-21,2025-05-04,6897,6,Books,Cash on Delivery,Desktop,5,No
+CUST1461,Eric Williams,Female,25,Christopherberg,2023-03-23,2025-04-16,32873,13,Electronics,Cash on Delivery,Tablet,3,Yes
+CUST1462,Riley Bryant,Female,25,West Kimberlyland,2024-06-23,2025-04-28,36025,8,Beauty,Debit Card,Mobile,4,Yes
+CUST1463,Taylor Carlson,Female,45,Whiteview,2025-01-25,2025-04-27,25070,9,Clothing,Net Banking,Desktop,5,No
+CUST1464,Jose Allen,Other,37,Claytonville,2022-09-08,2025-04-24,18784,8,Beauty,Debit Card,Desktop,4,No
+CUST1465,Jeffrey Mendez,Male,64,South Kelsey,2024-08-23,2025-04-22,19494,7,Books,Wallet,Desktop,3,No
+CUST1466,Jason Beck,Male,24,Wrightton,2023-04-11,2025-05-07,23784,12,Electronics,Debit Card,Desktop,4,No
+CUST1467,William Jones,Female,28,South Jill,2023-08-03,2025-04-14,18333,3,Home,Wallet,Mobile,3,No
+CUST1468,Katie Mcneil,Male,37,New Elizabethborough,2023-06-29,2025-04-19,25622,11,Beauty,Wallet,Mobile,3,No
+CUST1469,Jeanette Harrison,Other,33,Priceport,2022-07-26,2025-05-10,5517,16,Home,Wallet,Mobile,,No
+CUST1470,Veronica King,Male,21,Ericton,2023-08-18,2025-04-30,16870,10,Electronics,Debit Card,Mobile,4,No
+CUST1471,Richard Cooper,Other,23,West Timothyport,2024-10-20,2025-04-17,29752,11,Beauty,Net Banking,Desktop,4,No
+CUST1472,Lori Ingram,Male,39,West Paige,2024-01-28,2025-04-16,8499,12,Home,Debit Card,Tablet,3,Yes
+CUST1473,Evelyn Williams,Female,43,North Joel,2023-04-29,2025-05-04,22936,6,Home,Net Banking,Tablet,1,Yes
+CUST1474,Robin Thompson,Female,20,Nguyenburgh,2025-01-08,2025-05-07,43463,9,Beauty,Net Banking,Desktop,1,No
+CUST1475,Julie Dominguez,Other,58,Brendafurt,2022-10-03,2025-05-11,2596,13,Electronics,Wallet,Desktop,4,No
+CUST1476,Robin Brown,Male,59,North Tanya,2024-10-28,2025-04-29,48701,12,Home,Debit Card,Tablet,4,No
+CUST1477,Judith Carter,Female,31,Barkerberg,2022-10-08,2025-05-11,25779,14,Books,Net Banking,Tablet,4,Yes
+CUST1478,Curtis Williams,Other,28,Kellibury,2024-11-18,2025-05-05,43863,12,Beauty,Cash on Delivery,Desktop,5,No
+CUST1479,Kaylee Hays,Female,35,South Christopher,2023-10-19,2025-04-30,49209,6,Clothing,Net Banking,Desktop,1,No
+CUST1480,Dawn Mullins,Female,29,Sarahton,2023-07-12,2025-05-02,26701,10,Clothing,Cash on Delivery,Mobile,3,Yes
+CUST1481,Howard Norman,Female,40,West Deannaside,2022-08-26,2025-05-07,20215,15,Electronics,Debit Card,Mobile,2,No
+CUST1482,Evelyn Martinez,Male,29,East Tonymouth,2024-10-09,2025-05-13,29809,11,Books,Debit Card,Tablet,3,No
+CUST1483,Steve Paul,Female,30,Lindamouth,2024-08-15,2025-04-20,15578,9,Home,Debit Card,Desktop,1,No
+CUST1484,Jasmine Beltran,Female,42,North Hannah,2024-05-21,2025-04-20,5605,15,Clothing,Net Banking,Tablet,,No
+CUST1485,Jonathan Glass MD,Female,62,Jenniferview,2024-03-07,2025-05-08,29812,12,Electronics,Credit Card,Mobile,2,No
+CUST1486,Monica Miller,Male,36,South Jasmineside,2023-04-04,2025-05-06,3339,10,Books,Net Banking,Mobile,5,No
+CUST1487,Samantha Gardner,Male,63,Amyfort,2023-11-04,2025-05-05,3884,11,Books,Net Banking,Tablet,3,No
+CUST1488,Bobby Guerrero,Female,53,New Jacob,2022-09-10,2025-05-05,44119,11,Electronics,Wallet,Mobile,,No
+CUST1489,Lance Simmons,Female,62,Mariomouth,2025-02-19,2025-04-21,43321,7,Electronics,Wallet,Desktop,4,No
+CUST1490,Heather Williams,Male,25,Mikaylaside,2023-08-25,2025-04-29,13993,10,Home,Net Banking,Tablet,5,No
+CUST1491,Heather Bolton,Female,46,North Amanda,2024-07-05,2025-04-18,17569,8,Electronics,Cash on Delivery,Desktop,1,Yes
+CUST1492,William Gould,Male,49,Phillipsview,2023-08-22,2025-05-03,47407,13,Home,Wallet,Desktop,4,No
+CUST1493,Mark Cox,Male,61,Shawnhaven,2024-03-16,2025-05-02,8031,12,Home,Net Banking,Mobile,5,No
+CUST1494,Meghan Cisneros,Male,35,Grosstown,2025-03-09,2025-04-25,37551,13,Beauty,Credit Card,Desktop,2,No
+CUST1495,Lawrence Harrington,Male,23,Kimberlybury,2024-08-29,2025-05-03,8236,9,Books,Cash on Delivery,Tablet,1,No
+CUST1496,Austin Osborne,Female,35,Jenniferside,2023-09-12,2025-04-30,8210,10,Books,Debit Card,Desktop,3,Yes
+CUST1497,James Bradley,Male,36,Leefort,2023-03-20,2025-05-10,2119,13,Books,Net Banking,Desktop,5,No
+CUST1498,Meghan Rush,Other,39,New Justin,2024-02-16,2025-04-16,14475,11,Beauty,Net Banking,Desktop,4,Yes
+CUST1499,Phillip Berry,Other,54,Davidsonville,2024-01-28,2025-05-05,46103,12,Home,Cash on Delivery,Desktop,4,Yes
+CUST1500,Jennifer Banks,Female,49,New Donnaton,2023-06-08,2025-04-27,23752,13,Home,Wallet,Desktop,2,No
+CUST1501,Brian Fitzgerald,Female,58,East Morgan,2025-01-08,2025-04-18,15761,11,Electronics,Wallet,Mobile,1,Yes
+CUST1502,Mr. Justin Green III,Male,20,North Todd,2024-07-22,2025-04-22,1931,13,Beauty,Wallet,Tablet,5,No
+CUST1503,Zachary Mitchell,Female,45,North Ashleyfurt,2024-04-17,2025-04-15,9567,8,Electronics,Debit Card,Mobile,1,No
+CUST1504,Katherine Martinez,Female,27,Foxshire,2025-03-22,2025-05-11,37981,12,Beauty,Cash on Delivery,Tablet,4,No
+CUST1505,Jodi Roach,Male,52,Brandonbury,2024-09-10,2025-04-28,27537,7,Electronics,Cash on Delivery,Tablet,5,No
+CUST1506,Brandon Fleming,Female,46,North Sarahborough,2023-02-18,2025-05-11,10057,11,Clothing,Wallet,Tablet,2,Yes
+CUST1507,Emma Reed,Female,32,Hebertland,2022-06-11,2025-04-20,9935,7,Books,Wallet,Tablet,4,Yes
+CUST1508,Joshua Vance,Female,50,Owenton,2025-01-13,2025-05-11,38266,16,Books,Credit Card,Tablet,1,No
+CUST1509,Michelle Ho,Female,24,Angelachester,2025-05-10,2025-04-18,662,8,Home,Credit Card,Desktop,4,No
+CUST1510,Rebecca Hicks,Female,29,Lauraton,2024-07-23,2025-04-23,35242,9,Clothing,Net Banking,Mobile,2,No
+CUST1511,Curtis Taylor,Male,47,Allisonland,2023-02-27,2025-05-10,20175,8,Books,Net Banking,Mobile,4,No
+CUST1512,Allison Spencer,Female,38,Christianborough,2024-10-26,2025-05-12,8961,8,Home,Cash on Delivery,Desktop,3,Yes
+CUST1513,Robert Arnold,Female,48,North Jessicaside,2024-06-27,2025-04-16,17515,8,Clothing,Cash on Delivery,Tablet,3,No
+CUST1514,Angelica Parker,Male,41,Lopezhaven,2023-04-09,2025-05-11,33091,11,Books,Debit Card,Mobile,4,No
+CUST1515,Dr. Kelly Hammond DVM,Male,37,New Colleen,2025-03-05,2025-05-09,28547,11,Electronics,Debit Card,Desktop,2,Yes
+CUST1516,William Day,Male,54,New Kara,2024-05-08,2025-04-23,35282,8,Beauty,Credit Card,Desktop,4,Yes
+CUST1517,Michael Cooper,Female,21,Reeseshire,2023-07-04,2025-05-07,10333,11,Clothing,Net Banking,Mobile,3,Yes
+CUST1518,Penny Bowman,Other,45,Emilychester,2025-01-28,2025-05-08,8396,8,Home,Credit Card,Mobile,4,Yes
+CUST1519,Vincent Reynolds,Male,61,East Lauraside,2024-08-18,2025-04-14,33472,12,Clothing,Credit Card,Tablet,2,No
+CUST1520,Amy Martinez,Female,37,Wagnerburgh,2024-12-23,2025-04-19,42300,8,Home,Net Banking,Tablet,4,Yes
+CUST1521,Christopher Morris,Male,41,Mahoneymouth,2024-03-17,2025-05-09,31008,13,Clothing,Debit Card,Mobile,2,Yes
+CUST1522,Hannah Everett,Other,49,Meganchester,2024-10-09,2025-04-22,5847,6,Home,Net Banking,Tablet,3,Yes
+CUST1523,Sarah King,Female,58,Mckenziemouth,2025-01-11,2025-04-14,30814,14,Books,Wallet,Desktop,2,No
+CUST1524,Krista Martinez,Female,53,New Amy,2022-08-15,2025-04-27,3143,9,Electronics,Wallet,Tablet,4,No
+CUST1525,Joseph Shaw,Male,51,Cannonview,2024-08-02,2025-04-23,41285,6,Books,Wallet,Tablet,3,Yes
+CUST1526,Todd Moore,Male,53,Suzannemouth,2023-03-21,2025-04-25,19181,12,Electronics,Cash on Delivery,Desktop,5,No
+CUST1527,Michelle Jacobs,Male,19,Smithton,2023-11-30,2025-05-12,38828,8,Books,Debit Card,Tablet,5,Yes
+CUST1528,Kristy Bryan,Male,32,Caitlinhaven,2024-05-01,2025-05-05,16392,15,Books,Debit Card,Desktop,2,No
+CUST1529,Angel May,Female,51,West Adam,2022-12-29,2025-04-18,47799,15,Clothing,Cash on Delivery,Tablet,4,Yes
+CUST1530,Marilyn Wang,Female,53,East Melissa,2023-05-22,2025-05-09,17573,8,Beauty,Credit Card,Mobile,1,No
+CUST1531,Mark Jimenez,Other,23,Port Lynnview,2023-01-02,2025-05-13,37268,8,Home,Wallet,Tablet,3,No
+CUST1532,Donna Frye,Other,56,North Benjamin,2025-04-12,2025-04-29,31182,16,Home,Wallet,Mobile,4,No
+CUST1533,Dr. Michael Evans,Female,59,Ericview,2023-08-23,2025-05-03,32762,10,Home,Credit Card,Mobile,4,Yes
+CUST1534,Anthony Gonzales,Female,29,Pamelabury,2024-03-20,2025-05-12,31858,7,Electronics,Net Banking,Mobile,4,No
+CUST1535,Mr. Lawrence Edwards,Female,20,West Lisa,2024-02-10,2025-04-16,14789,14,Home,Net Banking,Mobile,3,No
+CUST1536,Morgan Valencia,Female,62,New Ricardoborough,2023-09-21,2025-05-07,8427,13,Home,Debit Card,Mobile,3,Yes
+CUST1537,Bianca Wood,Male,35,Lake Markfort,2022-08-22,2025-04-15,48830,8,Clothing,Cash on Delivery,Desktop,2,No
+CUST1538,Emma Owens,Male,57,South Margaret,2025-01-22,2025-04-30,1671,9,Books,Debit Card,Desktop,4,Yes
+CUST1539,David Davis,Male,38,New Dawnton,2023-03-26,2025-05-05,12418,16,Home,Net Banking,Desktop,4,Yes
+CUST1540,James Gilbert,Female,32,Millerton,2024-02-13,2025-04-22,42403,6,Beauty,Credit Card,Mobile,4,Yes
+CUST1541,Sean Moore,Female,50,Michaelchester,2023-07-02,2025-05-04,39610,17,Home,Debit Card,Tablet,2,No
+CUST1542,Kenneth Edwards,Male,52,Conradville,2023-08-02,2025-04-15,12429,12,Electronics,Wallet,Desktop,3,No
+CUST1543,Kathleen Robertson,Female,43,Lake Denise,2025-02-10,2025-05-09,3039,11,Electronics,Wallet,Tablet,3,No
+CUST1544,Mr. Alexander Landry MD,Female,25,Lake Kimberlyfurt,2023-01-18,2025-04-29,37227,9,Electronics,Credit Card,Tablet,1,Yes
+CUST1545,Cindy Gomez,Male,53,West Alicemouth,2023-06-16,2025-05-02,46451,7,Home,Net Banking,Mobile,3,No
+CUST1546,Johnny Khan,Male,47,West Wayne,2025-04-14,2025-04-26,23169,11,Clothing,Wallet,Mobile,5,Yes
+CUST1547,Julie Herrera,Female,40,East Brent,2024-12-02,2025-04-18,5932,14,Beauty,Wallet,Mobile,5,No
+CUST1548,Jessica Khan,Female,59,Maddoxshire,2023-05-15,2025-04-19,21144,12,Home,Cash on Delivery,Desktop,4,No
+CUST1549,Pamela Diaz,Female,61,East Ryanfurt,2024-02-03,2025-04-18,19245,5,Clothing,Debit Card,Mobile,3,Yes
+CUST1550,Kelly Lee,Female,31,East Matthew,2023-05-19,2025-05-10,28728,13,Clothing,Net Banking,Desktop,1,No
+CUST1551,Angel Gordon,Female,31,Duncanton,2022-11-06,2025-04-22,35021,4,Home,Debit Card,Desktop,5,No
+CUST1552,Diana Hays,Female,19,Bakerfurt,2023-01-01,2025-04-27,32203,5,Home,Net Banking,Desktop,1,No
+CUST1553,Barbara Hester,Female,54,Ayalaberg,2023-03-08,2025-04-20,27428,11,Clothing,Wallet,Desktop,5,No
+CUST1554,Robert Morgan,Female,22,South Anita,2022-06-26,2025-04-22,18822,9,Clothing,Cash on Delivery,Mobile,3,No
+CUST1555,Nicole Gonzalez,Male,55,Fostershire,2023-05-30,2025-04-26,22860,7,Clothing,Debit Card,Desktop,3,No
+CUST1556,Kathryn Williams,Male,62,New Christina,2023-09-08,2025-04-18,29555,5,Home,Wallet,Mobile,5,No
+CUST1557,Gary Wells,Male,58,East Charles,2024-05-04,2025-04-21,43391,10,Clothing,Net Banking,Mobile,1,Yes
+CUST1558,Larry Robertson,Female,64,Morrisshire,2024-06-06,2025-04-28,16876,6,Electronics,Debit Card,Desktop,4,No
+CUST1559,Louis Martin,Female,31,North Emilychester,2024-09-29,2025-05-03,7088,13,Home,Debit Card,Mobile,4,No
+CUST1560,Nancy Evans MD,Female,56,Michaelmouth,2024-03-21,2025-04-22,25500,9,Electronics,Wallet,Tablet,2,Yes
+CUST1561,Kim Erickson,Male,42,Brittneytown,2024-02-28,2025-04-16,6804,11,Books,Debit Card,Mobile,3,Yes
+CUST1562,Robert Richardson,Male,37,Garystad,2025-02-11,2025-05-13,7845,6,Home,Cash on Delivery,Mobile,4,No
+CUST1563,Veronica Silva,Male,19,Hansonmouth,2022-07-10,2025-04-29,29800,8,Books,Cash on Delivery,Desktop,4,No
+CUST1564,Molly Watts,Male,56,Port Jesusstad,2023-03-23,2025-04-22,24759,4,Clothing,Wallet,Desktop,1,No
+CUST1565,John Coffey,Female,23,Port Jessica,2023-01-16,2025-04-15,25970,8,Clothing,Net Banking,Mobile,5,Yes
+CUST1566,Paula Lane,Male,34,North Jodibury,2023-07-11,2025-04-16,23517,11,Beauty,Wallet,Desktop,2,No
+CUST1567,Lauren Jackson,Male,42,Port Marissa,2022-12-11,2025-04-28,15852,14,Clothing,Cash on Delivery,Tablet,2,Yes
+CUST1568,Lisa Randall,Female,45,Alexanderville,2022-06-28,2025-05-02,33865,7,Books,Credit Card,Tablet,3,No
+CUST1569,Michael Johnson,Male,19,Shannontown,2023-06-19,2025-04-18,19946,13,Clothing,Credit Card,Desktop,1,No
+CUST1570,Ashley Smith,Female,52,Jasonside,2023-07-19,2025-04-29,2836,12,Home,Debit Card,Mobile,2,Yes
+CUST1571,Christian Vaughn,Female,54,East Amy,2025-03-02,2025-04-20,10379,7,Clothing,Debit Card,Tablet,,No
+CUST1572,Reginald Knapp,Male,22,Anaberg,2024-09-15,2025-05-04,32816,16,Beauty,Credit Card,Tablet,3,No
+CUST1573,Nancy Brown,Female,18,South Brandyhaven,2023-02-11,2025-04-29,33840,8,Clothing,Cash on Delivery,Mobile,2,No
+CUST1574,Daniel Nguyen,Female,57,West Georgeport,2025-02-07,2025-04-26,8021,9,Books,Debit Card,Desktop,2,No
+CUST1575,Kelly Edwards,Female,29,Port Heather,2022-07-18,2025-05-02,6671,10,Books,Wallet,Tablet,4,No
+CUST1576,Thomas Peterson,Male,53,Briantown,2024-06-06,2025-04-19,23981,8,Clothing,Wallet,Mobile,5,No
+CUST1577,Raymond Le,Female,62,South Donnastad,2022-06-13,2025-04-16,18974,8,Books,Cash on Delivery,Mobile,3,Yes
+CUST1578,Melissa Bishop,Female,40,North Kellyfurt,2022-08-07,2025-04-23,47260,6,Books,Debit Card,Tablet,1,Yes
+CUST1579,David Grant,Male,64,South William,2022-09-21,2025-04-25,45129,10,Beauty,Wallet,Desktop,2,Yes
+CUST1580,William Evans,Male,48,West Toddside,2023-09-13,2025-05-12,45732,5,Home,Debit Card,Tablet,1,No
+CUST1581,Daniel Bush,Other,28,East Jamesmouth,2024-12-03,2025-05-12,21508,19,Beauty,Debit Card,Mobile,2,No
+CUST1582,Gregory Peck,Female,27,North Johnhaven,2023-08-19,2025-04-25,2133,8,Electronics,Wallet,Tablet,3,No
+CUST1583,Denise Martinez,Male,20,Matthewfurt,2022-08-20,2025-05-07,12985,9,Beauty,Credit Card,Desktop,2,No
+CUST1584,Jamie Baird,Female,31,North Michael,2024-02-05,2025-05-08,44117,8,Clothing,Wallet,Mobile,4,No
+CUST1585,Tina Ballard,Male,33,Michaelport,2023-11-29,2025-05-08,4148,8,Home,Cash on Delivery,Desktop,3,No
+CUST1586,Dwayne Klein,Male,27,New Joshua,2025-03-22,2025-05-02,48445,13,Clothing,Net Banking,Tablet,5,No
+CUST1587,Jeremy Scott,Male,46,Lake Jonathanfurt,2025-02-28,2025-04-19,13640,9,Electronics,Wallet,Tablet,5,No
+CUST1588,Dale Ryan,Male,27,New Stacybury,2022-10-01,2025-04-27,18421,11,Home,Debit Card,Desktop,4,No
+CUST1589,Melissa Taylor,Male,29,West Penny,2024-01-20,2025-04-16,14857,16,Books,Debit Card,Tablet,3,Yes
+CUST1590,Laurie Sanchez,Male,47,North Jessica,2022-12-18,2025-04-29,46636,10,Beauty,Wallet,Desktop,3,No
+CUST1591,Kiara Little,Female,58,South John,2023-05-15,2025-05-06,3637,7,Clothing,Net Banking,Tablet,3,Yes
+CUST1592,Jason Love,Male,18,South Tara,2022-11-03,2025-05-10,597,8,Electronics,Wallet,Desktop,4,Yes
+CUST1593,Randy Smith,Male,22,Shaneberg,2024-10-16,2025-05-03,11907,11,Books,Net Banking,Desktop,3,No
+CUST1594,Tanya Russell,Female,37,Lake Dillon,2024-06-29,2025-04-17,31075,12,Beauty,Net Banking,Mobile,5,No
+CUST1595,Sherry Woods,Male,25,Port Devin,2022-11-17,2025-05-07,13222,8,Books,Cash on Delivery,Mobile,5,No
+CUST1596,Victor Morris,Female,60,South Wendy,2024-08-01,2025-04-15,13424,13,Beauty,Debit Card,Desktop,3,No
+CUST1597,Susan Davis,Male,29,Lake Sarah,2025-03-10,2025-05-03,4250,6,Home,Debit Card,Tablet,4,No
+CUST1598,Kimberly Sharp,Male,18,West Carlos,2024-10-31,2025-04-25,28233,11,Books,Net Banking,Tablet,1,Yes
+CUST1599,Susan Thompson,Male,37,East Lonnieberg,2024-08-06,2025-04-14,9035,7,Books,Debit Card,Tablet,2,No
+CUST1600,Casey Gillespie,Male,45,Port Lucaschester,2023-06-09,2025-04-27,24987,9,Books,Credit Card,Desktop,3,No
+CUST1601,Jennifer Simpson DVM,Male,60,Turnerview,2024-06-23,2025-05-10,31151,7,Home,Net Banking,Desktop,2,No
+CUST1602,Tammy Mcdowell,Male,54,Port Jacob,2022-10-01,2025-05-12,5166,15,Electronics,Debit Card,Desktop,5,No
+CUST1603,Keith Rodriguez,Male,64,East Anthony,2023-05-18,2025-04-18,49277,13,Beauty,Credit Card,Desktop,2,No
+CUST1604,Mrs. Virginia Daniels,Male,54,Catherinebury,2024-11-30,2025-04-25,17494,11,Books,Cash on Delivery,Mobile,3,Yes
+CUST1605,Todd Rosales MD,Male,29,East Grace,2022-11-19,2025-05-10,2227,12,Home,Debit Card,Desktop,4,No
+CUST1606,Brian Martin,Male,54,Christopherfort,2023-09-12,2025-04-20,35122,13,Electronics,Credit Card,Tablet,4,No
+CUST1607,David Lopez,Male,61,New Meghan,2023-10-07,2025-04-28,11300,6,Beauty,Wallet,Mobile,3,No
+CUST1608,Rachel Bradley,Female,45,Josephstad,2024-11-06,2025-05-11,38323,4,Home,Wallet,Tablet,5,Yes
+CUST1609,Casey Chase,Female,64,Port Paul,2024-01-09,2025-05-03,43539,8,Beauty,Credit Card,Desktop,4,No
+CUST1610,Samantha Robertson,Male,32,Taylorborough,2023-05-15,2025-05-05,19208,8,Books,Net Banking,Mobile,3,No
+CUST1611,Michael Lopez,Female,23,North Ricky,2024-02-29,2025-04-18,13319,7,Electronics,Net Banking,Desktop,1,Yes
+CUST1612,Franklin Wright,Female,61,West Stephaniebury,2023-04-17,2025-05-08,9869,13,Home,Debit Card,Mobile,3,No
+CUST1613,David Molina,Male,37,Port James,2022-12-24,2025-04-23,9783,7,Electronics,Wallet,Tablet,5,Yes
+CUST1614,Elizabeth Sharp,Female,31,South Michelle,2022-10-26,2025-04-20,31073,9,Books,Net Banking,Desktop,4,No
+CUST1615,Matthew Schwartz,Female,19,Wattsmouth,2023-02-10,2025-05-02,13671,10,Electronics,Net Banking,Desktop,5,No
+CUST1616,Bryan Parker,Male,26,South Richard,2023-04-11,2025-05-10,31433,13,Electronics,Wallet,Mobile,3,No
+CUST1617,Jonathan Jacobson,Male,54,New Jillfurt,2023-07-14,2025-04-22,6274,10,Clothing,Cash on Delivery,Mobile,2,No
+CUST1618,Emily Wilson,Female,37,Phillipshire,2024-03-26,2025-04-25,7019,5,Electronics,Net Banking,Desktop,1,Yes
+CUST1619,Elizabeth Mendez,Female,43,New Danielmouth,2024-02-07,2025-05-10,11483,6,Beauty,Credit Card,Mobile,3,No
+CUST1620,Casey Hernandez,Male,46,East Aprilfurt,2023-06-13,2025-05-04,31432,8,Home,Debit Card,Desktop,4,No
+CUST1621,Lisa Perry,Male,18,New Paulton,2024-11-14,2025-05-10,31298,5,Clothing,Net Banking,Mobile,4,Yes
+CUST1622,Kaitlin Medina,Male,52,West Scott,2022-08-08,2025-05-05,18633,7,Home,Net Banking,Tablet,3,No
+CUST1623,Colleen Wright,Female,23,Kimport,2024-06-13,2025-04-16,15439,11,Home,Cash on Delivery,Mobile,3,No
+CUST1624,Shelley Miller,Female,54,Jacksonport,2024-08-19,2025-04-14,1281,8,Books,Credit Card,Tablet,3,Yes
+CUST1625,Michael Miller,Male,22,Lake Zacharyberg,2023-12-17,2025-05-06,49550,10,Books,Debit Card,Mobile,3,Yes
+CUST1626,Amy Kelley,Male,50,Gallegosmouth,2025-05-04,2025-04-28,28124,10,Clothing,Net Banking,Mobile,2,Yes
+CUST1627,Laura Hernandez,Female,31,Lake Vincentburgh,2022-11-05,2025-04-22,7323,7,Books,Debit Card,Desktop,2,No
+CUST1628,Joseph Wilson,Male,29,South Robert,2023-09-17,2025-04-14,18989,15,Books,Wallet,Mobile,2,No
+CUST1629,Kevin Davis,Male,59,Johnsonmouth,2024-09-07,2025-04-16,40461,12,Books,Net Banking,Mobile,1,No
+CUST1630,Rhonda Chavez,Female,37,South Christopher,2024-03-02,2025-05-07,29618,9,Home,Net Banking,Tablet,2,No
+CUST1631,Joyce Brown,Female,41,Heatherburgh,2024-05-20,2025-04-27,35381,11,Clothing,Wallet,Mobile,1,No
+CUST1632,Robert Cummings,Female,60,North Dannymouth,2025-04-08,2025-05-13,16780,13,Home,Cash on Delivery,Desktop,4,No
+CUST1633,Robert Reese,Female,51,Christopherfurt,2023-05-31,2025-04-26,22763,8,Beauty,Net Banking,Tablet,3,Yes
+CUST1634,Amber Cooper,Male,42,South Andrea,2023-07-19,2025-05-02,14065,6,Home,Debit Card,Desktop,,No
+CUST1635,Zachary Michael,Male,46,Port Georgemouth,2022-12-25,2025-05-01,20854,11,Beauty,Credit Card,Desktop,2,No
+CUST1636,Timothy Johnson,Female,56,East Misty,2023-11-28,2025-04-24,43451,13,Electronics,Debit Card,Desktop,3,No
+CUST1637,Randy Cannon,Male,48,Port Jennifer,2024-05-21,2025-05-12,26143,10,Electronics,Cash on Delivery,Desktop,3,No
+CUST1638,Maria Fisher,Male,64,Parkermouth,2023-12-06,2025-05-08,24148,10,Beauty,Credit Card,Tablet,1,No
+CUST1639,Janet Kane DVM,Male,60,Courtneyville,2023-09-04,2025-04-27,42471,10,Beauty,Debit Card,Mobile,5,No
+CUST1640,Michael Stanley,Male,40,East Adam,2022-06-15,2025-04-16,19158,6,Home,Debit Card,Desktop,1,Yes
+CUST1641,Martha Bailey,Male,61,Alexanderfort,2025-02-09,2025-04-21,21753,13,Beauty,Wallet,Tablet,5,No
+CUST1642,Joshua Rice,Male,55,Stephenstown,2024-12-10,2025-05-09,49063,13,Clothing,Cash on Delivery,Desktop,5,Yes
+CUST1643,Courtney Smith,Male,37,Youngshire,2022-07-07,2025-05-11,26890,9,Electronics,Wallet,Mobile,4,No
+CUST1644,Edwin Nunez,Male,40,Chavezmouth,2025-03-07,2025-04-17,23628,12,Electronics,Credit Card,Tablet,4,Yes
+CUST1645,Kim Morrow,Female,62,New Carolbury,2022-08-06,2025-04-28,13989,11,Beauty,Wallet,Tablet,4,Yes
+CUST1646,Gregory Hill,Female,33,Christineside,2025-04-20,2025-04-18,38814,9,Books,Cash on Delivery,Mobile,3,No
+CUST1647,Molly Rodriguez,Female,59,North Jack,2025-03-22,2025-05-03,33158,6,Books,Net Banking,Tablet,4,No
+CUST1648,Jennifer Miranda,Female,25,Lake Michaelberg,2023-05-21,2025-04-19,7352,11,Beauty,Net Banking,Mobile,1,Yes
+CUST1649,Alexis Harris,Female,38,Lake Belindaport,2023-06-10,2025-04-20,29950,7,Clothing,Credit Card,Tablet,1,No
+CUST1650,Andrew Harper,Male,18,Samanthaton,2024-09-18,2025-05-11,3051,10,Books,Net Banking,Tablet,3,No
+CUST1651,Amber Yang,Female,25,South Victoriaburgh,2024-01-01,2025-04-27,6911,11,Beauty,Wallet,Mobile,4,Yes
+CUST1652,David Robinson,Female,46,Cherylshire,2023-09-06,2025-05-04,49659,13,Clothing,Credit Card,Mobile,5,No
+CUST1653,Amy Gordon,Female,49,South Kara,2025-01-30,2025-04-24,33743,10,Clothing,Cash on Delivery,Tablet,2,No
+CUST1654,Robert Dennis,Male,55,Sarahland,2025-05-06,2025-05-13,22300,8,Home,Credit Card,Tablet,5,No
+CUST1655,Kyle Chambers,Male,22,Marcusfurt,2023-11-28,2025-05-08,10903,18,Clothing,Credit Card,Mobile,2,No
+CUST1656,Eric Thomas,Male,64,Port Ronaldside,2025-04-12,2025-04-29,7739,16,Books,Debit Card,Mobile,3,No
+CUST1657,Connie Turner,Male,39,West Thomasville,2022-11-19,2025-04-30,7210,9,Books,Debit Card,Tablet,3,No
+CUST1658,Travis Hobbs,Female,64,Markchester,2024-08-21,2025-04-26,21884,16,Beauty,Credit Card,Tablet,3,Yes
+CUST1659,Lori Simmons,Female,51,Lake Jason,2023-05-16,2025-05-05,21538,12,Beauty,Net Banking,Tablet,2,Yes
+CUST1660,William David DDS,Male,18,North Ashleyhaven,2024-03-31,2025-04-27,41346,7,Clothing,Debit Card,Mobile,4,No
+CUST1661,Emma Butler,Other,43,South Jenniferport,2024-01-07,2025-04-25,22947,7,Electronics,Cash on Delivery,Tablet,5,No
+CUST1662,James Webster,Female,60,Lynchmouth,2022-05-26,2025-04-29,2785,12,Home,Wallet,Desktop,3,No
+CUST1663,Samuel Turner,Male,27,Aliciastad,2024-01-14,2025-04-30,38491,11,Electronics,Debit Card,Mobile,3,Yes
+CUST1664,Renee Melendez,Male,47,New Anna,2023-06-14,2025-04-24,14021,6,Clothing,Credit Card,Tablet,5,Yes
+CUST1665,Tracy Grant,Male,35,Vasquezburgh,2023-08-24,2025-05-06,48157,11,Clothing,Net Banking,Mobile,4,No
+CUST1666,David Harris,Male,34,Lake Kelly,2022-10-01,2025-05-13,7471,14,Electronics,Wallet,Desktop,3,No
+CUST1667,Tammy Boone,Male,43,North David,2023-05-14,2025-04-29,29639,12,Home,Debit Card,Mobile,3,Yes
+CUST1668,Nathaniel Lee,Male,25,Garrettville,2023-08-19,2025-04-14,20409,11,Electronics,Net Banking,Tablet,5,No
+CUST1669,Michael Morrison,Male,64,Port Christina,2023-04-05,2025-04-20,12031,9,Beauty,Net Banking,Desktop,4,No
+CUST1670,Chelsea Gill,Male,57,Gutierrezmouth,2023-01-17,2025-04-14,15221,11,Books,Net Banking,Desktop,2,No
+CUST1671,Kristin Mendoza,Female,29,Annborough,2024-03-25,2025-05-13,19706,10,Beauty,Credit Card,Tablet,3,No
+CUST1672,Felicia Krueger,Male,44,Lake Jamesport,2025-01-18,2025-05-07,38211,6,Books,Cash on Delivery,Tablet,5,No
+CUST1673,Timothy Hayden,Female,25,Kristyport,2023-09-18,2025-04-14,7030,14,Clothing,Net Banking,Tablet,1,No
+CUST1674,Zachary Mendoza,Male,42,Williammouth,2025-02-08,2025-04-14,11616,12,Home,Wallet,Mobile,,No
+CUST1675,Larry Harris,Other,63,North Ginamouth,2024-02-04,2025-04-22,758,8,Electronics,Debit Card,Mobile,2,No
+CUST1676,Kristen Rowe,Male,21,Ramseytown,2022-07-05,2025-05-04,782,11,Home,Wallet,Mobile,4,No
+CUST1677,Joseph Howard,Male,50,East Mark,2023-07-13,2025-05-10,14437,7,Electronics,Credit Card,Tablet,3,No
+CUST1678,Jose Crawford,Other,18,Sandrafort,2022-09-15,2025-05-07,2398,5,Beauty,Credit Card,Tablet,3,No
+CUST1679,William Harrison,Female,36,Roblesberg,2024-06-15,2025-05-03,4635,8,Beauty,Wallet,Mobile,5,No
+CUST1680,Suzanne Wood,Female,48,Mooremouth,2024-05-14,2025-05-10,7129,9,Electronics,Cash on Delivery,Desktop,3,No
+CUST1681,Justin Walker,Male,33,Stevenchester,2024-02-14,2025-04-17,44436,14,Home,Credit Card,Mobile,4,No
+CUST1682,Dean Donovan,Male,31,Port Adrianashire,2023-10-12,2025-04-17,20084,6,Electronics,Credit Card,Desktop,1,Yes
+CUST1683,Jennifer Hernandez,Female,22,Angelatown,2024-02-29,2025-05-10,24051,16,Clothing,Wallet,Tablet,1,Yes
+CUST1684,James Whitaker,Female,58,New Gina,2022-10-16,2025-04-15,33880,10,Beauty,Credit Card,Tablet,2,No
+CUST1685,Mr. Michael Scott PhD,Female,43,Carlberg,2023-01-18,2025-05-05,47471,8,Clothing,Cash on Delivery,Mobile,4,No
+CUST1686,Maria Henry,Female,45,Marymouth,2025-05-03,2025-04-19,17571,15,Beauty,Cash on Delivery,Mobile,2,No
+CUST1687,Robert Jackson,Male,19,Simsburgh,2023-06-23,2025-05-01,20574,8,Beauty,Cash on Delivery,Tablet,2,No
+CUST1688,Katherine Stark,Female,23,Lopezville,2024-07-08,2025-05-02,25688,6,Books,Debit Card,Mobile,3,No
+CUST1689,Maria Brown,Male,26,Janetmouth,2022-08-25,2025-05-13,2807,10,Clothing,Cash on Delivery,Tablet,4,No
+CUST1690,Ryan Landry,Male,50,West Robertfort,2023-11-11,2025-05-01,40401,9,Clothing,Cash on Delivery,Tablet,4,Yes
+CUST1691,Pamela Gutierrez,Male,58,West Shannon,2024-02-26,2025-05-02,11705,9,Books,Debit Card,Desktop,2,No
+CUST1692,Crystal Mann,Female,42,Javierport,2024-12-04,2025-04-22,6406,6,Home,Net Banking,Mobile,1,No
+CUST1693,Jonathan Brooks,Male,30,North Neil,2024-09-10,2025-04-14,3091,9,Clothing,Credit Card,Tablet,5,Yes
+CUST1694,Mary Jensen,Male,26,Port Jamesland,2023-10-03,2025-04-20,15649,10,Electronics,Cash on Delivery,Mobile,3,No
+CUST1695,Mr. Aaron Arnold,Female,30,Hunterfort,2024-04-17,2025-05-06,45418,10,Books,Credit Card,Desktop,5,No
+CUST1696,Joseph Hill,Male,48,East Matthew,2025-04-27,2025-05-01,40451,10,Clothing,Wallet,Desktop,5,Yes
+CUST1697,Alicia Li,Female,58,Oconnorhaven,2022-06-25,2025-04-23,25650,11,Home,Credit Card,Mobile,4,Yes
+CUST1698,Renee Browning,Male,28,Kimberlyberg,2022-08-02,2025-05-05,32352,9,Clothing,Debit Card,Mobile,2,No
+CUST1699,Brent Hernandez,Female,21,Port Tonihaven,2025-02-03,2025-04-14,43370,12,Beauty,Credit Card,Tablet,5,No
+CUST1700,Joseph Ochoa,Female,51,East Jenny,2025-02-03,2025-04-24,1783,11,Electronics,Credit Card,Desktop,4,Yes
+CUST1701,James Watson,Male,55,Hugheshaven,2023-02-23,2025-04-14,34191,13,Books,Credit Card,Desktop,4,Yes
+CUST1702,Karl Branch,Male,63,North Larryton,2025-01-16,2025-04-27,1625,13,Beauty,Net Banking,Desktop,3,No
+CUST1703,Michael Abbott,Male,21,West Steventon,2024-04-01,2025-05-01,2029,13,Home,Net Banking,Mobile,3,No
+CUST1704,Shannon Malone,Male,55,New Katieport,2025-02-02,2025-04-23,26670,10,Beauty,Wallet,Tablet,2,No
+CUST1705,James Tran,Other,36,New Katherineborough,2022-12-11,2025-04-18,8938,7,Beauty,Debit Card,Mobile,4,Yes
+CUST1706,Adam Jackson,Male,23,Jamesport,2022-05-18,2025-05-13,20595,10,Home,Credit Card,Mobile,4,No
+CUST1707,Mr. Richard Knight PhD,Female,51,Amandamouth,2024-01-26,2025-04-28,16654,8,Beauty,Credit Card,Mobile,3,No
+CUST1708,Joseph Williams,Male,35,West Edwardview,2023-03-20,2025-04-24,8504,8,Books,Credit Card,Tablet,3,No
+CUST1709,Sean Clay,Female,30,North Susanside,2025-01-14,2025-04-25,10252,11,Clothing,Credit Card,Mobile,3,No
+CUST1710,Anthony Jones,Female,58,East Amyside,2023-08-31,2025-05-07,43860,4,Beauty,Net Banking,Desktop,4,No
+CUST1711,Stephanie Elliott,Female,40,Josephport,2023-09-13,2025-05-01,27319,10,Books,Wallet,Desktop,5,No
+CUST1712,Timothy Edwards,Male,36,East Charles,2024-10-24,2025-04-15,37132,9,Clothing,Cash on Delivery,Desktop,2,No
+CUST1713,Laurie Goodwin,Male,62,Amberton,2022-09-18,2025-04-27,27015,11,Clothing,Debit Card,Tablet,3,No
+CUST1714,Jennifer Jones,Male,28,North Thomas,2022-11-02,2025-05-07,24717,13,Beauty,Credit Card,Mobile,2,No
+CUST1715,David Davenport,Female,18,North Patrickland,2023-01-14,2025-05-13,23672,16,Books,Wallet,Tablet,4,No
+CUST1716,Steven Rivera,Female,41,Myersshire,2023-06-05,2025-04-24,33494,12,Beauty,Cash on Delivery,Mobile,4,No
+CUST1717,Brenda Hinton,Other,24,Jensenport,2024-07-24,2025-04-14,15536,9,Home,Wallet,Desktop,5,Yes
+CUST1718,Kathryn Mccann,Male,42,Lisaside,2025-02-15,2025-04-23,12239,13,Clothing,Net Banking,Mobile,3,No
+CUST1719,Jeffrey Roberson,Female,38,Port Kathyshire,2022-12-02,2025-05-03,32720,11,Beauty,Cash on Delivery,Mobile,,Yes
+CUST1720,Randy Friedman,Female,32,North Lisa,2024-11-21,2025-04-19,49916,13,Clothing,Wallet,Mobile,1,No
+CUST1721,Raymond Johnson,Male,18,Davisport,2025-04-13,2025-04-27,10087,4,Books,Net Banking,Tablet,4,Yes
+CUST1722,Willie Henry,Male,29,Ruizbury,2024-02-10,2025-05-11,45017,4,Electronics,Wallet,Mobile,1,No
+CUST1723,Todd Reynolds,Female,24,Port Paula,2023-09-22,2025-05-08,30629,5,Beauty,Wallet,Mobile,5,No
+CUST1724,Mary Miller,Female,32,Robertafurt,2024-04-14,2025-05-07,1145,16,Beauty,Cash on Delivery,Mobile,4,No
+CUST1725,Rebecca Marquez,Female,38,Lake Samantha,2024-05-26,2025-04-22,31430,11,Clothing,Net Banking,Tablet,4,No
+CUST1726,Christian Dawson,Male,36,Kristinamouth,2022-12-07,2025-05-10,16799,9,Books,Credit Card,Tablet,5,No
+CUST1727,Nancy Stewart,Female,46,Freemanland,2023-06-22,2025-04-23,30590,9,Home,Debit Card,Tablet,2,No
+CUST1728,Aaron Parker,Male,42,Rodriguezfort,2023-02-07,2025-05-11,22453,6,Books,Cash on Delivery,Mobile,1,No
+CUST1729,Derrick Anderson,Male,50,Singletonport,2025-04-15,2025-05-13,46943,7,Beauty,Net Banking,Desktop,5,Yes
+CUST1730,Jerry Peters,Male,49,Cassandraberg,2024-11-20,2025-05-11,26975,10,Home,Wallet,Desktop,3,No
+CUST1731,Alexander Gomez,Female,52,South Lisaville,2023-10-04,2025-04-22,19388,14,Books,Net Banking,Desktop,2,No
+CUST1732,Kyle Nguyen,Female,61,Angelaland,2023-07-25,2025-04-17,44232,6,Electronics,Debit Card,Mobile,3,Yes
+CUST1733,Edgar Hughes,Female,55,Amandafurt,2023-03-18,2025-05-12,16587,12,Clothing,Debit Card,Desktop,4,No
+CUST1734,Steven Stein,Male,43,Allenbury,2022-09-22,2025-04-20,46805,5,Books,Credit Card,Desktop,1,No
+CUST1735,Laura Jackson,Female,28,South Patrick,2024-02-16,2025-04-17,46537,7,Books,Credit Card,Desktop,3,No
+CUST1736,Charles Turner,Male,52,Jaredshire,2023-12-06,2025-04-20,9846,10,Electronics,Debit Card,Mobile,1,No
+CUST1737,Arthur Hamilton MD,Female,25,Muellerchester,2023-02-20,2025-04-26,1087,11,Beauty,Cash on Delivery,Desktop,3,No
+CUST1738,Mr. David Wright,Male,63,Amybury,2024-01-15,2025-05-11,13263,10,Clothing,Cash on Delivery,Desktop,5,Yes
+CUST1739,Linda Gonzalez,Male,31,Lake Elizabeth,2023-12-21,2025-04-25,42445,9,Books,Wallet,Mobile,,Yes
+CUST1740,Eric Rush,Male,27,Wilsonmouth,2024-10-16,2025-05-09,4579,10,Home,Credit Card,Tablet,4,No
+CUST1741,Manuel Brock,Male,19,Angelamouth,2023-04-27,2025-04-27,36616,10,Books,Wallet,Desktop,2,Yes
+CUST1742,George Ochoa,Female,63,West Stephanie,2022-06-15,2025-04-23,20715,7,Clothing,Credit Card,Tablet,5,Yes
+CUST1743,Valerie Taylor,Female,26,New Danielfurt,2022-06-18,2025-04-15,26317,9,Books,Debit Card,Desktop,4,No
+CUST1744,Travis Harris,Male,20,Troyton,2024-09-27,2025-05-09,25265,7,Electronics,Cash on Delivery,Mobile,2,No
+CUST1745,Vincent Novak,Female,38,East Lisashire,2025-02-12,2025-05-13,30612,8,Books,Cash on Delivery,Tablet,5,No
+CUST1746,Michael Henry,Male,43,Port Dwayneberg,2024-12-19,2025-04-26,26056,11,Books,Debit Card,Tablet,4,No
+CUST1747,Dana Bennett,Female,25,Schmidtfurt,2025-01-11,2025-05-11,18599,10,Home,Wallet,Tablet,4,No
+CUST1748,Jenna Wilson,Female,19,Gonzalezmouth,2023-05-04,2025-05-06,44053,15,Electronics,Wallet,Tablet,4,No
+CUST1749,Leslie Gardner,Female,23,Ashleyport,2022-09-29,2025-04-14,45596,13,Electronics,Net Banking,Desktop,2,No
+CUST1750,Krista Benton,Male,45,Robbinsstad,2024-05-01,2025-05-04,6950,8,Books,Credit Card,Desktop,2,No
+CUST1751,Michael Gonzales,Female,46,New Alanhaven,2023-03-17,2025-04-16,13730,11,Home,Wallet,Tablet,4,No
+CUST1752,Michael Fuentes,Female,43,Abbottport,2023-06-24,2025-04-29,29509,11,Books,Debit Card,Desktop,2,No
+CUST1753,Jennifer Porter,Male,42,West Rachelton,2025-05-07,2025-05-04,5933,5,Books,Wallet,Tablet,3,Yes
+CUST1754,Dana Hopkins,Male,29,Lake Annstad,2023-01-31,2025-05-03,34366,7,Clothing,Cash on Delivery,Tablet,4,No
+CUST1755,Rachel Jones,Female,22,Port Juliantown,2022-07-30,2025-04-27,40364,14,Clothing,Credit Card,Mobile,4,No
+CUST1756,Karen Morales DDS,Female,51,South Jacqueline,2024-01-26,2025-04-19,19210,9,Home,Net Banking,Tablet,3,No
+CUST1757,Melissa Stephens,Female,54,Garrettfurt,2024-12-29,2025-05-09,11939,8,Beauty,Credit Card,Desktop,4,No
+CUST1758,Heather Woodard,Female,32,Jamesside,2024-03-10,2025-05-06,42355,4,Clothing,Cash on Delivery,Tablet,5,No
+CUST1759,Margaret Miller,Female,61,Lake Glenn,2024-12-01,2025-05-08,16521,16,Beauty,Cash on Delivery,Mobile,4,Yes
+CUST1760,Mary Kelly,Male,53,East Angela,2023-06-22,2025-05-01,6916,9,Electronics,Cash on Delivery,Desktop,2,Yes
+CUST1761,Amanda Terrell,Male,32,Maryberg,2022-12-31,2025-05-09,7480,6,Clothing,Cash on Delivery,Mobile,3,No
+CUST1762,Jennifer Goodwin,Male,60,Whitneyberg,2022-09-29,2025-04-16,18558,8,Clothing,Debit Card,Mobile,3,No
+CUST1763,Jessica Smith,Female,40,North Charles,2023-12-06,2025-04-24,11601,10,Home,Net Banking,Tablet,2,Yes
+CUST1764,Jorge Stone,Male,23,East Jenniferfort,2023-02-02,2025-04-16,41218,11,Beauty,Cash on Delivery,Mobile,3,No
+CUST1765,Laura Griffin,Female,63,Proctorberg,2024-10-11,2025-04-27,33102,6,Clothing,Cash on Delivery,Mobile,2,Yes
+CUST1766,Raymond Chapman,Female,61,East Dawnchester,2022-11-12,2025-05-04,9622,7,Clothing,Wallet,Desktop,3,No
+CUST1767,Haley Johnson,Female,60,Englishchester,2022-06-04,2025-05-09,13076,9,Home,Net Banking,Mobile,5,Yes
+CUST1768,Jason Nixon,Male,62,South William,2024-08-07,2025-05-05,28016,8,Home,Credit Card,Tablet,2,No
+CUST1769,Todd Thomas,Female,38,Cruzbury,2024-03-19,2025-04-29,22933,10,Beauty,Net Banking,Tablet,4,No
+CUST1770,Jesse Clark,Male,40,South Cassandra,2024-04-17,2025-04-14,1589,7,Electronics,Net Banking,Tablet,4,No
+CUST1771,Mr. Jeffrey Horton,Female,60,Bradfordbury,2025-03-25,2025-05-03,37846,15,Electronics,Net Banking,Mobile,1,No
+CUST1772,Eric Patrick,Male,33,Robertside,2024-06-19,2025-04-23,9627,9,Books,Cash on Delivery,Desktop,5,No
+CUST1773,Samuel Wong,Male,64,Arthurton,2022-11-14,2025-04-30,10987,11,Clothing,Cash on Delivery,Tablet,4,No
+CUST1774,Carly Riggs,Female,32,Bushville,2023-04-27,2025-04-17,655,6,Beauty,Debit Card,Mobile,3,No
+CUST1775,Christopher Moore,Male,42,Nixonland,2023-03-25,2025-05-11,2458,12,Clothing,Credit Card,Tablet,4,No
+CUST1776,Tina Hall,Male,53,Lake Jessica,2023-03-06,2025-04-15,11193,5,Beauty,Wallet,Tablet,3,No
+CUST1777,Cody Davidson,Female,28,Stevenland,2023-07-01,2025-04-24,39612,12,Beauty,Net Banking,Desktop,4,No
+CUST1778,Allen Mendez,Female,32,East Thomasland,2023-08-04,2025-05-04,39047,3,Beauty,Credit Card,Tablet,1,No
+CUST1779,Kevin Price,Female,21,Chloemouth,2024-06-19,2025-04-17,29295,13,Clothing,Credit Card,Desktop,5,Yes
+CUST1780,Christine Goodwin,Female,38,South Shawnfort,2023-12-28,2025-04-26,21947,11,Home,Debit Card,Mobile,3,No
+CUST1781,Amy Garcia,Female,30,Robertport,2022-12-02,2025-04-23,37098,5,Clothing,Wallet,Tablet,4,Yes
+CUST1782,Chelsea Nguyen,Male,39,Garyport,2024-03-14,2025-04-21,42314,6,Beauty,Net Banking,Mobile,2,Yes
+CUST1783,Dennis Huffman,Male,36,Bryanfort,2023-03-30,2025-04-29,25715,11,Books,Wallet,Mobile,4,Yes
+CUST1784,Margaret Harper,Male,51,New Brett,2024-12-01,2025-04-29,10294,11,Electronics,Debit Card,Mobile,4,Yes
+CUST1785,Laurie Bailey,Female,31,Lisatown,2023-04-13,2025-04-17,33709,8,Beauty,Cash on Delivery,Tablet,3,Yes
+CUST1786,Lisa Cervantes,Female,21,Toddberg,2023-07-27,2025-04-18,22924,9,Books,Credit Card,Desktop,4,No
+CUST1787,Elizabeth Mendez,Male,63,Port Kristenview,2025-03-30,2025-04-15,47746,11,Home,Net Banking,Tablet,3,Yes
+CUST1788,Cesar Wilson,Male,44,New Juan,2023-03-04,2025-05-07,37896,8,Beauty,Cash on Delivery,Mobile,5,No
+CUST1789,Clayton Steele,Female,46,Alexisville,2024-02-22,2025-05-04,6870,10,Books,Debit Card,Desktop,3,Yes
+CUST1790,Jennifer Taylor,Male,64,New Joanne,2023-02-18,2025-04-15,10028,12,Beauty,Wallet,Mobile,5,No
+CUST1791,Cody Reid,Female,45,Woodburgh,2024-02-07,2025-05-12,28776,13,Clothing,Credit Card,Desktop,5,No
+CUST1792,Maria Cooke,Female,52,Kimberlybury,2022-12-26,2025-04-30,44833,12,Books,Net Banking,Tablet,3,No
+CUST1793,Katherine Taylor,Female,25,Whitehaven,2022-06-27,2025-04-26,8679,10,Clothing,Cash on Delivery,Desktop,2,No
+CUST1794,Jerry Brown,Male,33,West Traceyberg,2023-08-07,2025-04-25,49281,10,Clothing,Cash on Delivery,Tablet,3,No
+CUST1795,Adam Taylor,Female,59,Port Tyler,2023-06-24,2025-04-19,17343,11,Books,Credit Card,Mobile,5,No
+CUST1796,Tracey Wagner,Female,53,Townsendbury,2023-05-14,2025-05-06,24452,4,Electronics,Wallet,Desktop,2,Yes
+CUST1797,Michael Perry PhD,Female,47,Barberburgh,2024-12-28,2025-04-25,33660,11,Books,Debit Card,Mobile,4,No
+CUST1798,Bradley Johnson DDS,Female,35,New Jessica,2024-04-13,2025-04-30,45398,6,Electronics,Wallet,Desktop,5,No
+CUST1799,Donald Medina,Female,19,Brianview,2023-06-03,2025-04-16,30016,8,Beauty,Wallet,Tablet,3,No
+CUST1800,Jim Newton,Female,30,North Garyfurt,2023-12-09,2025-04-30,10949,12,Beauty,Wallet,Desktop,4,No
+CUST1801,Krista Wilson,Male,21,Turnerside,2024-11-04,2025-05-09,21625,8,Books,Credit Card,Desktop,2,No
+CUST1802,Reginald Morrow,Female,43,South Frances,2025-04-10,2025-04-25,7918,11,Beauty,Credit Card,Tablet,2,No
+CUST1803,Rodney Williams,Female,42,Wellsberg,2025-02-12,2025-04-17,23246,8,Home,Debit Card,Tablet,4,No
+CUST1804,Kimberly Fritz,Male,47,Smithmouth,2024-04-24,2025-05-13,2954,7,Clothing,Wallet,Tablet,1,No
+CUST1805,Ronald Potter,Female,28,Gregoryhaven,2022-09-24,2025-05-05,18261,8,Clothing,Credit Card,Desktop,3,Yes
+CUST1806,Zachary Cole,Female,24,North Samanthastad,2022-05-30,2025-04-18,15723,9,Electronics,Debit Card,Mobile,5,No
+CUST1807,Robert Gonzales,Female,48,Bishopview,2024-05-11,2025-05-05,7201,10,Beauty,Debit Card,Desktop,3,No
+CUST1808,Patricia Young PhD,Male,61,Josephville,2022-12-06,2025-05-12,3097,9,Electronics,Wallet,Desktop,,Yes
+CUST1809,Heather Page,Male,27,Destinyfurt,2023-09-28,2025-04-20,641,15,Clothing,Net Banking,Mobile,,Yes
+CUST1810,Carol Taylor,Other,56,Mejiabury,2025-04-24,2025-04-18,3159,12,Clothing,Wallet,Tablet,3,No
+CUST1811,Daniel Brown,Female,30,New Matthew,2024-01-21,2025-04-16,21480,8,Beauty,Net Banking,Desktop,1,No
+CUST1812,Douglas Ryan,Male,48,West Amy,2025-04-14,2025-04-15,9531,15,Home,Debit Card,Mobile,4,Yes
+CUST1813,Michael Roberts,Female,24,Port Carloschester,2023-04-08,2025-05-02,15537,5,Home,Credit Card,Tablet,3,No
+CUST1814,Scott Duke,Female,59,New Daltonmouth,2023-12-30,2025-04-29,47238,5,Beauty,Cash on Delivery,Tablet,2,Yes
+CUST1815,Anna Estes,Female,59,Jeffreyport,2024-03-01,2025-04-17,38929,11,Beauty,Debit Card,Desktop,4,No
+CUST1816,Tamara Riddle,Female,53,Jamestown,2024-11-26,2025-04-20,6642,9,Electronics,Credit Card,Tablet,1,No
+CUST1817,Beth Cline,Male,37,North Sheenaborough,2023-06-16,2025-04-17,12609,7,Beauty,Debit Card,Tablet,5,No
+CUST1818,Michael Poole,Male,21,Lake Susanland,2022-09-04,2025-05-05,22510,8,Home,Wallet,Mobile,2,No
+CUST1819,Megan Burns,Male,24,South Diana,2022-10-09,2025-04-16,9287,6,Beauty,Net Banking,Mobile,2,No
+CUST1820,Debra Perry,Female,18,North Heather,2024-09-25,2025-04-28,43364,8,Electronics,Debit Card,Tablet,2,No
+CUST1821,Mark Beard,Male,61,Kennethland,2022-08-13,2025-05-13,8972,13,Electronics,Credit Card,Mobile,,Yes
+CUST1822,Jose Ramirez,Male,62,Livingstonview,2022-08-02,2025-05-04,23883,8,Electronics,Wallet,Tablet,4,No
+CUST1823,Jackie Clements,Male,59,Schwartzmouth,2023-10-13,2025-04-17,4749,8,Electronics,Cash on Delivery,Desktop,5,No
+CUST1824,Aaron Schroeder,Female,64,Fernandoland,2023-05-13,2025-04-18,48217,7,Books,Wallet,Mobile,3,No
+CUST1825,Monica Ellis,Female,30,Kimberlyfurt,2024-05-14,2025-04-16,35018,9,Beauty,Net Banking,Tablet,3,No
+CUST1826,Heather Brown,Male,39,Cookton,2023-11-15,2025-05-11,18851,11,Clothing,Wallet,Tablet,2,Yes
+CUST1827,Claudia Jordan,Male,38,Stephanieview,2024-12-10,2025-04-16,4588,11,Beauty,Cash on Delivery,Mobile,3,Yes
+CUST1828,Derrick Clayton,Female,39,South Chad,2025-03-21,2025-04-28,15782,9,Books,Credit Card,Mobile,4,Yes
+CUST1829,Kenneth Knight,Male,45,New Philip,2024-11-28,2025-05-02,19830,9,Electronics,Debit Card,Desktop,4,No
+CUST1830,Mr. Michael Williams,Male,26,Rodriguezside,2022-07-23,2025-05-03,42909,8,Books,Net Banking,Tablet,3,No
+CUST1831,Richard Stevens,Male,43,Robinsonville,2022-05-22,2025-04-18,22278,8,Home,Cash on Delivery,Desktop,5,No
+CUST1832,Scott Alexander,Male,26,Baldwinville,2023-06-12,2025-05-13,24764,10,Home,Net Banking,Desktop,2,No
+CUST1833,Tyler Harris,Male,32,North Chadview,2024-07-05,2025-05-03,5575,14,Beauty,Wallet,Desktop,,No
+CUST1834,Bonnie Santos,Female,27,Smithfort,2024-12-31,2025-04-25,10912,7,Beauty,Net Banking,Mobile,1,No
+CUST1835,Timothy Hill,Male,41,Lake Danielle,2023-12-26,2025-05-13,48954,11,Clothing,Cash on Delivery,Desktop,3,Yes
+CUST1836,Danielle Watson,Female,59,Lake Peterberg,2023-08-26,2025-04-14,28865,3,Clothing,Debit Card,Mobile,3,No
+CUST1837,Carol Sanders,Male,25,Rebeccashire,2024-01-17,2025-05-06,7730,9,Home,Debit Card,Mobile,3,Yes
+CUST1838,Michael Young,Female,41,New Jasminefort,2025-03-21,2025-05-02,48700,15,Electronics,Net Banking,Desktop,4,Yes
+CUST1839,Michele Smith,Female,33,Grahamland,2023-12-11,2025-05-06,11502,10,Books,Credit Card,Desktop,3,No
+CUST1840,Casey Perez,Male,43,North Patrick,2022-12-05,2025-05-04,14447,16,Clothing,Net Banking,Tablet,3,No
+CUST1841,Alexandra Dominguez,Female,44,Martinezside,2024-09-29,2025-04-18,14186,13,Clothing,Wallet,Desktop,4,No
+CUST1842,Virginia Henderson,Male,54,Mathewport,2022-07-16,2025-04-30,29804,9,Electronics,Debit Card,Tablet,4,No
+CUST1843,Benjamin Reyes,Other,21,Brownland,2024-10-31,2025-04-15,13574,14,Electronics,Debit Card,Desktop,5,No
+CUST1844,Ashley Edwards,Male,41,Amandamouth,2023-02-16,2025-05-06,4993,6,Beauty,Debit Card,Desktop,2,No
+CUST1845,Breanna Ayala,Male,36,Port Steveport,2023-06-22,2025-05-09,34728,3,Books,Credit Card,Desktop,4,No
+CUST1846,Brandi Haney,Male,53,East Angela,2023-02-01,2025-04-29,14640,18,Electronics,Credit Card,Desktop,4,No
+CUST1847,Joseph Smith,Other,56,Guerreroport,2024-07-04,2025-05-12,32155,11,Clothing,Cash on Delivery,Tablet,3,No
+CUST1848,Jessica Bowen,Female,27,Mosleystad,2024-06-17,2025-04-23,43972,9,Clothing,Net Banking,Tablet,3,Yes
+CUST1849,Brittany Jenkins,Female,42,Millermouth,2023-10-22,2025-04-19,49937,7,Home,Net Banking,Desktop,3,No
+CUST1850,Shannon Miller,Male,35,East Austin,2024-05-10,2025-04-18,49916,11,Electronics,Wallet,Desktop,2,No
+CUST1851,Paul Lawrence,Female,36,Lake Wendybury,2022-12-04,2025-04-14,7316,15,Beauty,Debit Card,Tablet,2,No
+CUST1852,Victor Edwards,Male,53,Priceside,2022-09-30,2025-05-12,12139,8,Books,Credit Card,Mobile,2,No
+CUST1853,Donald Miller,Female,27,Victormouth,2023-09-18,2025-04-17,47692,6,Beauty,Wallet,Mobile,4,No
+CUST1854,Lindsay Lawson,Male,50,North Matthewmouth,2024-08-14,2025-05-12,47233,11,Clothing,Wallet,Mobile,4,Yes
+CUST1855,Melissa Abbott,Male,22,South Davidhaven,2024-03-16,2025-04-23,29992,8,Beauty,Credit Card,Tablet,,No
+CUST1856,Elizabeth Holmes,Male,64,Bentleyside,2022-12-20,2025-05-11,11740,5,Clothing,Net Banking,Tablet,4,No
+CUST1857,Nicole Phillips,Male,52,Lake Beth,2023-06-22,2025-04-20,33198,10,Clothing,Debit Card,Mobile,1,Yes
+CUST1858,Steven Blevins,Female,61,North Jillfort,2022-11-11,2025-05-08,27457,13,Clothing,Net Banking,Mobile,5,No
+CUST1859,Brian Porter MD,Male,51,South Rebeccaton,2023-09-12,2025-04-26,33308,15,Clothing,Wallet,Desktop,5,No
+CUST1860,Vanessa Hatfield,Female,50,Lake Deborah,2022-07-21,2025-05-01,6327,14,Clothing,Debit Card,Tablet,3,Yes
+CUST1861,Bonnie Valencia,Male,38,East Cynthiaport,2022-11-28,2025-05-04,33262,7,Home,Cash on Delivery,Tablet,4,No
+CUST1862,Holly Vega,Female,34,South Cherylshire,2024-06-27,2025-05-07,8759,8,Beauty,Wallet,Mobile,,No
+CUST1863,Tiffany Townsend,Male,39,Port Lisaville,2023-07-24,2025-05-05,15349,6,Home,Net Banking,Mobile,4,No
+CUST1864,Austin Baker,Male,54,Larsonbury,2023-11-25,2025-04-23,16732,9,Home,Net Banking,Tablet,5,No
+CUST1865,Antonio Mccormick,Female,32,Port Jamesmouth,2024-03-12,2025-04-25,41072,12,Electronics,Net Banking,Desktop,1,Yes
+CUST1866,Lori Mason,Male,52,Nguyenshire,2023-07-27,2025-04-20,24673,16,Electronics,Credit Card,Mobile,2,Yes
+CUST1867,Michael Miller,Male,45,West Mary,2023-06-26,2025-04-16,5874,8,Electronics,Wallet,Tablet,3,No
+CUST1868,Lisa Ramirez,Female,24,Port Brandon,2024-12-21,2025-04-16,21674,11,Books,Debit Card,Tablet,4,No
+CUST1869,Jorge Harris,Female,49,West Bryan,2023-06-27,2025-04-20,24067,11,Electronics,Net Banking,Desktop,5,No
+CUST1870,Kimberly Myers,Male,28,Donaldchester,2024-07-25,2025-04-29,35792,11,Beauty,Net Banking,Desktop,,No
+CUST1871,Sandra Becker,Male,27,Lake Mitchell,2023-09-12,2025-05-12,9777,7,Home,Credit Card,Mobile,3,No
+CUST1872,Michael Blair,Female,26,South John,2024-03-20,2025-05-05,32100,7,Beauty,Debit Card,Mobile,1,No
+CUST1873,Amy Miller,Male,31,East Craigfurt,2023-01-25,2025-05-08,10385,12,Electronics,Wallet,Mobile,5,Yes
+CUST1874,Jesse Lynch,Male,30,North Nichole,2023-09-16,2025-05-01,1278,9,Books,Cash on Delivery,Tablet,4,Yes
+CUST1875,Patrick Yang,Male,42,North Adrianland,2024-06-15,2025-04-29,29665,8,Books,Credit Card,Mobile,2,Yes
+CUST1876,Michael Miles,Female,19,Robertfort,2023-01-03,2025-05-12,1992,9,Home,Wallet,Tablet,3,No
+CUST1877,Troy Mills,Female,52,East Douglas,2024-09-23,2025-05-10,30962,6,Beauty,Cash on Delivery,Mobile,4,Yes
+CUST1878,Michelle Jackson,Male,24,Alexandrachester,2025-02-28,2025-04-21,14115,6,Clothing,Net Banking,Desktop,4,No
+CUST1879,Richard Adams,Male,38,East Cheryl,2025-01-27,2025-04-21,45400,8,Beauty,Net Banking,Desktop,3,No
+CUST1880,Patricia Johnson,Male,35,New Hectorfort,2024-03-27,2025-05-06,43446,4,Electronics,Debit Card,Tablet,3,No
+CUST1881,Denise Brown,Female,20,Lake Margaretport,2022-08-04,2025-04-28,8351,14,Clothing,Cash on Delivery,Desktop,,No
+CUST1882,Laura Jones,Male,59,Robertside,2023-03-03,2025-05-13,16788,12,Books,Net Banking,Tablet,4,No
+CUST1883,Ian Porter,Male,56,East David,2022-12-30,2025-04-30,7656,14,Home,Net Banking,Tablet,3,No
+CUST1884,Holly Scott,Female,58,New Michaelside,2022-08-06,2025-04-28,2544,7,Home,Debit Card,Desktop,3,No
+CUST1885,Kenneth Sharp,Male,28,South Kaylee,2023-05-06,2025-05-01,7868,7,Books,Wallet,Tablet,4,No
+CUST1886,Jordan Williams,Female,56,West Brian,2023-02-22,2025-04-14,20400,6,Electronics,Net Banking,Desktop,2,No
+CUST1887,Dana Ruiz,Male,41,Port Edwardfort,2022-07-08,2025-05-09,31100,10,Books,Credit Card,Mobile,2,No
+CUST1888,Chris Velazquez,Male,63,Thompsonton,2024-05-13,2025-05-12,46903,6,Electronics,Credit Card,Mobile,4,No
+CUST1889,Kristen Sloan,Male,36,Lake Michaelborough,2023-06-22,2025-04-21,26134,4,Clothing,Wallet,Desktop,3,No
+CUST1890,Jennifer Morris,Female,21,Kingmouth,2023-01-23,2025-04-16,9668,10,Books,Cash on Delivery,Desktop,4,No
+CUST1891,Nathan Nelson,Female,43,North Joyside,2024-05-08,2025-04-25,21461,14,Electronics,Debit Card,Desktop,2,No
+CUST1892,Jake Shaw,Female,55,East Kristen,2024-03-21,2025-05-08,44596,10,Clothing,Credit Card,Desktop,4,No
+CUST1893,Cassie Brock,Male,59,Robertsonland,2022-11-10,2025-05-11,46587,6,Books,Credit Card,Mobile,3,No
+CUST1894,Dr. Andrea Marshall,Female,49,Lake Sean,2024-06-20,2025-04-16,24352,8,Home,Wallet,Tablet,1,No
+CUST1895,Ryan Murphy,Male,56,Robertmouth,2022-07-16,2025-05-04,33610,7,Books,Cash on Delivery,Tablet,2,No
+CUST1896,Aimee Gonzalez,Male,62,Port Daniel,2024-03-29,2025-04-30,32674,9,Beauty,Cash on Delivery,Mobile,5,No
+CUST1897,Elizabeth Dean,Female,63,North Joel,2023-11-18,2025-04-23,34715,10,Books,Wallet,Tablet,5,No
+CUST1898,Kevin Snyder,Male,53,Kanefurt,2024-10-01,2025-04-23,27455,5,Beauty,Credit Card,Mobile,2,No
+CUST1899,Christie Mccullough,Male,57,North Thomas,2024-06-05,2025-04-23,7081,10,Clothing,Debit Card,Tablet,4,Yes
+CUST1900,Danielle Smith,Male,54,Brownchester,2024-04-24,2025-04-17,45119,13,Books,Credit Card,Desktop,4,No
+CUST1901,David Reed,Male,50,East Sarah,2024-06-17,2025-04-30,6817,12,Clothing,Cash on Delivery,Desktop,,No
+CUST1902,Sherry Tapia,Male,53,Thompsonstad,2022-11-04,2025-04-23,43356,12,Clothing,Credit Card,Desktop,3,Yes
+CUST1903,Matthew Sweeney,Female,20,South Jennifer,2022-12-29,2025-05-07,46214,7,Electronics,Debit Card,Mobile,4,No
+CUST1904,Ashley Moreno,Male,26,Theresaborough,2022-11-22,2025-05-06,27149,12,Clothing,Net Banking,Mobile,1,No
+CUST1905,Johnathan Brown,Female,25,Davidshire,2023-11-08,2025-05-13,23632,7,Clothing,Credit Card,Tablet,3,No
+CUST1906,Michelle Davis DVM,Female,50,West Derekmouth,2022-10-06,2025-04-30,17289,15,Books,Wallet,Tablet,,No
+CUST1907,Kelly Haynes,Male,23,Barnesmouth,2023-03-26,2025-05-12,15067,7,Books,Net Banking,Tablet,4,No
+CUST1908,William Miller,Male,58,West Cassandra,2023-07-29,2025-05-11,15368,8,Home,Wallet,Mobile,3,No
+CUST1909,Casey Wilkins,Male,56,New Tara,2023-02-18,2025-04-30,24870,5,Electronics,Wallet,Tablet,2,No
+CUST1910,Keith Graham,Female,21,North Robert,2023-01-30,2025-05-13,43033,12,Clothing,Wallet,Desktop,4,Yes
+CUST1911,Cynthia Green,Male,30,Atkinsborough,2024-07-12,2025-04-28,30983,8,Electronics,Credit Card,Tablet,4,No
+CUST1912,Robert Haynes,Female,19,Hoodview,2023-07-11,2025-05-04,12966,8,Beauty,Cash on Delivery,Desktop,3,No
+CUST1913,Emily Nelson,Male,22,Lake Ronniebury,2024-10-04,2025-04-29,29303,14,Clothing,Net Banking,Mobile,,No
+CUST1914,Dale Chan,Female,61,West Ryan,2025-03-09,2025-04-21,18730,14,Electronics,Debit Card,Desktop,1,No
+CUST1915,Brittney Martin,Male,44,New Sophia,2024-11-08,2025-04-19,18362,10,Home,Cash on Delivery,Desktop,3,No
+CUST1916,Jason Herrera,Male,49,South Tinaton,2023-04-08,2025-05-06,43855,6,Home,Credit Card,Desktop,5,No
+CUST1917,Christine Parker,Female,38,Quinnhaven,2024-11-05,2025-04-16,31759,15,Clothing,Wallet,Mobile,3,No
+CUST1918,Bryan Moore,Female,25,South Amandafort,2022-05-20,2025-05-08,34039,6,Beauty,Debit Card,Mobile,3,No
+CUST1919,Samantha Terry,Male,55,South Tylerland,2024-08-08,2025-04-24,22409,7,Home,Net Banking,Mobile,4,No
+CUST1920,Russell Murphy,Female,25,Lake Jessicaborough,2024-10-16,2025-04-14,31295,4,Home,Cash on Delivery,Mobile,5,No
+CUST1921,David Kelly,Female,20,West Kenneth,2023-02-18,2025-04-24,49568,9,Beauty,Cash on Delivery,Tablet,2,Yes
+CUST1922,Megan Green,Female,61,North Timothyport,2024-02-19,2025-04-25,9270,12,Electronics,Debit Card,Mobile,5,No
+CUST1923,Amanda Sullivan MD,Female,20,Lake Stephen,2022-09-10,2025-05-06,11593,14,Home,Credit Card,Desktop,4,Yes
+CUST1924,Danielle Murray,Male,39,South Stevenberg,2023-05-31,2025-04-24,47071,8,Books,Net Banking,Mobile,2,Yes
+CUST1925,Brenda Smith,Male,23,Lopezstad,2024-06-25,2025-04-25,693,12,Home,Debit Card,Tablet,4,No
+CUST1926,Vickie Anderson,Male,19,Padillatown,2025-03-30,2025-05-07,35275,8,Electronics,Wallet,Tablet,3,No
+CUST1927,Jacqueline Mccoy,Female,40,South Patriciamouth,2022-10-07,2025-04-30,18069,13,Electronics,Net Banking,Tablet,3,No
+CUST1928,Lauren Green,Female,61,West Ronaldview,2023-10-06,2025-05-02,11690,14,Clothing,Cash on Delivery,Desktop,4,No
+CUST1929,Alison Brown,Male,19,Port Gail,2022-06-23,2025-04-23,43252,6,Books,Debit Card,Mobile,,No
+CUST1930,Jill Anderson,Male,55,Jillton,2023-07-29,2025-05-03,32827,12,Electronics,Cash on Delivery,Mobile,2,No
+CUST1931,Sandra Rivera,Female,34,Pamelaville,2025-04-06,2025-04-22,42570,9,Beauty,Cash on Delivery,Mobile,3,No
+CUST1932,Joel Jackson,Other,52,Diazton,2025-04-05,2025-04-14,20889,7,Books,Cash on Delivery,Desktop,3,No
+CUST1933,Samantha Foster,Female,51,Michaelside,2022-11-19,2025-05-01,40697,14,Books,Credit Card,Desktop,3,No
+CUST1934,Michael Thompson,Male,40,New Jennaborough,2024-01-16,2025-04-14,2761,10,Beauty,Cash on Delivery,Tablet,3,No
+CUST1935,Cody Ramirez,Male,47,West John,2023-12-15,2025-04-17,28869,17,Home,Wallet,Tablet,1,No
+CUST1936,Amanda Harvey,Male,25,Lake Timothyshire,2024-11-16,2025-05-01,27012,9,Beauty,Wallet,Mobile,4,Yes
+CUST1937,Edward Jenkins,Female,39,Port Julie,2022-10-25,2025-04-15,7216,12,Beauty,Net Banking,Desktop,3,Yes
+CUST1938,Amy Ramirez,Male,61,West Michael,2023-09-28,2025-05-10,21759,9,Home,Cash on Delivery,Desktop,2,Yes
+CUST1939,Curtis Wilkerson,Female,53,Wesleychester,2023-01-07,2025-04-19,29433,11,Home,Cash on Delivery,Mobile,5,Yes
+CUST1940,Lydia Pham,Male,22,Brianstad,2022-06-27,2025-04-20,42189,12,Home,Debit Card,Mobile,5,No
+CUST1941,Virginia Casey,Female,30,Shaunhaven,2022-09-16,2025-04-28,4878,9,Home,Credit Card,Tablet,3,Yes
+CUST1942,Joshua Washington,Female,46,South Jenniferside,2024-04-27,2025-05-05,41083,7,Home,Net Banking,Tablet,3,Yes
+CUST1943,Kathryn Price,Female,48,Shannonstad,2025-03-03,2025-04-23,47046,17,Beauty,Cash on Delivery,Tablet,4,Yes
+CUST1944,Francis Robinson,Male,64,East Patriciamouth,2024-05-28,2025-05-12,20335,12,Clothing,Debit Card,Mobile,3,Yes
+CUST1945,Paula Brown,Male,33,North Peterburgh,2024-04-18,2025-05-01,29533,14,Clothing,Credit Card,Mobile,2,Yes
+CUST1946,Kendra Wang DVM,Male,59,Susanland,2025-01-14,2025-04-16,24500,12,Electronics,Net Banking,Tablet,4,No
+CUST1947,Ariel Sandoval,Female,47,East Joshuaberg,2023-07-06,2025-04-15,45996,13,Clothing,Net Banking,Tablet,1,No
+CUST1948,Robert Stark,Female,33,Hernandezborough,2024-11-22,2025-04-23,10832,11,Clothing,Cash on Delivery,Desktop,1,Yes
+CUST1949,Zachary Robinson,Female,29,West Robertside,2025-03-01,2025-04-23,43104,10,Beauty,Net Banking,Desktop,1,No
+CUST1950,Rebecca Kelly,Female,34,South Michael,2022-05-23,2025-04-27,3300,11,Home,Debit Card,Tablet,2,No
+CUST1951,Sarah Thompson,Female,33,Rojastown,2023-10-07,2025-04-22,30038,9,Home,Net Banking,Tablet,1,Yes
+CUST1952,Renee Wolfe,Male,29,Jaimetown,2022-07-21,2025-04-24,30619,13,Beauty,Wallet,Desktop,,No
+CUST1953,Alyssa Haynes,Female,25,Port Stacey,2025-02-26,2025-04-26,8833,11,Clothing,Debit Card,Tablet,3,No
+CUST1954,Kristy Hart,Male,37,Robertmouth,2025-01-04,2025-04-22,5910,12,Beauty,Credit Card,Desktop,2,No
+CUST1955,William Keith,Male,20,Toddhaven,2024-04-16,2025-04-30,18339,7,Electronics,Credit Card,Desktop,2,No
+CUST1956,Eric Henry Jr.,Female,33,Ellisshire,2023-09-30,2025-05-10,31019,11,Home,Cash on Delivery,Desktop,5,Yes
+CUST1957,Daniel Fox,Male,47,Port Kirk,2024-10-14,2025-04-25,6308,7,Books,Cash on Delivery,Mobile,4,No
+CUST1958,Thomas Harris,Male,62,Jeremystad,2022-11-30,2025-04-22,7296,10,Electronics,Wallet,Mobile,3,No
+CUST1959,Mitchell Sellers,Female,40,Kaylaton,2023-04-07,2025-04-23,21680,10,Electronics,Credit Card,Tablet,5,No
+CUST1960,Erica Johnson,Male,45,West Justin,2022-07-28,2025-04-15,43556,7,Beauty,Credit Card,Desktop,3,Yes
+CUST1961,Sylvia Schroeder,Female,57,New Sandra,2025-02-06,2025-04-22,18209,9,Clothing,Credit Card,Mobile,3,No
+CUST1962,Shannon Yu,Male,22,Ianburgh,2023-07-27,2025-04-26,18043,7,Home,Credit Card,Tablet,2,No
+CUST1963,Tom Foster,Male,37,East John,2023-09-28,2025-04-18,37918,7,Books,Net Banking,Tablet,3,No
+CUST1964,Eric Taylor,Male,57,West Autumnmouth,2022-08-08,2025-04-15,29575,9,Electronics,Debit Card,Tablet,3,Yes
+CUST1965,Travis Conner,Male,61,Mikeborough,2022-08-31,2025-04-20,38255,13,Books,Debit Card,Tablet,4,No
+CUST1966,Marie Thompson,Female,18,Lake Loganstad,2024-09-09,2025-05-02,48468,5,Clothing,Wallet,Tablet,3,No
+CUST1967,Melissa Mcfarland,Male,47,West Shane,2024-12-04,2025-04-19,37965,11,Clothing,Net Banking,Desktop,4,No
+CUST1968,Courtney Chapman,Female,38,New Kevin,2023-12-27,2025-04-30,31002,7,Books,Credit Card,Tablet,1,No
+CUST1969,Eric Barker,Male,37,South Sarahberg,2022-10-04,2025-04-24,17224,8,Home,Credit Card,Desktop,2,No
+CUST1970,Nicholas Rush,Female,23,Reillyberg,2024-01-23,2025-04-28,4328,14,Clothing,Cash on Delivery,Mobile,3,No
+CUST1971,Jenna Gamble,Female,39,Lake Amyhaven,2023-06-14,2025-05-06,17587,8,Books,Cash on Delivery,Tablet,5,No
+CUST1972,Amanda Guzman,Female,35,Deborahport,2023-02-14,2025-04-25,13105,5,Electronics,Wallet,Mobile,3,No
+CUST1973,Tracy Walker,Male,25,Kempshire,2023-05-21,2025-05-01,31837,10,Books,Credit Card,Desktop,4,No
+CUST1974,Taylor Taylor,Male,56,Port Annette,2024-01-23,2025-05-02,5982,11,Books,Wallet,Desktop,3,Yes
+CUST1975,Cynthia Haas,Male,49,Morganville,2022-09-29,2025-04-22,27505,8,Beauty,Net Banking,Mobile,2,No
+CUST1976,Stephen Davis,Female,50,Mcculloughberg,2022-06-14,2025-05-09,23260,5,Clothing,Debit Card,Tablet,1,No
+CUST1977,Margaret Tanner,Male,33,West Angelbury,2023-04-02,2025-05-05,5963,12,Home,Credit Card,Tablet,3,No
+CUST1978,Derek Wright,Female,29,Howardmouth,2023-01-22,2025-04-17,47128,11,Home,Net Banking,Mobile,2,No
+CUST1979,David Rodriguez,Female,55,New Danielleshire,2024-01-07,2025-04-19,5412,10,Beauty,Credit Card,Mobile,2,No
+CUST1980,James Oconnor,Male,51,Port Shari,2024-01-29,2025-04-21,5148,9,Home,Cash on Delivery,Mobile,4,No
+CUST1981,Stacey Snyder,Female,31,Jamesland,2023-07-30,2025-04-20,34123,13,Books,Wallet,Tablet,1,Yes
+CUST1982,Joshua Garcia,Male,53,Rhodesland,2025-02-12,2025-04-23,36134,8,Beauty,Cash on Delivery,Tablet,4,No
+CUST1983,Sean Curtis,Male,50,Leemouth,2025-02-23,2025-04-23,45102,9,Electronics,Debit Card,Tablet,3,Yes
+CUST1984,Carla Jones,Female,40,Lake Michaelberg,2023-01-08,2025-05-09,49562,4,Clothing,Cash on Delivery,Mobile,4,No
+CUST1985,Elizabeth Flores,Female,62,Woodstad,2022-11-17,2025-05-02,49834,11,Clothing,Credit Card,Tablet,4,No
+CUST1986,Angela Jackson,Female,19,West Michaelport,2023-08-20,2025-05-02,3612,11,Clothing,Cash on Delivery,Desktop,3,No
+CUST1987,Nicholas Payne,Male,58,Sawyerland,2024-06-14,2025-04-29,22554,12,Books,Credit Card,Mobile,3,No
+CUST1988,Anna Wheeler,Male,38,Lake Pamela,2024-03-15,2025-05-13,4992,5,Electronics,Debit Card,Tablet,4,Yes
+CUST1989,Karen Johnson,Female,19,Laraport,2023-09-07,2025-05-04,22707,10,Beauty,Cash on Delivery,Mobile,5,Yes
+CUST1990,Carmen Preston,Female,44,Port Jessica,2025-04-12,2025-04-25,15614,9,Beauty,Wallet,Desktop,2,No
+CUST1991,Brian Harris,Female,26,Chandlerchester,2024-12-06,2025-04-16,34785,10,Clothing,Wallet,Desktop,1,No
+CUST1992,Michael Bowen,Male,18,Port Brenda,2022-12-03,2025-05-13,16518,11,Electronics,Wallet,Mobile,5,Yes
+CUST1993,Deborah Campbell,Female,28,East Jaredfort,2023-11-22,2025-05-12,21886,10,Electronics,Cash on Delivery,Mobile,3,No
+CUST1994,Anthony Armstrong,Male,20,Carlshire,2025-03-12,2025-04-23,18240,12,Electronics,Cash on Delivery,Desktop,4,No
+CUST1995,Brittany Ward,Male,40,Davischester,2022-10-10,2025-05-09,44699,10,Home,Cash on Delivery,Mobile,3,No
+CUST1996,Edward Stanley,Female,43,Robertside,2023-12-05,2025-04-28,8710,3,Home,Credit Card,Desktop,2,No
+CUST1997,Christina Johnson,Male,21,Pageberg,2024-07-18,2025-04-21,44863,9,Clothing,Debit Card,Desktop,4,No
+CUST1998,Edgar Miller,Female,35,East Marisa,2023-03-20,2025-04-29,46139,9,Electronics,Wallet,Tablet,4,No
+CUST1999,Elizabeth Sanders,Male,23,Angelaton,2024-06-12,2025-04-25,13243,16,Electronics,Credit Card,Mobile,2,No

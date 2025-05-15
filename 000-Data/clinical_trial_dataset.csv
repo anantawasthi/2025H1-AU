@@ -1,0 +1,1001 @@
+PatientID,Age,Gender,TreatmentGroup,BaselineBP,FollowupBP,CholesterolLevel,VisitStatus,AdverseEvent,OutcomeScore,EnrollmentDate
+PT1000,56,Male,Drug B,116,80,243,Completed,Moderate,2,2025-01-15
+PT1001,69,Female,Drug B,126,137,224,Completed,None,2,2024-06-24
+PT1002,46,Male,Placebo,113,98,196,Completed,None,4,2024-05-21
+PT1003,32,Female,Placebo,131,112,186,Completed,None,5,2025-02-23
+PT1004,60,Female,Drug A,122,133,182,Completed,Mild,2,2024-08-26
+PT1005,25,Male,Drug B,124,120,232,Completed,None,2,2024-08-15
+PT1006,78,Male,Drug A,133,121,257,Missed,Moderate,3,2024-08-06
+PT1007,38,Male,Drug A,112,130,181,Missed,Severe,4,2024-07-05
+PT1008,56,Male,Placebo,129,123,234,Completed,Mild,2,2025-02-22
+PT1009,75,Male,Placebo,114,108,200,Completed,Mild,5,2024-06-20
+PT1010,36,Female,Drug A,125,111,193,Completed,None,1,2025-01-29
+PT1011,40,Female,Drug B,110,119,245,Missed,None,4,2025-02-23
+PT1012,28,Female,Placebo,106,97,199,Completed,Severe,3,2025-04-23
+PT1013,28,Female,Drug B,121,134,208,Completed,None,2,2024-12-09
+PT1014,41,Female,Drug B,91,120,207,Completed,None,5,2024-06-14
+PT1015,70,Female,Drug A,115,116,151,Completed,Mild,4,2024-12-27
+PT1016,53,Female,Drug A,95,138,208,Completed,None,5,2024-10-22
+PT1017,57,Male,Drug A,131,112,183,Completed,None,5,2024-05-24
+PT1018,41,Male,Drug A,135,111,157,Completed,None,3,2024-05-23
+PT1019,20,Male,Placebo,107,105,184,Completed,None,4,2024-06-17
+PT1020,39,Male,Placebo,126,121,184,Completed,Moderate,2,2024-08-04
+PT1021,70,Male,Drug A,133,121,230,Completed,None,3,2024-08-10
+PT1022,19,Male,Placebo,133,101,168,Missed,None,2,2024-11-24
+PT1023,41,Female,Drug A,123,111,176,Completed,None,1,2024-12-31
+PT1024,61,Female,Drug B,131,101,207,Missed,Mild,5,2024-05-22
+PT1025,47,Male,Drug B,110,100,160,Completed,Mild,1,2024-12-15
+PT1026,55,Male,Drug B,121,80,180,Completed,None,5,2024-07-28
+PT1027,19,Male,Drug A,112,110,150,Completed,Mild,3,2025-02-14
+PT1028,77,Female,Drug B,108,80,227,Completed,None,2,2025-01-19
+PT1029,38,Male,Placebo,120,105,190,Completed,Moderate,2,2025-02-08
+PT1030,50,Female,Drug B,125,102,199,Completed,None,3,2024-12-09
+PT1031,29,Male,Drug B,137,136,227,Completed,Mild,4,2024-10-21
+PT1032,75,Female,Drug B,123,94,178,Completed,None,1,2024-08-05
+PT1033,39,Other,Placebo,129,99,190,Missed,None,1,2024-11-02
+PT1034,78,Male,Drug A,129,107,168,Withdrawn,None,2,2024-12-26
+PT1035,61,Female,Placebo,160,103,168,Completed,Moderate,2,2024-08-28
+PT1036,42,Female,Drug A,92,142,172,Withdrawn,None,2,2025-03-22
+PT1037,66,Female,Drug A,109,92,185,Completed,Moderate,3,2025-04-14
+PT1038,44,Male,Drug B,142,107,188,Completed,None,4,2024-05-14
+PT1039,76,Female,Drug A,114,121,208,Missed,None,1,2025-03-02
+PT1040,59,Female,Placebo,133,132,173,Completed,None,5,2025-03-20
+PT1041,45,Female,Placebo,123,107,209,Completed,Moderate,3,2024-07-13
+PT1042,77,Female,Drug A,151,76,214,Completed,None,1,2025-02-07
+PT1043,33,Female,Drug B,103,111,185,Missed,Moderate,4,2024-10-23
+PT1044,32,Other,Drug B,138,142,175,Missed,Moderate,3,2024-09-21
+PT1045,79,Female,Placebo,146,120,202,Completed,Moderate,1,2024-08-27
+PT1046,79,Female,Drug B,104,119,193,Completed,None,3,2024-07-11
+PT1047,64,Female,Drug A,131,93,206,Completed,Mild,1,2024-08-03
+PT1048,79,Male,Drug A,105,91,247,Completed,Mild,1,2025-03-04
+PT1049,68,Female,Placebo,120,115,202,Completed,None,4,2024-09-19
+PT1050,61,Female,Drug A,116,86,180,Completed,Mild,5,2024-06-20
+PT1051,72,Male,Placebo,83,130,173,Completed,None,4,2024-06-17
+PT1052,69,Female,Drug A,126,98,174,Completed,None,1,2024-10-06
+PT1053,74,Male,Placebo,122,114,156,Completed,None,3,2024-06-18
+PT1054,20,Female,Drug B,142,77,227,Completed,None,4,2024-09-28
+PT1055,54,Female,Drug A,129,107,133,Withdrawn,None,5,2025-04-06
+PT1056,68,Female,Drug A,154,91,214,Completed,None,1,2024-09-22
+PT1057,24,Male,Placebo,121,68,173,Completed,Mild,4,2025-01-01
+PT1058,38,Female,Placebo,118,125,184,Completed,None,4,2024-08-22
+PT1059,26,Female,Drug A,117,147,173,Completed,None,4,2025-03-21
+PT1060,56,Male,Placebo,113,137,243,Completed,None,4,2024-05-28
+PT1061,35,Male,Drug A,86,128,200,Completed,None,3,2025-02-19
+PT1062,21,Female,Drug B,116,106,223,Completed,Mild,5,2024-11-06
+PT1063,42,Male,Placebo,88,131,239,Completed,None,5,2024-12-06
+PT1064,77,Male,Drug A,126,139,204,Completed,Mild,1,2024-06-29
+PT1065,31,Female,Drug B,101,117,164,Completed,None,2,2025-05-05
+PT1066,67,Male,Drug B,106,91,193,Withdrawn,Mild,3,2024-10-06
+PT1067,75,Female,Drug A,109,105,177,Completed,None,1,2024-06-11
+PT1068,26,Male,Placebo,116,149,184,Completed,None,1,2024-12-12
+PT1069,43,Female,Drug A,120,113,197,Completed,Mild,4,2024-09-02
+PT1070,70,Male,Drug B,136,48,195,Completed,None,2,2025-03-30
+PT1071,19,Female,Drug A,111,85,212,Completed,Mild,2,2025-01-11
+PT1072,37,Male,Placebo,127,106,216,Completed,Mild,3,2025-01-07
+PT1073,45,Female,Drug B,160,135,195,Completed,None,2,2025-04-20
+PT1074,64,Male,Drug A,125,109,212,Completed,None,1,2025-04-11
+PT1075,77,Female,Placebo,117,136,183,Completed,None,2,2024-09-29
+PT1076,24,Female,Drug B,108,104,239,Completed,Moderate,2,2024-12-22
+PT1077,61,Other,Placebo,117,75,183,Completed,Mild,5,2024-07-25
+PT1078,78,Female,Drug B,106,105,235,Completed,None,1,2025-02-09
+PT1079,25,Male,Drug A,124,121,155,Completed,None,2,2024-06-08
+PT1080,64,Female,Placebo,121,120,188,Completed,None,2,2024-05-29
+PT1081,52,Male,Drug B,87,89,190,Completed,Moderate,4,2025-01-23
+PT1082,31,Male,Placebo,119,107,208,Missed,None,2,2024-08-08
+PT1083,34,Male,Placebo,136,168,225,Completed,None,2,2025-03-08
+PT1084,53,Female,Drug A,114,90,162,Missed,Moderate,5,2024-09-01
+PT1085,67,Female,Placebo,110,128,166,Completed,None,1,2024-06-11
+PT1086,57,Male,Drug B,99,73,157,Completed,None,3,2025-04-09
+PT1087,21,Female,Drug B,92,132,239,Completed,Severe,1,2024-08-10
+PT1088,19,Male,Drug B,132,97,208,Withdrawn,Mild,4,2025-04-13
+PT1089,79,Male,Drug B,117,123,167,Completed,None,1,2024-06-20
+PT1090,23,Male,Drug A,131,89,186,Completed,None,2,2024-10-06
+PT1091,71,Male,Placebo,142,120,235,Completed,None,4,2024-08-27
+PT1092,59,Female,Drug A,133,96,191,Completed,None,1,2024-11-04
+PT1093,21,Female,Placebo,111,100,189,Completed,Moderate,4,2025-01-13
+PT1094,71,Female,Placebo,122,123,176,Withdrawn,None,3,2025-03-31
+PT1095,46,Male,Placebo,110,106,169,Withdrawn,Mild,1,2024-09-30
+PT1096,35,Male,Drug A,109,122,235,Completed,Moderate,2,2024-07-14
+PT1097,43,Male,Placebo,125,111,250,Withdrawn,None,4,2024-10-02
+PT1098,61,Female,Drug A,107,116,170,Completed,None,5,2024-09-26
+PT1099,51,Male,Drug B,86,123,242,Completed,None,4,2024-08-01
+PT1100,27,Female,Drug B,106,107,185,Completed,Moderate,5,2025-01-27
+PT1101,79,Other,Placebo,115,95,216,Completed,Moderate,2,2024-08-23
+PT1102,53,Female,Drug A,142,104,242,Withdrawn,None,3,2025-02-08
+PT1103,31,Female,Drug B,112,138,195,Completed,Mild,5,2025-05-10
+PT1104,48,Male,Drug A,127,117,190,Completed,None,3,2025-02-01
+PT1105,65,Female,Drug A,117,98,224,Completed,Moderate,4,2025-01-18
+PT1106,32,Female,Placebo,138,123,166,Completed,None,2,2024-06-08
+PT1107,25,Female,Drug B,137,124,234,Completed,None,5,2025-01-03
+PT1108,31,Male,Placebo,137,125,204,Withdrawn,Moderate,4,2025-01-13
+PT1109,40,Male,Placebo,93,95,182,Missed,None,1,2024-07-17
+PT1110,77,Male,Drug B,123,101,181,Completed,None,4,2024-12-05
+PT1111,74,Female,Drug B,131,101,158,Completed,None,3,2025-02-19
+PT1112,79,Female,Drug A,125,107,183,Completed,None,2,2024-08-15
+PT1113,57,Female,Drug B,129,125,192,Completed,None,2,2024-07-14
+PT1114,38,Male,Drug A,120,120,168,Completed,Moderate,4,2024-11-07
+PT1115,33,Female,Drug A,108,122,198,Completed,None,1,2024-10-06
+PT1116,62,Male,Drug A,94,142,214,Completed,None,3,2024-08-24
+PT1117,35,Male,Drug B,110,128,193,Completed,Mild,4,2025-05-06
+PT1118,64,Male,Placebo,160,112,219,Completed,None,4,2025-01-15
+PT1119,70,Female,Drug A,112,91,175,Completed,None,2,2025-02-03
+PT1120,41,Male,Placebo,90,100,230,Completed,Mild,3,2024-12-14
+PT1121,43,Female,Placebo,130,109,203,Completed,Moderate,1,2024-08-05
+PT1122,42,Female,Drug B,132,131,246,Withdrawn,Mild,2,2025-02-01
+PT1123,77,Male,Placebo,139,114,272,Completed,Mild,4,2024-09-14
+PT1124,77,Female,Placebo,127,101,185,Missed,None,2,2025-04-04
+PT1125,77,Male,Drug B,132,100,187,Completed,Moderate,2,2025-03-06
+PT1126,62,Male,Drug A,147,113,192,Completed,None,5,2025-03-09
+PT1127,58,Male,Placebo,108,132,217,Completed,Mild,2,2024-06-02
+PT1128,46,Male,Drug B,105,146,239,Missed,None,2,2024-08-08
+PT1129,32,Female,Placebo,103,110,180,Completed,Moderate,3,2025-03-27
+PT1130,62,Male,Placebo,116,114,211,Completed,Mild,2,2024-05-24
+PT1131,18,Female,Drug A,141,90,195,Completed,Mild,1,2025-03-20
+PT1132,42,Female,Placebo,127,153,218,Completed,None,4,2024-09-11
+PT1133,24,Female,Drug B,127,86,245,Completed,None,3,2024-10-14
+PT1134,26,Female,Placebo,92,138,192,Withdrawn,Mild,2,2024-08-23
+PT1135,41,Female,Drug A,109,107,149,Completed,Mild,1,2024-06-06
+PT1136,18,Male,Drug A,92,103,222,Completed,None,4,2024-08-01
+PT1137,61,Male,Drug B,137,92,175,Completed,Severe,3,2025-05-01
+PT1138,25,Female,Drug A,143,163,195,Completed,Moderate,1,2024-12-18
+PT1139,41,Female,Placebo,131,119,223,Completed,None,2,2025-04-17
+PT1140,28,Male,Drug A,105,115,208,Completed,Moderate,5,2025-02-14
+PT1141,68,Female,Drug B,142,132,196,Completed,None,5,2024-09-11
+PT1142,34,Male,Drug A,116,101,182,Completed,None,3,2024-08-02
+PT1143,25,Female,Drug A,101,115,113,Completed,None,1,2025-01-21
+PT1144,52,Male,Drug A,105,116,220,Missed,None,4,2024-11-21
+PT1145,52,Male,Drug B,113,104,192,Completed,Mild,1,2024-10-12
+PT1146,50,Male,Drug A,120,138,245,Completed,None,5,2025-04-20
+PT1147,76,Female,Drug A,117,110,211,Completed,Mild,3,2025-05-02
+PT1148,22,Female,Placebo,98,83,183,Completed,Mild,2,2025-01-16
+PT1149,59,Male,Drug B,138,108,232,Completed,Mild,1,2024-11-06
+PT1150,56,Female,Drug A,117,119,234,Completed,None,5,2024-07-06
+PT1151,75,Male,Drug B,109,97,193,Completed,Moderate,4,2024-08-22
+PT1152,58,Female,Drug A,136,98,235,Withdrawn,None,3,2024-07-05
+PT1153,45,Male,Drug A,102,104,183,Completed,None,2,2024-08-15
+PT1154,24,Male,Drug A,95,139,204,Completed,None,1,2025-02-25
+PT1155,26,Female,Placebo,139,105,217,Completed,None,4,2024-12-16
+PT1156,25,Other,Placebo,148,143,223,Completed,Moderate,2,2024-12-07
+PT1157,29,Female,Placebo,113,102,218,Completed,None,5,2024-08-22
+PT1158,51,Female,Drug B,119,121,190,Missed,Mild,5,2025-02-26
+PT1159,50,Female,Drug B,102,106,232,Completed,None,4,2024-12-25
+PT1160,65,Male,Placebo,120,130,196,Completed,None,5,2024-10-25
+PT1161,72,Other,Drug B,112,92,182,Completed,Severe,3,2025-04-25
+PT1162,40,Female,Drug A,118,129,183,Completed,Mild,4,2024-12-24
+PT1163,79,Female,Drug A,126,117,258,Completed,None,5,2024-10-14
+PT1164,41,Female,Drug A,103,102,177,Completed,None,1,2024-09-29
+PT1165,54,Female,Placebo,114,111,238,Completed,None,5,2024-08-05
+PT1166,52,Female,Drug B,92,145,165,Completed,None,3,2024-07-04
+PT1167,61,Male,Placebo,114,117,214,Completed,Mild,2,2024-11-25
+PT1168,57,Female,Drug B,118,100,208,Withdrawn,Mild,2,2024-11-19
+PT1169,39,Male,Drug A,123,90,248,Completed,None,5,2024-06-16
+PT1170,44,Other,Placebo,123,125,180,Missed,Moderate,2,2025-03-01
+PT1171,52,Female,Drug B,133,118,172,Completed,None,5,2024-05-30
+PT1172,18,Male,Drug B,96,128,196,Completed,None,3,2025-04-11
+PT1173,52,Female,Drug A,97,85,249,Completed,None,2,2024-06-23
+PT1174,54,Female,Placebo,127,91,173,Completed,Mild,1,2024-07-10
+PT1175,64,Female,Placebo,89,137,122,Completed,None,5,2025-01-10
+PT1176,31,Female,Placebo,122,121,201,Completed,None,2,2024-07-13
+PT1177,20,Male,Drug A,102,125,228,Completed,None,3,2025-03-15
+PT1178,18,Female,Placebo,143,95,169,Withdrawn,None,3,2025-01-31
+PT1179,22,Female,Drug A,123,95,225,Completed,Moderate,1,2024-10-22
+PT1180,43,Male,Drug A,116,134,168,Completed,None,3,2024-12-29
+PT1181,72,Female,Drug A,138,135,195,Completed,None,3,2024-06-05
+PT1182,31,Male,Drug B,104,93,222,Missed,Mild,2,2024-10-08
+PT1183,56,Male,Placebo,106,89,164,Completed,Moderate,5,2024-10-07
+PT1184,44,Female,Placebo,101,112,205,Completed,Moderate,4,2024-12-29
+PT1185,26,Female,Drug A,107,99,236,Completed,None,3,2024-11-09
+PT1186,32,Male,Drug A,120,98,214,Completed,None,3,2024-12-03
+PT1187,32,Female,Placebo,127,89,178,Withdrawn,None,4,2024-08-17
+PT1188,43,Male,Drug A,134,105,245,Completed,None,3,2024-12-12
+PT1189,59,Male,Placebo,92,91,219,Completed,Moderate,2,2025-04-11
+PT1190,77,Male,Drug B,117,93,144,Withdrawn,None,2,2024-05-16
+PT1191,30,Male,Drug A,103,120,225,Completed,None,4,2025-01-31
+PT1192,68,Male,Placebo,116,113,182,Completed,None,3,2025-02-15
+PT1193,49,Female,Drug A,155,124,205,Completed,None,3,2024-06-25
+PT1194,56,Female,Placebo,124,82,230,Completed,Mild,5,2025-01-31
+PT1195,66,Male,Placebo,133,115,183,Completed,None,3,2025-04-20
+PT1196,69,Female,Drug A,149,156,150,Completed,None,2,2024-12-06
+PT1197,78,Female,Drug B,136,107,245,Completed,None,1,2025-02-27
+PT1198,49,Male,Placebo,113,131,234,Completed,None,1,2024-08-23
+PT1199,21,Female,Placebo,100,131,197,Completed,None,1,2025-03-06
+PT1200,47,Other,Placebo,119,132,225,Missed,Mild,1,2025-01-15
+PT1201,54,Male,Drug B,111,118,188,Completed,None,3,2024-09-21
+PT1202,40,Male,Drug B,97,126,202,Completed,Mild,3,2024-06-24
+PT1203,56,Female,Drug A,123,128,195,Completed,Moderate,5,2024-09-02
+PT1204,62,Female,Drug B,123,127,190,Completed,Moderate,3,2024-10-27
+PT1205,32,Male,Drug A,146,92,210,Completed,Moderate,1,2024-07-12
+PT1206,60,Female,Drug A,114,80,163,Completed,None,4,2024-11-04
+PT1207,46,Female,Drug B,124,83,192,Completed,None,4,2024-05-13
+PT1208,53,Female,Drug A,110,109,209,Completed,None,2,2025-02-16
+PT1209,30,Female,Drug B,133,126,255,Completed,Moderate,2,2025-04-17
+PT1210,49,Female,Drug A,118,92,164,Completed,Severe,3,2025-02-15
+PT1211,24,Male,Drug B,102,133,215,Completed,Moderate,4,2024-08-22
+PT1212,76,Male,Drug B,119,104,218,Withdrawn,None,1,2024-11-22
+PT1213,68,Female,Drug A,125,105,143,Completed,Moderate,1,2025-03-03
+PT1214,39,Female,Placebo,123,98,212,Completed,None,1,2024-07-20
+PT1215,45,Male,Drug A,135,77,226,Completed,None,3,2024-11-25
+PT1216,19,Female,Drug B,98,119,217,Withdrawn,None,3,2025-05-01
+PT1217,59,Female,Placebo,107,149,197,Completed,None,5,2024-06-22
+PT1218,62,Male,Drug A,129,113,209,Completed,None,1,2025-04-15
+PT1219,79,Female,Drug A,109,77,205,Completed,None,1,2025-01-09
+PT1220,74,Female,Drug A,123,130,149,Missed,None,3,2024-09-04
+PT1221,70,Female,Placebo,83,82,205,Completed,Mild,3,2025-04-03
+PT1222,23,Female,Drug B,160,90,188,Completed,Moderate,5,2025-01-15
+PT1223,45,Male,Drug A,115,110,178,Missed,Mild,5,2024-11-25
+PT1224,45,Female,Drug A,137,117,274,Missed,None,2,2025-01-03
+PT1225,61,Male,Drug A,114,94,237,Withdrawn,Moderate,4,2024-07-28
+PT1226,61,Male,Drug A,126,109,165,Completed,Moderate,1,2024-07-10
+PT1227,37,Female,Drug A,142,129,210,Completed,None,1,2024-10-04
+PT1228,47,Male,Drug B,137,132,243,Completed,None,5,2025-03-04
+PT1229,79,Male,Drug B,116,140,155,Completed,None,5,2024-07-13
+PT1230,28,Female,Drug A,117,153,202,Completed,None,2,2024-12-07
+PT1231,75,Male,Placebo,135,131,203,Completed,Mild,4,2025-03-10
+PT1232,72,Male,Drug B,154,110,161,Completed,Moderate,2,2025-05-05
+PT1233,45,Female,Placebo,122,132,211,Completed,None,4,2024-12-03
+PT1234,42,Female,Drug B,149,124,233,Completed,Moderate,1,2025-05-03
+PT1235,56,Male,Drug A,116,125,245,Completed,Moderate,2,2024-05-12
+PT1236,79,Female,Drug B,134,118,192,Completed,Moderate,5,2024-12-30
+PT1237,50,Female,Drug A,136,96,275,Completed,None,2,2024-09-14
+PT1238,18,Female,Drug B,113,94,138,Completed,Moderate,2,2024-11-17
+PT1239,74,Female,Drug A,108,113,210,Completed,None,1,2024-05-19
+PT1240,44,Other,Drug A,137,117,157,Completed,None,5,2024-06-24
+PT1241,79,Female,Drug A,112,101,202,Completed,None,5,2025-05-07
+PT1242,74,Female,Drug A,106,123,184,Completed,None,3,2024-09-29
+PT1243,69,Female,Placebo,109,156,215,Missed,Mild,3,2025-04-18
+PT1244,30,Male,Drug A,111,80,196,Completed,None,3,2025-03-30
+PT1245,58,Male,Placebo,132,126,175,Completed,None,1,2025-03-21
+PT1246,20,Female,Placebo,127,113,177,Missed,None,2,2024-09-08
+PT1247,56,Female,Drug A,130,124,257,Completed,Mild,5,2024-08-12
+PT1248,23,Female,Placebo,126,106,213,Withdrawn,None,5,2024-06-03
+PT1249,25,Male,Drug B,111,112,148,Missed,Moderate,2,2024-08-13
+PT1250,44,Female,Drug A,130,117,216,Completed,None,5,2025-04-17
+PT1251,26,Male,Placebo,137,108,194,Withdrawn,None,2,2024-12-18
+PT1252,79,Male,Drug A,128,84,200,Completed,None,1,2024-06-11
+PT1253,54,Female,Drug A,126,110,224,Completed,None,1,2024-06-14
+PT1254,50,Female,Drug A,108,86,235,Completed,None,1,2025-02-20
+PT1255,68,Female,Placebo,123,128,174,Completed,None,2,2024-11-16
+PT1256,59,Female,Drug B,107,77,199,Withdrawn,Severe,2,2025-03-24
+PT1257,61,Male,Drug B,119,135,183,Completed,Mild,4,2024-06-07
+PT1258,41,Female,Placebo,95,123,217,Completed,None,5,2025-03-03
+PT1259,32,Male,Drug A,95,123,193,Completed,None,5,2024-12-04
+PT1260,76,Female,Placebo,117,71,200,Completed,Moderate,4,2025-03-05
+PT1261,71,Female,Placebo,111,108,191,Completed,None,4,2024-06-29
+PT1262,49,Female,Placebo,121,138,196,Completed,None,1,2024-06-30
+PT1263,49,Female,Drug A,117,104,251,Missed,Mild,4,2025-01-23
+PT1264,41,Female,Placebo,120,93,271,Completed,Mild,2,2024-11-12
+PT1265,58,Female,Drug A,129,102,211,Missed,None,3,2024-12-11
+PT1266,69,Male,Placebo,113,113,197,Completed,None,2,2024-07-15
+PT1267,66,Male,Drug B,116,97,152,Completed,None,4,2024-08-22
+PT1268,79,Male,Placebo,141,139,177,Completed,Mild,5,2024-12-02
+PT1269,66,Male,Placebo,120,113,196,Completed,None,2,2025-04-15
+PT1270,75,Female,Drug B,117,103,178,Completed,None,5,2025-01-02
+PT1271,69,Female,Drug A,121,88,181,Missed,None,2,2024-10-23
+PT1272,29,Male,Drug A,117,124,247,Completed,None,5,2024-08-02
+PT1273,79,Male,Placebo,109,124,200,Withdrawn,Moderate,2,2025-05-07
+PT1274,56,Male,Drug B,105,99,203,Completed,Moderate,5,2024-12-07
+PT1275,19,Female,Drug A,108,70,179,Completed,Mild,3,2025-03-01
+PT1276,20,Female,Placebo,133,123,235,Completed,None,1,2025-02-19
+PT1277,66,Male,Drug B,110,111,193,Withdrawn,None,2,2025-02-03
+PT1278,54,Female,Drug A,117,121,184,Completed,None,3,2024-07-29
+PT1279,66,Female,Drug A,130,154,152,Missed,None,1,2025-02-12
+PT1280,73,Male,Drug B,115,114,198,Missed,Severe,2,2024-09-10
+PT1281,34,Female,Drug B,129,104,183,Completed,None,3,2024-10-13
+PT1282,76,Female,Drug B,96,92,250,Completed,None,3,2025-01-27
+PT1283,66,Male,Drug B,118,108,255,Completed,None,3,2025-01-19
+PT1284,19,Male,Placebo,121,118,162,Completed,Mild,4,2024-10-04
+PT1285,19,Male,Drug B,120,116,166,Completed,None,5,2024-10-29
+PT1286,45,Male,Drug A,95,149,191,Completed,None,1,2025-04-26
+PT1287,71,Female,Drug A,138,124,175,Completed,None,5,2024-11-29
+PT1288,40,Female,Placebo,107,112,206,Completed,Moderate,5,2024-11-03
+PT1289,54,Male,Drug A,125,100,190,Completed,None,5,2024-06-27
+PT1290,49,Male,Drug A,120,120,208,Completed,Moderate,3,2024-08-16
+PT1291,50,Male,Drug B,135,96,230,Completed,Moderate,5,2024-08-07
+PT1292,18,Male,Drug A,152,118,168,Completed,None,4,2024-06-05
+PT1293,36,Female,Placebo,100,124,229,Completed,Mild,2,2024-09-20
+PT1294,79,Male,Drug B,110,110,178,Missed,None,3,2024-05-20
+PT1295,19,Male,Drug B,122,102,264,Completed,Severe,1,2024-12-26
+PT1296,70,Male,Placebo,103,71,248,Completed,None,2,2024-12-13
+PT1297,61,Female,Drug B,131,137,196,Completed,None,2,2024-08-09
+PT1298,43,Male,Drug B,132,123,171,Completed,None,2,2024-12-26
+PT1299,49,Female,Placebo,128,123,165,Completed,None,5,2024-08-05
+PT1300,23,Male,Drug B,123,83,226,Withdrawn,Severe,5,2024-05-14
+PT1301,49,Female,Placebo,140,142,199,Completed,None,3,2024-06-08
+PT1302,72,Female,Placebo,102,105,227,Completed,Mild,5,2025-02-10
+PT1303,21,Male,Drug A,120,109,266,Completed,None,5,2025-01-12
+PT1304,72,Male,Drug A,108,93,176,Completed,Moderate,5,2024-06-03
+PT1305,28,Female,Drug B,133,79,163,Completed,None,3,2024-08-08
+PT1306,73,Female,Drug B,92,138,205,Completed,None,3,2024-06-07
+PT1307,76,Male,Placebo,119,140,234,Completed,None,4,2025-04-28
+PT1308,34,Female,Drug B,125,111,171,Completed,Mild,4,2024-05-24
+PT1309,55,Female,Placebo,105,101,201,Completed,None,4,2025-04-10
+PT1310,41,Female,Placebo,110,107,241,Completed,None,4,2024-09-17
+PT1311,22,Male,Drug B,120,108,151,Withdrawn,None,2,2024-06-08
+PT1312,69,Female,Placebo,134,91,207,Completed,Mild,2,2024-11-27
+PT1313,51,Male,Drug A,104,109,183,Completed,None,4,2024-08-12
+PT1314,23,Female,Drug B,107,118,203,Completed,None,4,2024-08-28
+PT1315,39,Male,Drug A,136,135,221,Completed,None,1,2025-01-26
+PT1316,28,Male,Drug B,115,115,206,Completed,Moderate,2,2024-11-16
+PT1317,65,Male,Placebo,108,83,169,Completed,Moderate,1,2024-08-03
+PT1318,33,Female,Drug B,130,122,184,Completed,None,1,2024-12-07
+PT1319,50,Male,Drug A,112,109,242,Completed,None,5,2024-07-02
+PT1320,26,Male,Placebo,135,142,209,Completed,None,3,2025-02-16
+PT1321,77,Male,Drug B,110,143,225,Completed,None,2,2025-05-10
+PT1322,76,Female,Drug B,117,144,207,Completed,None,4,2025-04-19
+PT1323,23,Other,Drug B,134,103,224,Completed,Mild,4,2024-12-19
+PT1324,33,Male,Drug A,116,154,188,Completed,None,3,2024-12-21
+PT1325,46,Female,Drug A,131,122,176,Completed,Moderate,2,2024-11-11
+PT1326,20,Female,Drug B,119,147,222,Completed,None,4,2024-08-14
+PT1327,37,Female,Placebo,149,104,233,Completed,Mild,4,2025-03-12
+PT1328,77,Male,Placebo,143,109,172,Missed,None,5,2024-11-11
+PT1329,76,Male,Drug A,100,120,182,Completed,None,1,2025-03-21
+PT1330,53,Male,Placebo,127,118,195,Completed,None,4,2024-10-17
+PT1331,36,Male,Drug A,107,140,248,Completed,None,2,2024-07-24
+PT1332,43,Male,Drug B,122,110,216,Withdrawn,None,3,2024-06-17
+PT1333,20,Female,Drug A,121,138,160,Completed,Mild,5,2024-06-18
+PT1334,36,Male,Drug A,104,129,197,Completed,Moderate,2,2025-01-22
+PT1335,37,Male,Drug B,135,110,192,Completed,None,5,2024-10-26
+PT1336,49,Female,Placebo,123,128,164,Completed,None,1,2024-09-26
+PT1337,24,Male,Drug A,115,105,196,Completed,None,4,2024-10-23
+PT1338,69,Female,Drug A,113,162,191,Completed,None,2,2024-10-18
+PT1339,58,Female,Drug B,122,61,189,Withdrawn,None,3,2024-11-09
+PT1340,50,Male,Placebo,126,128,187,Withdrawn,Mild,1,2025-04-12
+PT1341,57,Female,Drug A,118,79,244,Completed,Severe,1,2025-02-19
+PT1342,56,Female,Drug B,77,110,189,Completed,Moderate,5,2024-06-02
+PT1343,35,Female,Drug A,120,113,201,Withdrawn,None,1,2025-01-28
+PT1344,57,Female,Drug B,98,145,198,Completed,Moderate,2,2025-01-20
+PT1345,18,Female,Placebo,116,101,184,Completed,Mild,5,2025-01-17
+PT1346,28,Female,Placebo,98,141,202,Completed,None,1,2024-06-19
+PT1347,45,Male,Placebo,98,91,201,Completed,None,3,2024-06-04
+PT1348,74,Male,Placebo,138,141,202,Completed,Moderate,2,2024-10-15
+PT1349,42,Male,Drug A,115,105,174,Completed,None,3,2025-02-18
+PT1350,67,Female,Drug A,114,116,193,Completed,None,3,2024-09-20
+PT1351,40,Male,Placebo,127,108,222,Completed,None,5,2025-03-18
+PT1352,48,Female,Placebo,114,140,194,Completed,None,4,2025-04-11
+PT1353,47,Female,Placebo,151,136,204,Completed,None,5,2024-06-23
+PT1354,59,Female,Drug A,115,123,205,Missed,Moderate,2,2024-08-16
+PT1355,52,Other,Placebo,125,91,212,Completed,Mild,2,2024-07-25
+PT1356,24,Female,Placebo,134,100,216,Completed,Mild,5,2024-07-24
+PT1357,77,Female,Placebo,144,94,194,Withdrawn,None,4,2024-12-06
+PT1358,33,Male,Drug B,108,70,172,Withdrawn,Mild,5,2024-11-02
+PT1359,43,Female,Placebo,113,140,163,Completed,None,2,2024-07-05
+PT1360,65,Male,Drug B,139,108,230,Completed,None,4,2024-10-22
+PT1361,74,Male,Drug B,132,108,223,Completed,None,2,2024-07-22
+PT1362,69,Female,Placebo,136,144,219,Missed,None,4,2024-08-28
+PT1363,77,Female,Drug B,99,105,224,Withdrawn,None,4,2024-11-07
+PT1364,66,Male,Placebo,143,98,195,Missed,None,5,2024-08-17
+PT1365,19,Female,Drug A,108,110,181,Completed,None,5,2025-04-16
+PT1366,18,Female,Drug A,122,92,170,Completed,None,5,2025-05-05
+PT1367,65,Female,Drug A,117,121,167,Completed,Severe,4,2024-06-10
+PT1368,79,Female,Drug A,106,107,236,Completed,None,4,2024-10-31
+PT1369,29,Female,Drug B,98,104,185,Completed,Mild,2,2025-03-21
+PT1370,22,Other,Placebo,93,103,231,Completed,None,3,2025-04-11
+PT1371,54,Female,Placebo,121,112,194,Completed,None,5,2025-04-09
+PT1372,49,Female,Placebo,97,116,179,Completed,Severe,2,2024-12-11
+PT1373,76,Other,Drug A,102,104,167,Completed,None,2,2024-06-19
+PT1374,72,Female,Drug A,116,107,182,Completed,None,1,2024-05-31
+PT1375,26,Male,Placebo,80,113,242,Completed,Mild,5,2025-01-20
+PT1376,58,Male,Drug A,131,111,167,Completed,None,2,2024-12-07
+PT1377,52,Male,Placebo,83,115,263,Completed,Moderate,1,2025-04-01
+PT1378,36,Male,Placebo,118,101,174,Completed,None,5,2024-05-17
+PT1379,65,Female,Placebo,120,135,222,Withdrawn,None,4,2024-06-17
+PT1380,33,Female,Placebo,128,116,195,Completed,None,1,2025-05-06
+PT1381,20,Female,Placebo,119,104,190,Completed,None,4,2025-02-28
+PT1382,37,Male,Placebo,150,121,161,Completed,Moderate,3,2025-04-06
+PT1383,41,Female,Placebo,123,113,197,Completed,Mild,3,2024-08-11
+PT1384,71,Female,Drug A,135,80,165,Missed,None,3,2024-07-15
+PT1385,73,Female,Placebo,109,121,149,Completed,None,3,2024-10-16
+PT1386,50,Female,Placebo,121,94,203,Missed,Mild,2,2024-11-16
+PT1387,41,Female,Drug A,143,133,180,Completed,None,3,2024-11-14
+PT1388,69,Male,Drug A,116,110,250,Missed,None,2,2024-08-03
+PT1389,28,Female,Drug A,122,130,230,Completed,None,2,2025-04-12
+PT1390,66,Male,Placebo,134,102,250,Missed,None,5,2024-10-14
+PT1391,25,Male,Drug B,108,116,179,Completed,Mild,2,2025-04-27
+PT1392,53,Female,Drug B,87,139,204,Completed,Severe,2,2024-06-03
+PT1393,55,Male,Drug A,123,109,121,Completed,None,3,2024-07-14
+PT1394,57,Female,Drug B,134,103,191,Withdrawn,None,2,2024-10-06
+PT1395,37,Male,Drug A,99,128,202,Completed,None,4,2024-05-12
+PT1396,79,Female,Placebo,130,127,204,Completed,None,3,2024-10-10
+PT1397,52,Male,Drug B,130,104,198,Missed,None,1,2024-08-22
+PT1398,65,Other,Placebo,85,75,201,Completed,Moderate,3,2025-05-06
+PT1399,79,Female,Drug B,105,102,118,Completed,None,2,2025-03-12
+PT1400,42,Male,Placebo,114,128,207,Completed,None,4,2025-03-12
+PT1401,52,Female,Drug B,117,99,214,Completed,None,3,2024-11-04
+PT1402,42,Other,Placebo,108,114,240,Withdrawn,None,4,2024-08-30
+PT1403,46,Male,Placebo,108,101,211,Completed,None,1,2024-10-23
+PT1404,35,Male,Drug B,145,76,196,Completed,Mild,1,2025-02-06
+PT1405,63,Female,Placebo,118,101,233,Withdrawn,None,5,2025-02-19
+PT1406,35,Female,Placebo,109,128,129,Completed,Mild,5,2025-03-12
+PT1407,19,Female,Placebo,119,67,184,Completed,None,3,2024-12-13
+PT1408,71,Female,Drug B,128,120,177,Completed,None,5,2025-01-24
+PT1409,52,Male,Drug B,120,91,198,Completed,None,4,2025-02-15
+PT1410,33,Male,Placebo,116,127,134,Completed,None,5,2024-11-17
+PT1411,78,Female,Placebo,110,129,239,Withdrawn,None,4,2024-07-11
+PT1412,58,Male,Drug B,110,111,192,Completed,None,5,2024-07-24
+PT1413,53,Male,Drug B,111,111,209,Completed,Mild,5,2024-09-04
+PT1414,50,Female,Placebo,125,98,206,Completed,Mild,5,2024-08-04
+PT1415,21,Female,Placebo,105,88,237,Completed,None,2,2024-06-03
+PT1416,50,Female,Placebo,125,148,144,Withdrawn,None,2,2024-12-22
+PT1417,31,Female,Drug A,141,97,203,Missed,None,5,2025-02-21
+PT1418,38,Female,Drug B,124,146,234,Completed,None,4,2024-12-08
+PT1419,65,Female,Drug A,114,97,197,Completed,None,3,2024-06-04
+PT1420,37,Female,Drug B,100,125,171,Completed,Moderate,1,2025-02-26
+PT1421,73,Male,Drug B,143,92,181,Completed,None,2,2024-09-10
+PT1422,25,Male,Drug B,102,125,188,Completed,None,5,2024-06-03
+PT1423,24,Female,Drug B,132,108,178,Completed,None,1,2024-05-31
+PT1424,20,Female,Drug B,129,108,195,Completed,None,2,2024-12-24
+PT1425,34,Male,Drug B,116,127,245,Completed,Mild,3,2024-11-13
+PT1426,50,Male,Drug B,116,105,182,Completed,None,4,2024-11-23
+PT1427,65,Male,Drug A,92,86,185,Completed,None,5,2025-05-04
+PT1428,29,Male,Placebo,124,130,213,Completed,Mild,3,2025-04-08
+PT1429,76,Female,Placebo,129,92,194,Completed,None,2,2024-12-04
+PT1430,68,Male,Drug A,103,125,160,Completed,Mild,5,2024-07-12
+PT1431,39,Female,Drug A,117,134,198,Withdrawn,None,1,2024-06-03
+PT1432,72,Female,Drug A,120,107,197,Completed,None,4,2024-11-25
+PT1433,39,Female,Drug A,128,138,229,Completed,Mild,2,2024-06-12
+PT1434,63,Female,Drug B,120,124,170,Completed,None,4,2025-04-07
+PT1435,47,Male,Placebo,95,101,229,Missed,None,5,2024-07-23
+PT1436,55,Female,Drug B,112,143,197,Withdrawn,None,3,2024-06-07
+PT1437,55,Male,Placebo,123,92,166,Completed,None,4,2024-12-29
+PT1438,62,Male,Placebo,132,107,160,Completed,Mild,1,2024-06-07
+PT1439,68,Female,Drug A,110,110,258,Withdrawn,Moderate,2,2025-01-29
+PT1440,71,Male,Drug B,152,127,195,Completed,Severe,1,2025-04-11
+PT1441,25,Male,Drug A,91,137,228,Completed,Mild,4,2024-08-11
+PT1442,44,Female,Drug B,111,136,148,Completed,None,3,2024-10-15
+PT1443,44,Male,Placebo,118,119,279,Completed,None,3,2024-06-27
+PT1444,51,Female,Drug A,116,109,226,Completed,None,1,2025-05-12
+PT1445,38,Male,Drug A,101,78,192,Completed,None,5,2025-04-22
+PT1446,47,Female,Placebo,126,88,190,Completed,None,5,2024-12-19
+PT1447,50,Female,Placebo,125,150,222,Withdrawn,Moderate,3,2024-08-15
+PT1448,45,Female,Placebo,120,78,220,Completed,None,1,2024-12-22
+PT1449,64,Female,Drug A,124,99,205,Missed,None,1,2024-12-28
+PT1450,50,Male,Drug B,113,137,200,Completed,None,1,2024-05-27
+PT1451,22,Female,Drug A,95,119,216,Completed,Moderate,4,2025-01-07
+PT1452,77,Male,Drug B,109,133,147,Completed,Mild,5,2024-06-12
+PT1453,78,Female,Drug A,122,125,188,Withdrawn,Mild,5,2024-10-21
+PT1454,65,Male,Drug A,122,144,150,Completed,None,4,2025-01-22
+PT1455,36,Female,Placebo,120,120,218,Completed,Moderate,2,2024-12-24
+PT1456,21,Male,Drug B,128,128,179,Missed,None,4,2024-12-17
+PT1457,52,Female,Drug A,111,100,152,Completed,Moderate,1,2024-12-01
+PT1458,66,Female,Drug A,120,126,176,Withdrawn,None,4,2024-09-11
+PT1459,34,Female,Placebo,128,107,204,Completed,None,1,2025-05-10
+PT1460,61,Male,Placebo,118,105,193,Withdrawn,None,3,2024-08-21
+PT1461,45,Female,Drug B,101,132,164,Completed,Mild,1,2024-07-30
+PT1462,47,Male,Drug A,105,133,148,Completed,None,5,2025-01-27
+PT1463,46,Male,Drug B,132,148,202,Completed,Moderate,4,2025-02-14
+PT1464,63,Male,Drug A,140,147,182,Completed,None,1,2024-09-11
+PT1465,70,Male,Drug B,137,133,192,Completed,None,2,2024-08-12
+PT1466,23,Female,Placebo,123,80,195,Completed,None,3,2024-08-23
+PT1467,52,Female,Drug A,101,151,212,Completed,None,2,2024-10-12
+PT1468,77,Male,Drug B,119,133,225,Completed,None,2,2024-07-01
+PT1469,58,Male,Placebo,143,99,204,Completed,None,2,2025-01-27
+PT1470,54,Male,Placebo,129,129,190,Completed,Mild,3,2025-01-17
+PT1471,41,Male,Drug B,116,94,200,Withdrawn,None,3,2024-09-05
+PT1472,46,Other,Drug A,129,127,189,Completed,Severe,3,2024-11-05
+PT1473,66,Male,Drug A,100,88,150,Completed,None,3,2024-09-11
+PT1474,63,Male,Placebo,109,98,232,Completed,Moderate,2,2025-05-07
+PT1475,70,Male,Drug A,103,129,227,Completed,None,5,2025-02-27
+PT1476,48,Female,Drug A,127,136,259,Completed,None,5,2025-05-10
+PT1477,52,Other,Drug A,130,121,268,Completed,None,3,2024-06-09
+PT1478,77,Female,Placebo,117,109,164,Completed,None,4,2024-05-15
+PT1479,50,Female,Drug B,106,72,189,Withdrawn,Moderate,1,2024-11-05
+PT1480,69,Female,Drug A,119,110,275,Completed,None,4,2025-01-08
+PT1481,78,Male,Placebo,112,125,198,Completed,None,4,2024-12-16
+PT1482,38,Female,Placebo,108,108,207,Completed,Moderate,4,2024-06-19
+PT1483,49,Female,Drug B,125,114,154,Completed,None,5,2024-06-09
+PT1484,40,Female,Drug A,108,111,204,Completed,Mild,1,2024-12-06
+PT1485,50,Female,Drug A,96,108,257,Completed,None,4,2024-08-02
+PT1486,20,Female,Drug B,99,116,238,Completed,Moderate,3,2024-11-24
+PT1487,35,Female,Drug B,95,109,181,Completed,None,5,2024-08-22
+PT1488,42,Other,Placebo,123,143,188,Completed,None,3,2024-07-02
+PT1489,59,Female,Placebo,122,70,166,Completed,None,3,2025-05-09
+PT1490,48,Female,Drug B,121,104,174,Missed,Moderate,4,2024-09-24
+PT1491,71,Female,Drug A,128,97,142,Completed,None,3,2025-04-19
+PT1492,75,Male,Placebo,137,119,197,Withdrawn,None,1,2024-06-07
+PT1493,20,Female,Placebo,111,116,245,Missed,Mild,3,2025-04-18
+PT1494,57,Male,Drug A,126,147,210,Completed,Moderate,4,2024-08-14
+PT1495,63,Female,Placebo,96,154,240,Completed,Moderate,3,2024-10-02
+PT1496,41,Other,Drug A,140,99,232,Completed,Severe,5,2024-08-30
+PT1497,67,Female,Drug A,101,115,183,Missed,None,5,2024-07-12
+PT1498,49,Male,Drug A,109,118,177,Completed,None,5,2024-10-29
+PT1499,64,Male,Drug B,111,99,178,Completed,Mild,2,2025-03-31
+PT1500,39,Male,Drug B,97,127,148,Completed,Moderate,5,2024-12-08
+PT1501,40,Female,Drug B,120,110,200,Missed,None,5,2025-02-09
+PT1502,19,Male,Drug A,123,93,112,Completed,None,2,2024-09-06
+PT1503,44,Male,Drug A,117,109,217,Withdrawn,Mild,5,2025-01-04
+PT1504,59,Male,Drug B,96,95,202,Completed,None,4,2025-03-21
+PT1505,19,Female,Placebo,149,135,214,Completed,None,5,2025-01-20
+PT1506,43,Female,Drug A,128,153,231,Completed,None,5,2024-12-03
+PT1507,34,Male,Placebo,159,119,205,Completed,None,2,2024-05-15
+PT1508,57,Male,Placebo,107,117,248,Completed,Mild,4,2025-01-26
+PT1509,50,Female,Drug A,134,118,218,Completed,None,3,2025-03-25
+PT1510,26,Female,Drug A,131,138,177,Withdrawn,Mild,1,2024-12-13
+PT1511,60,Female,Placebo,115,138,192,Completed,None,4,2024-09-05
+PT1512,71,Male,Placebo,141,112,132,Missed,None,3,2025-05-08
+PT1513,65,Female,Drug B,113,120,172,Completed,Mild,4,2025-01-24
+PT1514,56,Female,Drug B,114,128,188,Missed,None,3,2024-06-21
+PT1515,46,Female,Drug A,67,92,216,Completed,None,3,2025-05-11
+PT1516,59,Female,Drug B,126,139,177,Withdrawn,None,4,2025-04-18
+PT1517,72,Male,Drug B,100,149,162,Withdrawn,None,2,2024-07-03
+PT1518,43,Male,Drug B,111,138,143,Completed,None,4,2024-08-22
+PT1519,52,Female,Drug B,104,90,182,Completed,Moderate,4,2024-06-25
+PT1520,67,Female,Placebo,114,75,258,Completed,Mild,3,2025-04-22
+PT1521,42,Female,Drug A,126,129,208,Completed,Mild,1,2024-06-22
+PT1522,41,Female,Drug B,120,99,228,Missed,None,3,2025-02-24
+PT1523,30,Female,Placebo,130,120,172,Completed,None,5,2024-12-12
+PT1524,77,Female,Placebo,138,145,152,Completed,None,4,2024-07-11
+PT1525,75,Male,Placebo,114,101,163,Completed,None,4,2024-08-25
+PT1526,24,Female,Drug B,112,107,197,Missed,None,2,2024-08-29
+PT1527,74,Male,Drug B,134,120,140,Withdrawn,None,3,2025-01-01
+PT1528,53,Male,Drug A,135,89,169,Completed,Severe,2,2024-08-01
+PT1529,62,Other,Drug B,131,99,182,Completed,None,4,2025-02-14
+PT1530,37,Male,Drug B,105,115,160,Completed,None,3,2024-09-22
+PT1531,18,Male,Placebo,126,108,136,Completed,Mild,3,2024-07-30
+PT1532,25,Male,Drug A,121,127,208,Completed,None,5,2025-02-02
+PT1533,63,Female,Drug B,135,170,201,Completed,Moderate,5,2025-01-13
+PT1534,33,Male,Drug B,111,116,223,Completed,Mild,1,2025-04-08
+PT1535,31,Male,Placebo,95,98,166,Completed,Moderate,5,2024-08-22
+PT1536,29,Male,Placebo,130,143,222,Completed,None,3,2024-11-24
+PT1537,68,Male,Drug B,81,83,245,Completed,Mild,5,2024-11-17
+PT1538,40,Male,Drug A,109,87,207,Completed,None,1,2024-08-17
+PT1539,32,Male,Drug A,104,103,181,Completed,Mild,4,2025-04-28
+PT1540,45,Female,Placebo,104,109,204,Completed,None,5,2025-04-29
+PT1541,51,Male,Placebo,108,102,180,Completed,None,3,2025-04-05
+PT1542,19,Male,Drug B,138,114,175,Completed,None,4,2024-05-31
+PT1543,49,Male,Placebo,132,120,220,Completed,None,3,2024-06-16
+PT1544,40,Male,Drug B,116,136,195,Withdrawn,Moderate,4,2025-01-13
+PT1545,39,Female,Drug A,137,116,236,Completed,Mild,3,2024-10-23
+PT1546,68,Female,Drug A,104,103,186,Completed,Mild,5,2025-03-30
+PT1547,42,Male,Drug B,102,135,189,Completed,None,5,2024-08-27
+PT1548,75,Male,Placebo,132,98,183,Completed,Mild,1,2024-05-29
+PT1549,79,Male,Drug A,128,82,166,Completed,None,4,2024-05-13
+PT1550,78,Female,Placebo,113,139,224,Completed,Moderate,1,2024-09-18
+PT1551,39,Female,Drug A,102,137,265,Completed,Moderate,2,2025-03-07
+PT1552,75,Female,Drug B,141,99,188,Completed,None,5,2024-07-01
+PT1553,75,Male,Drug B,94,107,179,Completed,Moderate,4,2025-01-14
+PT1554,39,Female,Drug B,111,96,177,Completed,None,1,2024-08-21
+PT1555,66,Male,Drug A,123,121,179,Completed,None,1,2024-07-13
+PT1556,69,Male,Placebo,147,149,249,Completed,None,2,2025-02-23
+PT1557,59,Male,Placebo,125,129,178,Completed,None,1,2024-10-30
+PT1558,23,Male,Placebo,127,135,182,Missed,Mild,3,2024-12-12
+PT1559,32,Female,Drug A,111,131,162,Completed,None,5,2025-02-10
+PT1560,71,Female,Drug A,128,114,208,Completed,None,1,2024-10-25
+PT1561,60,Male,Drug A,121,136,197,Withdrawn,None,1,2024-12-15
+PT1562,77,Female,Drug A,96,129,165,Completed,Mild,2,2024-05-15
+PT1563,54,Other,Drug A,131,143,173,Completed,Moderate,3,2024-06-24
+PT1564,50,Female,Placebo,134,105,245,Completed,Mild,1,2024-06-10
+PT1565,25,Female,Drug A,132,80,200,Missed,Mild,5,2025-04-19
+PT1566,70,Female,Drug A,120,135,203,Withdrawn,None,5,2025-02-04
+PT1567,77,Other,Placebo,105,121,203,Completed,None,1,2025-04-28
+PT1568,61,Female,Drug A,85,109,241,Completed,None,3,2024-07-08
+PT1569,61,Male,Placebo,122,110,168,Completed,None,5,2024-12-09
+PT1570,22,Male,Placebo,136,166,188,Completed,Mild,5,2024-05-25
+PT1571,56,Female,Drug B,134,102,194,Completed,None,3,2025-04-01
+PT1572,21,Male,Drug B,132,97,148,Completed,Mild,3,2024-10-02
+PT1573,23,Female,Drug B,118,116,172,Completed,None,1,2024-12-24
+PT1574,62,Male,Drug B,136,138,231,Completed,None,4,2024-12-12
+PT1575,49,Male,Drug A,133,160,222,Completed,None,2,2024-07-08
+PT1576,69,Male,Drug B,113,128,228,Completed,Moderate,4,2024-10-25
+PT1577,47,Male,Placebo,130,89,182,Completed,Mild,4,2024-06-30
+PT1578,64,Female,Drug A,111,154,186,Missed,Moderate,5,2024-05-28
+PT1579,52,Female,Drug B,128,114,146,Completed,None,3,2024-09-08
+PT1580,72,Female,Placebo,100,98,227,Completed,Severe,5,2024-09-30
+PT1581,57,Female,Drug A,101,93,232,Completed,None,2,2025-04-26
+PT1582,69,Male,Drug A,135,131,232,Completed,None,1,2025-05-09
+PT1583,33,Female,Drug B,134,119,248,Withdrawn,Severe,2,2025-03-17
+PT1584,30,Female,Drug A,129,121,212,Completed,None,5,2025-04-11
+PT1585,67,Female,Placebo,121,140,246,Completed,Mild,5,2024-05-27
+PT1586,77,Male,Drug A,84,98,193,Completed,None,5,2025-04-26
+PT1587,59,Female,Placebo,118,142,146,Completed,None,5,2024-09-27
+PT1588,47,Female,Drug A,126,104,225,Missed,Moderate,4,2024-08-01
+PT1589,36,Other,Drug B,111,158,145,Completed,None,1,2025-01-31
+PT1590,34,Female,Placebo,109,126,205,Completed,Mild,4,2024-08-16
+PT1591,73,Male,Drug A,141,96,228,Completed,None,5,2025-01-26
+PT1592,36,Female,Drug A,119,74,209,Completed,Mild,3,2024-06-20
+PT1593,45,Female,Drug A,126,131,268,Withdrawn,None,4,2024-09-26
+PT1594,75,Male,Placebo,131,107,141,Completed,None,5,2025-03-10
+PT1595,72,Female,Placebo,104,111,197,Missed,None,5,2024-12-15
+PT1596,43,Female,Placebo,122,130,200,Completed,None,1,2025-04-20
+PT1597,54,Male,Drug B,139,135,159,Completed,Moderate,2,2025-04-16
+PT1598,43,Male,Drug B,147,139,165,Completed,None,4,2024-10-16
+PT1599,70,Male,Placebo,120,91,174,Completed,None,4,2025-01-08
+PT1600,79,Male,Drug A,116,143,167,Completed,None,4,2025-02-27
+PT1601,40,Male,Drug B,124,103,196,Completed,None,5,2024-07-11
+PT1602,26,Female,Placebo,123,69,181,Completed,Mild,1,2025-05-06
+PT1603,29,Male,Drug A,140,91,209,Completed,Severe,5,2025-05-08
+PT1604,70,Male,Drug B,105,119,219,Completed,None,5,2024-08-11
+PT1605,18,Female,Drug A,115,95,217,Completed,Moderate,3,2025-04-12
+PT1606,75,Female,Drug A,103,113,187,Completed,None,1,2024-07-14
+PT1607,75,Male,Drug A,104,121,208,Completed,None,4,2025-03-18
+PT1608,18,Male,Drug A,125,111,231,Completed,Mild,2,2025-03-22
+PT1609,64,Male,Drug B,132,105,213,Missed,None,4,2024-07-19
+PT1610,51,Female,Drug B,110,89,255,Completed,Mild,5,2025-04-19
+PT1611,49,Male,Drug B,131,115,229,Missed,Moderate,1,2024-10-19
+PT1612,79,Female,Placebo,136,73,251,Completed,None,1,2024-05-21
+PT1613,71,Other,Drug B,149,101,125,Completed,Moderate,1,2024-07-20
+PT1614,65,Male,Drug A,121,96,202,Completed,Mild,3,2025-02-22
+PT1615,42,Female,Drug B,110,110,190,Completed,None,4,2025-05-06
+PT1616,57,Other,Drug A,104,110,196,Completed,Mild,3,2024-09-18
+PT1617,62,Male,Placebo,103,134,175,Completed,None,2,2025-03-11
+PT1618,70,Female,Drug A,138,146,211,Completed,Severe,5,2025-05-08
+PT1619,18,Female,Drug A,97,92,145,Completed,Mild,3,2024-10-18
+PT1620,33,Female,Drug A,138,154,212,Completed,None,3,2025-03-19
+PT1621,78,Female,Placebo,106,99,176,Withdrawn,None,5,2025-01-27
+PT1622,56,Female,Drug B,109,118,184,Completed,Mild,1,2025-04-12
+PT1623,22,Female,Drug B,117,125,213,Completed,None,5,2025-02-21
+PT1624,39,Female,Placebo,109,163,202,Completed,None,4,2025-03-22
+PT1625,46,Female,Drug A,133,104,231,Completed,None,5,2024-08-16
+PT1626,72,Female,Drug B,147,79,170,Completed,None,1,2024-08-23
+PT1627,20,Female,Placebo,110,144,197,Completed,None,5,2024-07-12
+PT1628,29,Male,Drug B,113,98,226,Missed,None,3,2025-03-13
+PT1629,43,Male,Placebo,117,107,210,Completed,None,2,2025-02-08
+PT1630,33,Male,Drug A,128,92,212,Completed,Mild,3,2024-06-22
+PT1631,68,Male,Drug B,117,107,233,Missed,None,2,2024-10-07
+PT1632,54,Male,Placebo,140,98,187,Missed,None,5,2025-04-15
+PT1633,39,Female,Drug B,137,128,181,Completed,None,4,2024-05-27
+PT1634,74,Male,Drug B,102,116,217,Missed,None,5,2025-04-10
+PT1635,46,Female,Drug B,127,101,195,Completed,None,1,2024-11-10
+PT1636,31,Male,Drug B,142,134,233,Missed,None,5,2024-08-06
+PT1637,45,Female,Placebo,112,120,211,Completed,None,2,2024-07-28
+PT1638,22,Other,Drug A,115,78,181,Completed,Moderate,3,2025-03-25
+PT1639,64,Male,Placebo,112,133,210,Completed,Mild,4,2025-05-03
+PT1640,66,Female,Placebo,112,118,172,Completed,Mild,5,2024-11-06
+PT1641,47,Male,Placebo,94,142,228,Completed,Mild,5,2024-09-24
+PT1642,63,Female,Drug A,100,117,158,Completed,Mild,3,2024-09-07
+PT1643,79,Male,Drug B,121,99,236,Completed,None,4,2025-03-26
+PT1644,69,Female,Drug B,142,110,209,Completed,Mild,5,2025-03-16
+PT1645,22,Male,Drug B,110,131,195,Completed,None,5,2025-04-15
+PT1646,29,Female,Drug A,110,99,222,Completed,Mild,2,2024-08-08
+PT1647,33,Female,Drug B,145,106,215,Completed,Mild,2,2024-08-06
+PT1648,43,Male,Drug A,103,110,239,Completed,None,1,2024-05-21
+PT1649,43,Male,Drug B,95,92,239,Missed,None,3,2025-01-23
+PT1650,65,Male,Drug B,107,99,210,Completed,None,4,2024-07-26
+PT1651,38,Male,Placebo,110,118,173,Completed,Mild,5,2024-10-13
+PT1652,56,Female,Drug A,93,139,183,Completed,Mild,5,2024-09-16
+PT1653,53,Male,Placebo,118,121,197,Completed,Moderate,1,2024-08-28
+PT1654,50,Male,Placebo,134,114,232,Completed,None,5,2025-04-12
+PT1655,79,Male,Placebo,100,98,186,Completed,Mild,3,2024-06-07
+PT1656,47,Female,Drug A,121,136,188,Missed,None,1,2025-03-08
+PT1657,54,Male,Drug A,125,123,255,Completed,Moderate,3,2024-08-28
+PT1658,40,Male,Drug B,118,100,196,Completed,None,1,2024-09-25
+PT1659,75,Male,Placebo,122,132,180,Completed,None,5,2025-01-16
+PT1660,27,Male,Drug B,122,126,223,Missed,None,1,2024-11-25
+PT1661,71,Female,Placebo,107,98,198,Completed,Mild,2,2024-10-14
+PT1662,22,Male,Drug A,142,112,158,Completed,Severe,4,2025-01-30
+PT1663,53,Male,Drug A,138,105,231,Completed,None,5,2025-04-04
+PT1664,51,Female,Drug A,137,167,177,Completed,None,4,2024-12-06
+PT1665,69,Female,Placebo,135,125,201,Completed,Moderate,5,2024-09-17
+PT1666,48,Male,Drug A,96,118,197,Completed,None,4,2025-05-11
+PT1667,27,Female,Placebo,133,124,206,Missed,Mild,2,2024-05-22
+PT1668,75,Female,Drug B,129,142,134,Completed,None,4,2024-06-25
+PT1669,36,Male,Placebo,96,113,189,Completed,None,1,2025-04-17
+PT1670,75,Female,Drug B,116,103,233,Completed,Mild,4,2024-08-21
+PT1671,49,Female,Placebo,124,131,237,Completed,Mild,5,2024-07-20
+PT1672,18,Male,Drug B,144,111,170,Completed,None,3,2024-12-23
+PT1673,73,Male,Drug A,130,93,227,Completed,None,4,2024-08-23
+PT1674,22,Male,Drug B,107,89,177,Completed,Moderate,4,2024-05-26
+PT1675,62,Female,Drug A,145,145,188,Completed,None,4,2024-06-23
+PT1676,21,Other,Drug A,120,117,190,Completed,Moderate,5,2024-12-29
+PT1677,33,Female,Drug B,116,103,203,Completed,None,4,2024-10-27
+PT1678,41,Male,Placebo,115,110,230,Missed,None,5,2024-09-23
+PT1679,33,Female,Placebo,95,131,207,Completed,Moderate,5,2025-02-18
+PT1680,72,Female,Placebo,118,109,196,Completed,Mild,3,2025-03-13
+PT1681,19,Male,Placebo,127,86,229,Completed,None,1,2024-09-10
+PT1682,66,Male,Placebo,114,121,175,Completed,Mild,5,2024-10-28
+PT1683,45,Female,Drug A,126,139,197,Missed,None,2,2025-01-02
+PT1684,49,Male,Placebo,107,137,229,Completed,None,4,2024-11-26
+PT1685,44,Female,Drug A,117,103,215,Completed,Severe,2,2024-06-25
+PT1686,37,Male,Drug A,124,140,186,Completed,Mild,4,2024-10-08
+PT1687,41,Male,Drug A,122,119,154,Completed,Mild,3,2025-04-26
+PT1688,29,Male,Drug B,95,139,209,Completed,None,5,2024-12-21
+PT1689,67,Male,Drug B,113,126,152,Completed,None,1,2024-07-24
+PT1690,52,Female,Drug A,145,84,193,Missed,None,5,2024-08-18
+PT1691,77,Male,Drug B,112,149,235,Withdrawn,None,4,2024-05-29
+PT1692,50,Female,Placebo,120,116,217,Completed,Mild,1,2025-02-11
+PT1693,50,Female,Placebo,118,126,139,Completed,None,5,2024-10-28
+PT1694,78,Female,Drug A,143,88,206,Withdrawn,Moderate,1,2024-05-12
+PT1695,68,Male,Placebo,139,125,190,Completed,None,4,2024-11-29
+PT1696,60,Female,Drug A,132,137,161,Completed,None,3,2025-05-06
+PT1697,54,Female,Drug A,105,153,210,Completed,None,3,2025-03-21
+PT1698,29,Male,Placebo,125,143,185,Missed,None,5,2024-12-07
+PT1699,20,Male,Drug B,128,126,185,Missed,None,2,2025-02-02
+PT1700,18,Female,Placebo,109,84,203,Completed,Severe,4,2025-02-15
+PT1701,50,Other,Placebo,106,117,181,Completed,None,5,2025-05-12
+PT1702,57,Male,Drug A,145,103,202,Completed,Moderate,5,2025-02-24
+PT1703,27,Female,Drug A,115,119,182,Completed,None,3,2025-02-22
+PT1704,60,Female,Drug A,144,90,183,Completed,Severe,1,2025-01-27
+PT1705,61,Female,Drug A,134,110,229,Completed,None,4,2024-07-27
+PT1706,46,Other,Drug B,126,104,232,Completed,Moderate,1,2024-09-30
+PT1707,30,Female,Drug B,126,104,148,Missed,None,4,2024-10-26
+PT1708,29,Male,Drug B,98,104,222,Completed,Mild,2,2024-06-08
+PT1709,48,Male,Drug A,123,112,241,Completed,Moderate,3,2025-01-24
+PT1710,63,Male,Drug A,141,120,246,Completed,None,2,2025-05-04
+PT1711,19,Female,Drug A,130,65,215,Completed,None,5,2024-09-17
+PT1712,78,Female,Drug B,122,67,168,Completed,None,3,2025-01-09
+PT1713,68,Male,Drug A,145,108,218,Withdrawn,Moderate,5,2024-09-10
+PT1714,67,Female,Placebo,117,111,173,Missed,None,2,2025-01-24
+PT1715,52,Female,Placebo,110,118,189,Completed,None,4,2025-04-06
+PT1716,40,Female,Drug A,122,100,211,Completed,None,5,2024-06-29
+PT1717,34,Male,Placebo,131,115,175,Withdrawn,None,1,2025-02-15
+PT1718,43,Female,Placebo,94,117,165,Completed,Moderate,4,2025-04-26
+PT1719,25,Male,Drug B,124,100,213,Completed,None,4,2024-09-05
+PT1720,46,Male,Drug A,132,135,256,Completed,Mild,2,2024-11-24
+PT1721,43,Male,Drug A,115,118,237,Withdrawn,Moderate,2,2024-09-09
+PT1722,27,Male,Drug B,136,125,221,Completed,None,3,2025-01-25
+PT1723,43,Male,Placebo,129,116,229,Completed,Mild,3,2024-10-17
+PT1724,79,Female,Placebo,152,157,219,Withdrawn,None,1,2024-09-15
+PT1725,51,Male,Drug A,108,126,213,Completed,Mild,4,2024-10-15
+PT1726,68,Female,Placebo,132,105,226,Completed,None,1,2025-02-06
+PT1727,58,Male,Drug B,104,131,158,Completed,Mild,1,2024-09-03
+PT1728,24,Female,Drug B,95,82,205,Missed,None,2,2024-12-13
+PT1729,21,Other,Drug A,89,117,197,Completed,None,1,2024-06-30
+PT1730,75,Male,Drug B,128,121,202,Withdrawn,None,1,2024-07-25
+PT1731,70,Male,Drug B,122,117,186,Completed,None,5,2024-10-22
+PT1732,67,Male,Drug A,112,108,215,Completed,Mild,3,2025-01-25
+PT1733,62,Female,Drug B,93,94,175,Withdrawn,None,3,2025-05-12
+PT1734,28,Female,Drug B,109,99,183,Completed,Mild,4,2024-10-06
+PT1735,46,Male,Drug B,120,117,180,Completed,None,3,2025-01-30
+PT1736,73,Female,Placebo,131,92,225,Completed,Mild,4,2025-02-26
+PT1737,53,Male,Drug A,119,150,199,Completed,None,5,2025-04-27
+PT1738,42,Male,Drug A,123,62,186,Completed,None,3,2024-07-18
+PT1739,38,Female,Drug A,114,108,188,Completed,None,5,2025-01-06
+PT1740,78,Male,Placebo,146,117,200,Completed,Mild,3,2024-12-19
+PT1741,74,Female,Placebo,104,125,248,Missed,None,3,2024-09-05
+PT1742,53,Male,Drug A,109,96,162,Completed,Moderate,5,2024-10-16
+PT1743,27,Other,Placebo,112,137,220,Withdrawn,Moderate,1,2024-12-10
+PT1744,54,Male,Drug A,128,87,214,Completed,None,1,2025-03-31
+PT1745,26,Male,Placebo,104,103,173,Completed,Mild,1,2024-05-12
+PT1746,41,Female,Drug B,122,127,244,Completed,None,1,2024-09-07
+PT1747,52,Male,Drug B,122,135,216,Completed,None,3,2024-08-31
+PT1748,66,Other,Drug A,109,86,184,Completed,Mild,2,2024-08-01
+PT1749,52,Female,Placebo,124,167,144,Completed,Mild,5,2024-10-25
+PT1750,65,Female,Placebo,104,97,206,Withdrawn,Mild,2,2025-03-13
+PT1751,53,Female,Drug B,103,88,198,Withdrawn,None,2,2024-12-23
+PT1752,35,Female,Drug B,121,125,169,Completed,None,4,2025-01-02
+PT1753,66,Female,Placebo,95,108,168,Missed,None,1,2025-01-21
+PT1754,56,Female,Placebo,87,105,226,Completed,Mild,3,2024-09-14
+PT1755,49,Female,Placebo,127,126,141,Completed,None,1,2024-11-08
+PT1756,41,Male,Placebo,135,84,209,Missed,Mild,1,2024-10-30
+PT1757,40,Male,Placebo,112,80,194,Completed,None,2,2024-10-30
+PT1758,79,Female,Placebo,109,103,214,Completed,None,4,2025-01-29
+PT1759,49,Male,Drug A,135,136,191,Completed,None,1,2024-08-02
+PT1760,54,Female,Placebo,102,103,208,Completed,None,5,2024-11-26
+PT1761,29,Male,Drug B,99,146,177,Completed,None,5,2024-11-11
+PT1762,66,Male,Drug A,130,139,198,Completed,Moderate,1,2025-03-16
+PT1763,72,Female,Placebo,120,120,214,Withdrawn,Moderate,2,2025-04-26
+PT1764,30,Female,Drug B,135,121,204,Completed,None,2,2025-03-17
+PT1765,40,Male,Drug A,87,120,211,Completed,None,3,2025-02-21
+PT1766,42,Female,Drug B,98,118,172,Completed,None,4,2024-07-16
+PT1767,52,Female,Placebo,120,107,182,Completed,Moderate,2,2025-01-22
+PT1768,58,Male,Placebo,126,109,182,Completed,None,3,2024-06-13
+PT1769,47,Female,Placebo,132,93,191,Completed,Moderate,5,2024-08-30
+PT1770,34,Male,Placebo,122,70,240,Missed,None,5,2024-11-28
+PT1771,66,Male,Drug A,122,137,189,Withdrawn,None,5,2025-01-24
+PT1772,79,Other,Drug A,114,118,165,Missed,Moderate,1,2025-01-12
+PT1773,37,Male,Drug B,143,115,216,Missed,None,4,2025-01-07
+PT1774,65,Female,Placebo,103,122,240,Completed,None,3,2024-09-19
+PT1775,42,Female,Drug B,125,98,162,Missed,None,4,2024-06-17
+PT1776,39,Male,Drug A,105,94,259,Completed,None,1,2025-03-25
+PT1777,30,Female,Placebo,128,109,212,Completed,None,3,2025-02-27
+PT1778,76,Female,Placebo,104,142,231,Completed,Mild,3,2024-08-11
+PT1779,36,Male,Drug A,131,91,244,Completed,Mild,2,2025-01-28
+PT1780,66,Female,Drug A,121,62,229,Completed,None,4,2024-09-09
+PT1781,53,Female,Drug A,146,104,196,Withdrawn,Moderate,4,2024-08-07
+PT1782,29,Female,Drug A,115,137,236,Completed,None,2,2025-03-21
+PT1783,78,Female,Drug A,126,80,207,Completed,None,5,2024-07-28
+PT1784,58,Male,Placebo,108,91,232,Completed,None,1,2024-07-08
+PT1785,36,Female,Drug A,115,120,235,Completed,None,4,2024-05-21
+PT1786,29,Female,Placebo,121,166,167,Completed,None,2,2024-05-29
+PT1787,26,Female,Placebo,97,87,223,Completed,Severe,3,2024-08-15
+PT1788,24,Female,Drug A,98,87,194,Completed,None,2,2024-11-12
+PT1789,45,Female,Drug A,128,121,204,Completed,None,5,2025-01-04
+PT1790,31,Female,Placebo,117,139,203,Completed,None,1,2025-04-07
+PT1791,48,Female,Drug A,111,102,202,Completed,Mild,5,2025-03-06
+PT1792,69,Female,Drug A,108,82,245,Completed,Moderate,3,2024-06-09
+PT1793,36,Female,Drug A,109,123,159,Completed,None,3,2024-11-04
+PT1794,75,Female,Drug B,121,127,148,Completed,None,3,2024-10-19
+PT1795,64,Female,Placebo,126,150,142,Completed,None,3,2025-04-21
+PT1796,33,Male,Drug B,88,128,232,Completed,None,2,2025-01-11
+PT1797,70,Male,Drug A,141,131,176,Completed,None,3,2024-12-21
+PT1798,22,Male,Drug B,140,109,203,Completed,None,3,2024-07-26
+PT1799,52,Female,Drug A,85,163,196,Completed,None,2,2025-02-14
+PT1800,29,Female,Drug B,136,107,173,Completed,None,3,2025-02-06
+PT1801,42,Female,Drug A,135,102,225,Completed,None,5,2024-10-08
+PT1802,69,Male,Drug B,120,151,196,Withdrawn,Moderate,5,2024-11-19
+PT1803,76,Female,Drug B,100,85,192,Missed,Moderate,4,2024-10-14
+PT1804,38,Male,Drug B,135,78,206,Completed,None,5,2024-08-14
+PT1805,53,Male,Placebo,116,117,221,Completed,None,1,2024-07-08
+PT1806,70,Female,Drug B,128,114,171,Completed,None,1,2025-01-21
+PT1807,40,Female,Placebo,153,110,226,Withdrawn,None,1,2025-02-03
+PT1808,33,Male,Drug A,123,134,243,Withdrawn,Mild,2,2024-05-14
+PT1809,74,Male,Drug B,106,96,157,Completed,None,5,2025-04-23
+PT1810,56,Male,Drug A,114,116,208,Missed,Moderate,1,2025-02-27
+PT1811,62,Male,Drug A,108,107,190,Completed,Moderate,4,2025-04-11
+PT1812,70,Female,Drug B,126,97,220,Completed,None,2,2025-03-07
+PT1813,59,Male,Placebo,107,113,163,Completed,None,4,2025-04-20
+PT1814,75,Female,Drug B,112,132,248,Completed,None,5,2024-06-22
+PT1815,56,Female,Drug A,100,157,151,Withdrawn,None,3,2025-03-10
+PT1816,31,Male,Drug A,118,126,192,Completed,None,4,2024-10-24
+PT1817,48,Male,Drug B,122,64,213,Completed,None,3,2024-08-04
+PT1818,75,Male,Placebo,79,114,179,Withdrawn,Moderate,2,2024-07-19
+PT1819,22,Male,Placebo,123,115,174,Withdrawn,None,4,2025-03-20
+PT1820,52,Male,Drug A,119,133,206,Completed,None,4,2025-02-06
+PT1821,40,Female,Drug A,108,118,202,Completed,Mild,2,2024-11-29
+PT1822,46,Male,Placebo,150,140,200,Completed,Mild,2,2024-11-08
+PT1823,60,Other,Drug B,134,122,225,Completed,None,1,2024-05-31
+PT1824,28,Male,Drug A,103,146,188,Withdrawn,Moderate,5,2024-12-14
+PT1825,35,Female,Placebo,132,106,209,Withdrawn,None,4,2024-08-16
+PT1826,64,Female,Drug A,138,117,184,Completed,None,4,2025-05-03
+PT1827,29,Female,Drug B,121,131,174,Completed,None,2,2025-04-06
+PT1828,26,Female,Placebo,125,103,191,Completed,None,2,2024-06-28
+PT1829,27,Female,Drug A,125,99,185,Withdrawn,Moderate,5,2024-11-05
+PT1830,75,Female,Drug B,88,102,186,Completed,Mild,2,2024-07-02
+PT1831,61,Female,Drug A,117,100,234,Completed,Moderate,3,2025-03-19
+PT1832,34,Female,Drug B,116,125,192,Completed,None,3,2024-11-08
+PT1833,78,Male,Drug B,141,78,180,Completed,None,3,2025-01-26
+PT1834,55,Male,Placebo,125,83,200,Completed,None,3,2024-12-04
+PT1835,24,Female,Drug B,115,152,203,Completed,None,5,2024-12-15
+PT1836,63,Female,Drug A,118,100,164,Withdrawn,Mild,4,2024-12-29
+PT1837,30,Female,Drug B,135,119,191,Withdrawn,Mild,3,2024-09-12
+PT1838,57,Female,Drug B,117,85,189,Completed,None,2,2025-03-01
+PT1839,59,Other,Placebo,109,116,194,Completed,None,3,2025-04-23
+PT1840,26,Male,Drug B,115,100,221,Completed,None,5,2024-10-30
+PT1841,67,Male,Drug B,134,83,204,Completed,None,2,2025-01-04
+PT1842,44,Male,Drug A,127,141,236,Completed,None,3,2025-03-24
+PT1843,75,Male,Placebo,120,138,199,Withdrawn,None,4,2025-02-15
+PT1844,19,Female,Placebo,122,112,253,Completed,None,2,2025-04-23
+PT1845,22,Male,Placebo,111,134,186,Completed,None,2,2024-11-24
+PT1846,46,Female,Drug B,117,153,176,Withdrawn,None,4,2024-10-24
+PT1847,54,Male,Placebo,110,130,216,Withdrawn,None,2,2025-03-30
+PT1848,55,Female,Drug B,115,124,240,Completed,Mild,3,2025-04-29
+PT1849,36,Female,Drug B,140,118,158,Completed,None,2,2024-12-10
+PT1850,25,Male,Drug A,103,127,194,Completed,Severe,3,2024-11-01
+PT1851,65,Female,Drug A,109,107,181,Completed,None,4,2025-04-25
+PT1852,62,Male,Drug A,101,109,204,Completed,None,1,2024-07-12
+PT1853,18,Male,Drug A,97,124,200,Completed,None,4,2025-02-24
+PT1854,39,Male,Drug A,117,105,240,Withdrawn,None,3,2025-04-11
+PT1855,69,Male,Drug B,110,107,196,Completed,Moderate,5,2024-11-12
+PT1856,34,Male,Drug B,146,115,241,Completed,None,4,2024-11-02
+PT1857,24,Female,Placebo,115,138,190,Completed,Moderate,5,2024-08-20
+PT1858,42,Female,Drug B,139,92,227,Completed,Moderate,5,2025-02-27
+PT1859,62,Female,Drug B,134,130,206,Missed,None,3,2024-08-16
+PT1860,21,Male,Drug A,116,130,251,Completed,None,3,2025-04-03
+PT1861,53,Female,Drug B,151,130,155,Completed,Mild,1,2025-01-14
+PT1862,23,Male,Drug A,124,98,165,Completed,None,2,2024-08-27
+PT1863,77,Male,Placebo,142,81,254,Completed,Mild,4,2025-03-05
+PT1864,48,Female,Placebo,140,126,178,Completed,None,3,2025-03-10
+PT1865,36,Male,Drug B,126,118,179,Completed,None,4,2024-11-30
+PT1866,78,Female,Placebo,131,135,173,Completed,None,5,2024-11-16
+PT1867,61,Female,Drug B,129,100,234,Completed,None,2,2025-01-10
+PT1868,71,Male,Placebo,102,130,162,Completed,Moderate,1,2024-08-12
+PT1869,56,Male,Drug A,120,136,200,Withdrawn,None,4,2024-08-26
+PT1870,44,Male,Drug A,136,113,192,Withdrawn,Moderate,2,2024-10-29
+PT1871,27,Female,Drug A,142,123,231,Completed,None,1,2024-06-11
+PT1872,43,Male,Drug A,109,122,183,Completed,None,4,2025-02-13
+PT1873,36,Male,Drug B,127,98,212,Completed,None,2,2024-08-30
+PT1874,56,Male,Placebo,122,125,164,Completed,None,3,2024-08-11
+PT1875,79,Female,Drug B,118,147,268,Completed,None,4,2024-08-25
+PT1876,20,Male,Drug A,125,115,192,Withdrawn,None,2,2024-09-19
+PT1877,62,Male,Drug B,123,85,200,Withdrawn,Moderate,1,2024-09-13
+PT1878,30,Female,Placebo,128,101,249,Completed,None,2,2025-04-23
+PT1879,67,Female,Drug B,141,79,182,Completed,None,3,2024-12-07
+PT1880,45,Male,Placebo,131,140,250,Missed,Moderate,4,2024-06-12
+PT1881,79,Male,Drug B,124,130,187,Missed,Mild,4,2024-07-04
+PT1882,75,Male,Placebo,147,104,220,Completed,None,4,2024-07-09
+PT1883,37,Female,Placebo,136,86,182,Completed,None,3,2024-08-09
+PT1884,45,Male,Drug A,118,98,159,Completed,Moderate,1,2024-10-07
+PT1885,25,Female,Placebo,101,102,212,Completed,None,4,2025-02-05
+PT1886,78,Female,Drug A,105,117,219,Completed,None,1,2024-07-10
+PT1887,58,Female,Drug A,133,116,160,Completed,None,2,2025-02-10
+PT1888,56,Male,Drug A,110,141,190,Completed,Moderate,1,2024-08-03
+PT1889,18,Female,Drug B,104,101,236,Completed,None,1,2024-06-05
+PT1890,20,Female,Drug B,108,84,218,Completed,Severe,4,2024-10-20
+PT1891,30,Female,Drug B,109,91,188,Completed,None,5,2024-10-17
+PT1892,45,Male,Drug B,132,114,182,Missed,Mild,5,2024-09-17
+PT1893,79,Other,Placebo,117,100,258,Missed,None,3,2024-12-08
+PT1894,74,Male,Placebo,99,109,156,Completed,None,3,2024-11-08
+PT1895,77,Male,Drug B,120,105,198,Completed,Moderate,5,2024-10-20
+PT1896,66,Male,Placebo,123,134,156,Withdrawn,None,2,2024-06-05
+PT1897,42,Female,Placebo,112,103,239,Completed,None,4,2024-07-31
+PT1898,73,Male,Drug A,137,107,199,Completed,None,4,2025-03-31
+PT1899,50,Male,Drug A,113,129,205,Completed,None,2,2024-10-22
+PT1900,55,Male,Drug A,136,103,283,Completed,None,2,2024-10-10
+PT1901,70,Male,Drug A,128,123,182,Completed,Mild,5,2025-04-28
+PT1902,23,Female,Placebo,133,121,252,Withdrawn,None,3,2025-03-06
+PT1903,75,Female,Drug B,103,117,188,Completed,None,2,2024-12-24
+PT1904,61,Male,Placebo,121,92,192,Completed,None,3,2025-02-06
+PT1905,62,Male,Placebo,119,139,279,Withdrawn,Mild,1,2024-05-19
+PT1906,49,Female,Placebo,98,159,195,Completed,Mild,4,2025-04-09
+PT1907,62,Male,Drug A,136,115,158,Completed,None,5,2025-04-19
+PT1908,78,Male,Drug A,107,94,208,Completed,None,4,2025-03-05
+PT1909,64,Other,Drug A,110,115,194,Completed,Moderate,5,2024-12-21
+PT1910,38,Female,Drug B,104,134,211,Completed,None,1,2024-10-06
+PT1911,33,Male,Placebo,130,102,195,Completed,Moderate,4,2024-11-13
+PT1912,71,Female,Drug B,97,112,266,Completed,Moderate,1,2024-05-14
+PT1913,38,Male,Drug A,129,121,216,Completed,Mild,5,2024-09-25
+PT1914,28,Female,Drug B,135,139,167,Completed,None,2,2024-09-04
+PT1915,77,Male,Placebo,128,130,203,Completed,Moderate,4,2025-02-28
+PT1916,54,Male,Placebo,130,131,176,Completed,Mild,1,2024-10-10
+PT1917,53,Male,Drug A,131,106,192,Completed,None,4,2025-04-08
+PT1918,52,Female,Drug A,105,123,172,Completed,None,4,2025-04-23
+PT1919,36,Female,Drug B,141,100,263,Withdrawn,None,4,2025-04-01
+PT1920,37,Male,Drug A,113,131,179,Completed,None,3,2024-10-21
+PT1921,74,Male,Drug A,119,138,220,Completed,None,1,2024-12-07
+PT1922,35,Female,Placebo,115,126,190,Completed,None,1,2025-02-26
+PT1923,64,Male,Drug A,127,107,165,Completed,None,4,2025-02-21
+PT1924,58,Male,Drug A,111,110,205,Completed,None,2,2024-12-10
+PT1925,66,Other,Placebo,121,151,212,Missed,None,4,2025-03-18
+PT1926,31,Male,Placebo,101,107,216,Missed,Mild,3,2025-01-01
+PT1927,32,Female,Drug B,137,135,121,Completed,Moderate,5,2025-04-25
+PT1928,48,Other,Drug A,130,121,162,Completed,None,3,2024-08-05
+PT1929,18,Male,Placebo,115,108,228,Completed,None,2,2024-11-17
+PT1930,70,Male,Drug B,112,88,172,Completed,None,4,2024-08-05
+PT1931,71,Male,Drug B,129,119,206,Completed,Mild,1,2024-08-25
+PT1932,71,Female,Drug A,109,116,162,Completed,Mild,4,2024-10-28
+PT1933,20,Female,Drug A,121,151,221,Missed,Moderate,2,2024-11-16
+PT1934,33,Female,Drug B,137,97,227,Completed,None,1,2024-05-23
+PT1935,40,Male,Placebo,107,160,221,Completed,Severe,3,2024-10-10
+PT1936,74,Female,Drug B,125,122,230,Completed,None,5,2024-09-19
+PT1937,28,Female,Drug A,124,122,246,Completed,Mild,5,2025-01-26
+PT1938,29,Female,Placebo,118,103,164,Completed,None,4,2025-01-30
+PT1939,27,Female,Placebo,112,121,176,Missed,Moderate,3,2025-03-17
+PT1940,49,Female,Drug B,138,124,226,Completed,None,2,2024-10-16
+PT1941,33,Female,Drug A,111,133,233,Completed,Mild,5,2025-02-17
+PT1942,25,Female,Drug B,92,95,179,Completed,Moderate,3,2024-07-15
+PT1943,55,Male,Drug B,129,143,177,Completed,None,4,2025-04-03
+PT1944,29,Male,Drug B,101,122,180,Withdrawn,None,1,2024-11-09
+PT1945,41,Female,Placebo,130,127,151,Completed,Moderate,4,2025-05-04
+PT1946,45,Male,Placebo,140,110,161,Completed,None,4,2024-06-30
+PT1947,70,Female,Drug A,129,96,162,Withdrawn,None,3,2025-01-08
+PT1948,25,Other,Drug A,136,116,191,Completed,None,5,2024-12-05
+PT1949,75,Female,Drug B,150,118,208,Completed,None,3,2024-05-22
+PT1950,45,Male,Drug B,134,87,213,Completed,None,1,2025-04-29
+PT1951,53,Male,Drug B,124,130,184,Missed,None,3,2024-10-12
+PT1952,43,Male,Drug A,144,134,185,Completed,None,2,2024-12-27
+PT1953,25,Female,Placebo,146,100,203,Completed,None,4,2024-12-17
+PT1954,75,Female,Placebo,146,94,155,Completed,Moderate,5,2025-01-24
+PT1955,77,Female,Drug B,112,108,228,Completed,Severe,1,2024-05-22
+PT1956,67,Male,Drug B,99,115,238,Completed,Mild,4,2024-06-13
+PT1957,45,Female,Drug B,111,109,181,Completed,None,3,2025-01-16
+PT1958,45,Female,Drug B,130,113,188,Completed,Moderate,2,2024-10-25
+PT1959,54,Male,Drug A,122,119,237,Completed,None,3,2024-07-03
+PT1960,58,Female,Placebo,116,87,196,Completed,None,4,2025-04-13
+PT1961,53,Male,Drug B,128,89,217,Completed,Moderate,1,2024-11-07
+PT1962,44,Male,Drug A,97,60,197,Missed,Mild,5,2024-07-21
+PT1963,71,Female,Drug B,122,133,246,Completed,Mild,4,2024-05-31
+PT1964,34,Male,Drug B,136,115,214,Completed,Mild,1,2024-08-21
+PT1965,26,Female,Placebo,128,135,216,Completed,None,4,2024-10-06
+PT1966,50,Female,Drug B,130,92,216,Completed,None,2,2024-09-16
+PT1967,70,Female,Placebo,143,115,183,Withdrawn,Mild,3,2024-08-02
+PT1968,37,Male,Placebo,119,119,186,Missed,None,5,2024-11-04
+PT1969,30,Female,Placebo,110,103,223,Missed,None,1,2024-09-15
+PT1970,45,Female,Drug A,137,83,203,Completed,Mild,5,2024-09-20
+PT1971,65,Female,Drug A,137,149,164,Completed,Mild,5,2025-03-03
+PT1972,46,Male,Placebo,128,142,256,Completed,None,5,2025-04-18
+PT1973,30,Male,Drug B,117,107,229,Completed,Mild,1,2024-10-06
+PT1974,63,Female,Placebo,120,125,201,Completed,Moderate,1,2024-08-28
+PT1975,52,Male,Drug B,100,105,191,Withdrawn,Mild,5,2025-02-28
+PT1976,78,Female,Placebo,136,95,205,Completed,None,3,2025-03-31
+PT1977,23,Female,Drug B,136,151,215,Completed,None,4,2024-10-22
+PT1978,35,Female,Drug A,100,81,139,Completed,None,5,2024-08-17
+PT1979,68,Female,Drug B,133,109,263,Withdrawn,None,2,2025-04-01
+PT1980,22,Female,Placebo,126,116,176,Completed,None,5,2024-06-12
+PT1981,64,Female,Drug A,104,148,199,Completed,None,1,2024-11-10
+PT1982,42,Female,Drug B,101,132,201,Withdrawn,None,4,2024-05-19
+PT1983,19,Female,Drug B,125,81,259,Completed,Moderate,2,2025-02-26
+PT1984,27,Male,Drug B,114,114,197,Completed,None,4,2024-12-07
+PT1985,73,Male,Drug B,147,115,247,Completed,Mild,4,2024-06-01
+PT1986,47,Female,Drug B,134,110,212,Completed,Mild,2,2024-09-24
+PT1987,67,Male,Drug A,127,127,171,Missed,None,5,2024-08-07
+PT1988,76,Male,Drug A,127,86,204,Completed,Moderate,5,2025-01-19
+PT1989,62,Male,Drug A,139,106,196,Completed,None,5,2024-06-07
+PT1990,22,Female,Drug A,132,124,167,Completed,None,3,2025-03-11
+PT1991,72,Female,Placebo,127,128,210,Completed,Mild,5,2025-01-20
+PT1992,73,Female,Drug A,105,117,200,Completed,None,2,2024-05-27
+PT1993,50,Female,Drug B,165,109,216,Completed,Mild,3,2025-02-28
+PT1994,71,Female,Drug B,103,112,205,Completed,None,5,2024-05-24
+PT1995,18,Male,Drug A,115,129,180,Completed,Moderate,3,2024-08-16
+PT1996,35,Female,Drug B,95,115,223,Missed,None,2,2024-07-28
+PT1997,49,Male,Drug A,128,94,181,Completed,Mild,5,2025-04-02
+PT1998,64,Female,Drug B,122,90,107,Completed,None,1,2024-05-19
+PT1999,66,Female,Placebo,131,85,203,Completed,Mild,2,2025-01-08

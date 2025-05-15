@@ -1,0 +1,21 @@
+# Data Dictionary Summary
+
+## Features
+
+- **Customer_ID**: Unique identifier for each customer (String). Used for identification, not for modeling.
+- **Age**: Age of the customer (Integer). May influence churn likelihood.
+- **Gender**: Gender of the customer (Categorical: e.g., Male, Female, Other). Can be used for demographic analysis.
+- **Education_Level**: Highest level of education attained (Categorical: e.g., High School, Graduate, Postgraduate). May correlate with churn or product usage.
+- **Monthly_Spend**: Monthly spend in currency units (Float). Indicates customer value and engagement.
+- **Tenure_Years**: Number of years the customer has been with the service (Integer). Longer tenure may reduce churn risk.
+- **Support_Tickets_Raised**: Number of customer support tickets raised (Integer). High values may indicate dissatisfaction.
+- **City_Tier**: Tier of the city (1 = metro, 3 = small town) (Integer). Socioeconomic factor, may affect churn.
+- **Used_App_Last_Month**: Whether the customer used the app in the last month (Categorical: Yes/No). Indicates recent engagement.
+
+## Target Variable
+
+- **Customer_Churn**: 1 if customer churned, 0 otherwise (Binary). The target variable to predict.
+
+---
+
+This summary provides an overview of each feature and the target variable for the churn prediction task.
